@@ -1,0 +1,51 @@
+lich_su_id,user_id,book_id,ngay_bat_dau,ngay_ket_thuc,diem_danh_gia,review_text,trang_thai,phan_tram_hoan_thanh,sentiment
+1,1,2,2024-01-01,2024-01-10,1,Không hay lắm,Bỏ dở,52,Positive
+2,5,1,2024-01-01,2024-01-10,5,Đáng đọc,Bỏ dở,51,Negative
+3,7,8,2024-01-01,2024-01-10,1,Nội dung yếu,Đã đọc xong,15,Negative
+4,1,5,2024-01-01,2024-01-10,2,Không hay lắm,Đang đọc,57,Positive
+5,8,8,2024-01-01,2024-01-10,2,Không hay lắm,Đang đọc,97,Positive
+6,1,4,2024-01-01,2024-01-10,4,Rất hay,Bỏ dở,66,Positive
+7,5,10,2024-01-01,2024-01-10,3,Nội dung yếu,Chưa bắt đầu,55,Negative
+8,6,5,2024-01-01,2024-01-10,4,Đáng đọc,Bỏ dở,59,Negative
+9,6,1,2024-01-01,2024-01-10,5,Cực kỳ cuốn hút,Đã đọc xong,23,Positive
+10,10,5,2024-01-01,2024-01-10,1,Không hay lắm,Chưa bắt đầu,54,Positive
+11,2,10,2024-01-01,2024-01-10,4,Rất hay,Bỏ dở,69,Positive
+12,10,1,2024-01-01,2024-01-10,1,Không hay lắm,Đang đọc,52,Positive
+13,3,6,2024-01-01,2024-01-10,1,Hơi chán,Bỏ dở,92,Negative
+14,4,8,2024-01-01,2024-01-10,2,Nội dung yếu,Chưa bắt đầu,27,Negative
+15,5,3,2024-01-01,2024-01-10,4,Cực kỳ cuốn hút,Đã đọc xong,11,Positive
+16,3,7,2024-01-01,2024-01-10,2,Nội dung yếu,Bỏ dở,14,Negative
+17,6,6,2024-01-01,2024-01-10,4,Đáng đọc,Chưa bắt đầu,49,Negative
+18,9,8,2024-01-01,2024-01-10,4,Cực kỳ cuốn hút,Đã đọc xong,65,Positive
+19,3,10,2024-01-01,2024-01-10,4,Cực kỳ cuốn hút,Đã đọc xong,66,Positive
+20,7,1,2024-01-01,2024-01-10,5,Rất hay,Đã đọc xong,78,Positive
+21,3,7,2024-01-01,2024-01-10,2,Không hay lắm,Chưa bắt đầu,31,Positive
+22,5,8,2024-01-01,2024-01-10,1,Nội dung yếu,Đã đọc xong,91,Negative
+23,5,4,2024-01-01,2024-01-10,4,Đáng đọc,Đã đọc xong,83,Negative
+24,6,10,2024-01-01,2024-01-10,4,Cực kỳ cuốn hút,Bỏ dở,83,Positive
+25,6,10,2024-01-01,2024-01-10,2,Nội dung yếu,Bỏ dở,10,Negative
+26,6,10,2024-01-01,2024-01-10,1,Không hay lắm,Đã đọc xong,93,Positive
+27,4,7,2024-01-01,2024-01-10,1,Hơi chán,Đã đọc xong,30,Negative
+28,10,3,2024-01-01,2024-01-10,3,Không hay lắm,Đang đọc,11,Positive
+29,9,2,2024-01-01,2024-01-10,2,Hơi chán,Bỏ dở,69,Negative
+30,3,10,2024-01-01,2024-01-10,5,Đáng đọc,Đã đọc xong,88,Negative
+31,7,8,2024-01-01,2024-01-10,3,Không hay lắm,Bỏ dở,43,Positive
+32,7,3,2024-01-01,2024-01-10,1,Nội dung yếu,Bỏ dở,36,Negative
+33,5,8,2024-01-01,2024-01-10,1,Nội dung yếu,Đang đọc,34,Negative
+34,1,9,2024-01-01,2024-01-10,1,Không hay lắm,Chưa bắt đầu,17,Positive
+35,7,8,2024-01-01,2024-01-10,4,Cực kỳ cuốn hút,Đang đọc,97,Positive
+36,8,3,2024-01-01,2024-01-10,4,Đáng đọc,Đã đọc xong,41,Negative
+37,3,3,2024-01-01,2024-01-10,4,Đáng đọc,Đã đọc xong,14,Negative
+38,3,10,2024-01-01,2024-01-10,3,Nội dung yếu,Bỏ dở,15,Negative
+39,2,3,2024-01-01,2024-01-10,2,Hơi chán,Đang đọc,11,Negative
+40,9,2,2024-01-01,2024-01-10,4,Cực kỳ cuốn hút,Đã đọc xong,25,Positive
+41,7,2,2024-01-01,2024-01-10,4,Rất hay,Bỏ dở,47,Positive
+42,10,3,2024-01-01,2024-01-10,4,Cực kỳ cuốn hút,Đang đọc,52,Positive
+43,3,5,2024-01-01,2024-01-10,3,Không hay lắm,Đã đọc xong,96,Positive
+44,2,7,2024-01-01,2024-01-10,2,Nội dung yếu,Đã đọc xong,78,Negative
+45,6,10,2024-01-01,2024-01-10,1,Không hay lắm,Đang đọc,20,Positive
+46,6,9,2024-01-01,2024-01-10,1,Không hay lắm,Bỏ dở,94,Positive
+47,6,2,2024-01-01,2024-01-10,5,Cực kỳ cuốn hút,Bỏ dở,93,Positive
+48,7,4,2024-01-01,2024-01-10,2,Không hay lắm,Đã đọc xong,46,Positive
+49,7,6,2024-01-01,2024-01-10,3,Hơi chán,Đã đọc xong,32,Negative
+50,7,8,2024-01-01,2024-01-10,1,Không hay lắm,Chưa bắt đầu,96,Positive

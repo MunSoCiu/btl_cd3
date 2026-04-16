@@ -1,0 +1,11 @@
+preference_id,user_id,the_loai_yeu_thich,loai_sach,thoi_gian_doc,thiet_bi_doc,ngon_ngu,so_sach_muc_tieu_thang,ngan_sach_mua_sach_thang
+1,1,Kỹ năng,Truyện chữ,Sáng,Mobile,EN,7,920525
+2,2,Kỹ năng,Truyện chữ,Sáng,PC,VI,3,738809
+3,3,Kỹ năng,Truyện tranh,Sáng,Mobile,EN,10,266734
+4,4,Fantasy,Truyện tranh,Tối,Mobile,VI,4,206916
+5,5,Fantasy,Truyện tranh,Tối,Tablet,EN,10,126731
+6,6,Tài chính,Truyện chữ,Sáng,PC,EN,3,793539
+7,7,Kỹ năng,Truyện tranh,Sáng,PC,EN,5,809914
+8,8,Tài chính,Truyện chữ,Sáng,Mobile,VI,7,918189
+9,9,Tài chính,Truyện chữ,Sáng,Mobile,VI,1,182142
+10,10,Kỹ năng,Truyện chữ,Sáng,Mobile,VI,2,227026
