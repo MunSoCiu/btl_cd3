@@ -1,0 +1,47 @@
+=== BOOK DATA ANALYSIS REPORT ===
+
+Total records: 5071
+
+
+Top Genres:
+
+the_loai
+Self-help     918
+Business      857
+Fantasy       758
+Manga         559
+Literature    506
+Name: count, dtype: int64
+
+
+Rating Stats:
+
+count    5071.000000
+mean        4.156835
+std         0.521676
+min         3.010000
+25%         3.800000
+50%         4.100000
+75%         4.600000
+max         5.000000
+Name: rating_book, dtype: float64
+
+
+Top Users:
+
+user_id
+6     32
+2     30
+7     29
+10    27
+9     26
+Name: count, dtype: int64
+
+
+Time Series Metrics:
+
+     Model       MAE
+0   Linear  2.681137
+1    Naive  3.013652
+2    ARIMA       NaN
+3  Prophet  3.094899

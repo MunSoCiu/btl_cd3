@@ -1,0 +1,247 @@
+
+# 📊 Phân tích dữ liệu đọc sách
+
+## 1. Giới thiệu
+Notebook này thực hiện phân tích dữ liệu người dùng, sách và lịch sử đọc nhằm rút ra insight và xây dựng hệ gợi ý đơn giản.
+
+## 2. Import thư viện và load dữ liệu
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from datetime import datetime
+
+sns.set_theme(style="whitegrid", palette="Set2")
+
+users = pd.read_csv("../data/users.csv")
+books = pd.read_csv("../data/books.csv")
+history = pd.read_csv("../data/cleaned_reading_history.csv")
+
+print(users.shape, books.shape, history.shape)
+
+## 3. Khám phá dữ liệu (EDA)
+
+users.info()
+books.info()
+history.info()
+
+
+users.isnull().sum()
+books.isnull().sum()
+history.isnull().sum()
+
+## 4. Tiền xử lý dữ liệu
+
+users['ngay_sinh'] = pd.to_datetime(users['ngay_sinh'], errors='coerce')
+users['tuoi'] = datetime.now().year - users['ngay_sinh'].dt.year
+
+users['age_group'] = pd.cut(
+    users['tuoi'],
+    bins=[0,18,25,35,50],
+    labels=["<18","18-25","25-35","35+"]
+)
+
+history['ngay_bat_dau'] = pd.to_datetime(history['ngay_bat_dau'], errors='coerce')
+history = history.dropna(subset=['ngay_bat_dau'])
+
+## 5. Kết hợp dữ liệu
+
+df = history.merge(books, on="book_id").merge(users, on="user_id")
+
+df = df.rename(columns={
+    "diem_danh_gia_x": "rating_user",
+    "diem_danh_gia_y": "rating_book"
+})
+
+books_unique = df.drop_duplicates('book_id')
+df.head()
+
+## 6. Các chỉ số quan trọng (KPI)
+
+print("Tổng số user:", users['user_id'].nunique())
+print("Tổng số sách:", books['book_id'].nunique())
+print("Rating trung bình:", books_unique['rating_book'].mean())
+print("Số sách trung bình/user:", history.groupby('user_id')['book_id'].nunique().mean())
+
+## 7. Phân tích thể loại sách
+
+
+sns.countplot(data=books_unique, x="the_loai",
+              order=books_unique['the_loai'].value_counts().index)
+plt.xticks(rotation=30)
+plt.show()
+
+
+👉 Nhận xét: Manga là thể loại phổ biến nhất.
+
+
+## 8. Phân phối rating
+
+sns.histplot(books_unique['rating_book'], kde=True)
+plt.show()
+
+
+👉 Nhận xét: Phần lớn sách có rating cao (>4.0).
+
+
+## 9. Giá sách vs Rating
+
+sns.scatterplot(data=books_unique, x="gia_sach", y="rating_book")
+plt.show()
+
+
+👉 Nhận xét: Không có tương quan rõ ràng giữa giá và rating.
+
+## 10. Phân tích theo độ tuổi
+# ===== DEBUG CHUẨN =====
+
+print("USERS COLUMNS:", users.columns)
+print("BOOK_COUNT COLUMNS:", book_count.columns)
+
+print("\nUSER_ID TYPE:")
+print(users['user_id'].dtype, book_count['user_id'].dtype)
+
+# ===== FIX TYPE =====
+users['user_id'] = users['user_id'].astype(int)
+book_count['user_id'] = book_count['user_id'].astype(int)
+
+# ===== MERGE LẠI =====
+df_age = pd.merge(users, book_count, on='user_id', how='left')
+
+print("\nAFTER MERGE:")
+print(df_age.columns)
+
+df_age['so_luong_sach_da_mua'] = df_age['so_luong_sach_da_mua_y']
+
+# xóa cột dư
+df_age = df_age.drop(columns=[
+    'so_luong_sach_da_mua_x',
+    'so_luong_sach_da_mua_y'
+])
+
+print(df_age[['user_id','age_group','so_luong_sach_da_mua']].head())
+
+👉 Nhận xét: Nhóm tuổi 25–35 đọc nhiều sách nhất.
+
+
+## 11. Ma trận tương quan
+
+sns.heatmap(df[['tuoi','rating_book','gia_sach']].corr(), annot=True, cmap="coolwarm")
+plt.show()
+
+## 11. Recommendation System
+
+user_id = 1
+user_history = df[df['user_id']==user_id]
+
+fav_genre = user_history['the_loai'].mode()[0]
+
+read_books = user_history['book_id']
+
+recommend = books[
+    (books['the_loai']==fav_genre) &
+    (~books['book_id'].isin(read_books))
+].sort_values(by='diem_danh_gia', ascending=False).head(5)
+
+recommend[['ten_sach','the_loai','diem_danh_gia']]
+
+
+👉 Nhận xét: Gợi ý dựa trên thể loại yêu thích của người dùng.
+
+13. Chuẩn hóa pipeline theo project (src)
+# ===============================
+# 🔁 PIPELINE (TỪ SRC)
+# ===============================
+from src.preprocess import preprocess
+from src.build_dataset import build_dataset
+
+users2, books2, history2 = preprocess(users.copy(), books.copy(), history.copy())
+df2 = build_dataset(users2, books2, history2)
+
+print("Dataset mới:", df2.shape)
+df2.head()
+
+14. Recommendation nâng cấp 
+# ===============================
+# 🤖 RECOMMENDATION (ADVANCED)
+# ===============================
+from src.recommendation import build_user_profile, recommend_books
+
+user_top = build_user_profile(history2, books2)
+
+user_id = 1
+
+recs = recommend_books(user_id, user_top, books2, history2)
+
+recs[['ten_sach','the_loai','diem_danh_gia']]
+15. Time Series Analysis
+# ===============================
+# 📈 TIME SERIES
+# ===============================
+from src.time_series import run_time_series
+
+monthly_reads, daily_reads, period_reads, df_model, genre_stats = run_time_series(
+    history2, books2, df2
+)
+
+print("Monthly:")
+print(monthly_reads.head())
+
+print("\nModel:")
+df_model.head()
+16. Auto save chart + data + report
+# ===============================
+# 💾 SAVE OUTPUT
+# ===============================
+from src.save_charts import plot_all
+from src.save_data import save_data
+from src.generate_report import generate_report
+
+plot_all(df2, users2, books2, history2)
+save_data(df2)
+generate_report(df2)
+
+print("✅ Đã lưu toàn bộ output vào thư mục outputs/")
+17. Generate toàn bộ recommendation
+# ===============================
+# 🎯 SAVE ALL RECOMMENDATIONS
+# ===============================
+from src.save_recommendations import save_recommendations
+
+save_recommendations(users2, books2, history2)
+18. Chạy FULL pipeline
+# ===============================
+# 🚀 FULL PIPELINE (NHƯ MAIN)
+# ===============================
+from src.load_data import load_data
+from src.preprocess import preprocess
+from src.build_dataset import build_dataset
+from src.save_charts import plot_all
+from src.save_data import save_data
+from src.generate_report import generate_report
+from src.time_series import run_time_series
+
+users_p, books_p, history_p = load_data()
+
+users_p, books_p, history_p = preprocess(users_p, books_p, history_p)
+df_p = build_dataset(users_p, books_p, history_p)
+
+plot_all(df_p, users_p, books_p, history_p)
+monthly, daily, period, df_model, genre_stats = run_time_series(history_p, books_p, df_p)
+
+save_data(df_p, monthly, daily, period, df_model, genre_stats)
+generate_report(df_p)
+
+print("🔥 DONE FULL PIPELINE")
+
+## 19. Kết luận
+
+- Manga là thể loại phổ biến nhất  
+- Rating nhìn chung cao  
+- Nhóm tuổi 25–35 hoạt động mạnh  
+- Có thể xây dựng hệ gợi ý hiệu quả  
+
+## Hướng phát triển
+- Áp dụng Machine Learning  
+- Xây dựng hệ gợi ý nâng cao  

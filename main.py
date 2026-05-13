@@ -1,122 +1,65 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+import os
 
-# ===== STYLE HIỆN ĐẠI =====
-sns.set_theme(style="whitegrid", palette="Set2")
-plt.rcParams.update({
-    "figure.figsize": (10,6),
-    "axes.titlesize": 16,
-    "axes.labelsize": 12
-})
+from src.load_data import load_data
+from src.preprocess import preprocess, augment_users_realistic
+from src.build_dataset import build_dataset
 
-# ===== LOAD =====
-users = pd.read_csv("users.csv")
-books = pd.read_csv("books.csv")
-history = pd.read_csv("cleaned_reading_history.csv")
+from src.save_charts import plot_all
+from src.save_recommendations import save_recommendations
+from src.save_data import save_data
+from src.generate_report import generate_report
+from src.time_series import run_time_series
+from src.kpi import compute_kpi
+from src.preprocess import preprocess, augment_users_realistic, augment_books
 
-# ===== MERGE =====
-df = history.merge(books, on="book_id").merge(users, on="user_id")
 
-df = df.rename(columns={
-    "diem_danh_gia_x": "rating_user",
-    "diem_danh_gia_y": "rating_book"
-})
+def main():
+    print("🚀 START PIPELINE...\n")
 
-# ================= 1. GENRE (ĐẸP HƠN) =================
-plt.figure()
-sns.countplot(
-    data=df,
-    x="the_loai",
-    order=df['the_loai'].value_counts().index,
-    edgecolor="black"
-)
-plt.title("📚 Số lượt đọc theo thể loại")
-plt.xticks(rotation=30)
-plt.tight_layout()
-plt.savefig("modern_genre.png")
+    # ===== LOAD =====
+    users, books, history = load_data()
 
-# ================= 2. BOXPLOT =================
-plt.figure()
-sns.boxplot(
-    data=df,
-    x="the_loai",
-    y="rating_book",
-    palette="pastel"
-)
-sns.stripplot(
-    data=df,
-    x="the_loai",
-    y="rating_book",
-    color="black",
-    size=4,
-    alpha=0.5
-)
-plt.title("⭐ Phân bố rating theo thể loại")
-plt.xticks(rotation=30)
-plt.tight_layout()
-plt.savefig("modern_boxplot.png")
+    # ===== PREPROCESS =====
+    
+    users, books, history = preprocess(users, books, history)
+    
+    books = augment_books(books, 100)
+       
+    users, history = augment_users_realistic(users, books , history )
 
-# ================= 3. SCATTER PRO =================
-plt.figure()
-sns.scatterplot(
-    data=df,
-    x="gia_sach",
-    y="rating_book",
-    hue="the_loai",
-    size="rating_book",
-    sizes=(50,200),
-    alpha=0.8
-)
-plt.title("💰 Giá sách vs Rating")
-plt.tight_layout()
-plt.savefig("modern_scatter.png")
+    # ===== BUILD DATASET =====
+    df = build_dataset(users, books, history)
 
-# ================= 4. HIST + KDE =================
-plt.figure()
-sns.histplot(
-    df['rating_book'],
-    bins=10,
-    kde=True,
-    color="skyblue"
-)
-plt.title("📊 Phân phối rating")
-plt.tight_layout()
-plt.savefig("modern_hist.png")
+    print("✅ DATA READY:", df.shape)
 
-# ================= 5. HEATMAP PRO =================
-pivot = history.pivot_table(
-    index="user_id",
-    columns="book_id",
-    values="diem_danh_gia"
-).fillna(0)
+    # ===== TIME SERIES =====
+    ts_results, ts_metrics = run_time_series(history)
+    
+    if ts_results is None:
+        print("⚠️ Skip time series")
 
-plt.figure(figsize=(12,6))
-sns.heatmap(
-    pivot,
-    cmap="YlOrRd",
-    linewidths=0.3,
-    linecolor="gray",
-    cbar_kws={'label': 'Rating'}
-)
-plt.title("🔥 Heatmap User - Book")
-plt.tight_layout()
-plt.savefig("modern_heatmap.png")
+    # ===== SAVE DATA =====
+    save_data(df)
 
-# ================= 6. AGE VS BOOKS =================
-users['ngay_sinh'] = pd.to_datetime(users['ngay_sinh'])
-users['tuoi'] = 2025 - users['ngay_sinh'].dt.year
+    # ===== CHARTS =====
+    print("📊 Generating full charts...")
+    os.system("python src/generate_charts.py")
+    
+    # ===== KPI =====
+    kpi = compute_kpi(df)
+    print("\n📊 KPI:")
+    for k,v in kpi.items():
+        print(f"{k}: {v}")
 
-plt.figure()
-sns.regplot(
-    data=users,
-    x="tuoi",
-    y="so_luong_sach_da_mua",
-    scatter_kws={"s":80},
-    line_kws={"color":"red"}
-)
-plt.title("👤 Tuổi vs số sách mua")
-plt.tight_layout()
-plt.savefig("modern_age.png")
+    # ===== RECOMMEND =====
+    save_recommendations(users, books, history)
 
-print("🔥 Biểu đồ modern đã tạo xong!")
+    # ===== REPORT =====
+    generate_report(df)
+
+    print("\n🎉 PIPELINE DONE!")
+    print("\n📁 Output saved at: output/")
+
+
+if __name__ == "__main__":
+    main()

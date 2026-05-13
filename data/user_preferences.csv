@@ -1,0 +1,1004 @@
+preference_id,user_id,the_loai_yeu_thich,loai_sach,thoi_gian_doc,thiet_bi_doc,ngon_ngu
+1,1,Classic,Truyện tranh,Sáng,Mobile,EN
+2,1,Tài chính,Truyện chữ,Chiều,Mobile,VI
+3,2,Tài chính,Truyện tranh,Tối,Tablet,EN
+4,2,Kỹ năng,Truyện tranh,Sáng,PC,VI
+5,2,Tài chính,Truyện tranh,Chiều,PC,VI
+6,3,Kỹ năng,Truyện tranh,Tối,Tablet,EN
+7,3,Fantasy,Truyện tranh,Sáng,Tablet,EN
+8,3,Classic,Truyện tranh,Chiều,PC,EN
+9,4,Manga,Truyện chữ,Chiều,Mobile,EN
+10,4,Romance,Truyện tranh,Tối,Tablet,VI
+11,5,Kỹ năng,Truyện tranh,Tối,Mobile,EN
+12,5,Fantasy,Truyện tranh,Chiều,Tablet,VI
+13,5,Classic,Truyện chữ,Tối,Mobile,VI
+14,6,Classic,Truyện tranh,Chiều,PC,EN
+15,6,Manga,Truyện tranh,Tối,Mobile,VI
+16,7,Manga,Truyện tranh,Chiều,PC,EN
+17,7,Tài chính,Truyện tranh,Chiều,Mobile,VI
+18,8,Kỹ năng,Truyện chữ,Chiều,PC,VI
+19,8,Romance,Truyện tranh,Chiều,PC,EN
+20,9,Kỹ năng,Truyện tranh,Chiều,Mobile,EN
+21,9,Manga,Truyện chữ,Chiều,Tablet,VI
+22,9,Manga,Truyện tranh,Chiều,PC,VI
+23,10,Classic,Truyện chữ,Chiều,Mobile,VI
+24,10,Classic,Truyện chữ,Sáng,Mobile,VI
+25,11,Classic,Truyện tranh,Sáng,Tablet,EN
+26,11,Tài chính,Truyện chữ,Sáng,Tablet,EN
+27,11,Manga,Truyện chữ,Sáng,Tablet,VI
+28,12,Tài chính,Truyện chữ,Sáng,PC,EN
+29,12,Manga,Truyện tranh,Chiều,Tablet,EN
+30,13,Tài chính,Truyện chữ,Chiều,PC,EN
+31,13,Tài chính,Truyện tranh,Sáng,Tablet,EN
+32,13,Classic,Truyện chữ,Tối,PC,VI
+33,14,Romance,Truyện tranh,Chiều,PC,EN
+34,14,Romance,Truyện chữ,Sáng,Mobile,VI
+35,15,Fantasy,Truyện chữ,Sáng,PC,EN
+36,16,Manga,Truyện tranh,Sáng,Mobile,VI
+37,17,Manga,Truyện chữ,Chiều,PC,VI
+38,17,Kỹ năng,Truyện chữ,Tối,PC,VI
+39,18,Manga,Truyện tranh,Tối,PC,VI
+40,19,Tài chính,Truyện tranh,Chiều,Mobile,VI
+41,19,Manga,Truyện tranh,Sáng,Mobile,EN
+42,20,Tài chính,Truyện chữ,Sáng,PC,EN
+43,21,Manga,Truyện chữ,Sáng,Tablet,EN
+44,21,Classic,Truyện chữ,Chiều,Mobile,EN
+45,22,Tài chính,Truyện chữ,Chiều,PC,VI
+46,22,Manga,Truyện chữ,Tối,Mobile,EN
+47,23,Manga,Truyện tranh,Sáng,Tablet,EN
+48,23,Kỹ năng,Truyện chữ,Sáng,Mobile,VI
+49,24,Fantasy,Truyện chữ,Sáng,PC,VI
+50,25,Manga,Truyện chữ,Tối,Mobile,VI
+51,25,Tài chính,Truyện chữ,Chiều,Mobile,VI
+52,25,Fantasy,Truyện tranh,Sáng,PC,EN
+53,26,Manga,Truyện chữ,Tối,Mobile,VI
+54,26,Kỹ năng,Truyện tranh,Sáng,Mobile,VI
+55,27,Romance,Truyện tranh,Tối,Mobile,EN
+56,28,Classic,Truyện tranh,Sáng,Tablet,VI
+57,28,Tài chính,Truyện chữ,Tối,PC,VI
+58,28,Kỹ năng,Truyện tranh,Sáng,Tablet,EN
+59,29,Manga,Truyện chữ,Tối,Tablet,VI
+60,30,Classic,Truyện tranh,Tối,Tablet,VI
+61,30,Tài chính,Truyện tranh,Sáng,PC,EN
+62,30,Classic,Truyện chữ,Sáng,Tablet,VI
+63,31,Manga,Truyện tranh,Chiều,Tablet,VI
+64,32,Tài chính,Truyện tranh,Tối,PC,EN
+65,32,Romance,Truyện chữ,Sáng,Mobile,VI
+66,32,Romance,Truyện tranh,Sáng,Tablet,VI
+67,33,Kỹ năng,Truyện tranh,Tối,Tablet,EN
+68,33,Manga,Truyện tranh,Sáng,Tablet,EN
+69,34,Romance,Truyện chữ,Sáng,Tablet,VI
+70,35,Classic,Truyện chữ,Chiều,Mobile,VI
+71,35,Classic,Truyện tranh,Tối,PC,VI
+72,36,Kỹ năng,Truyện chữ,Tối,Mobile,EN
+73,37,Romance,Truyện chữ,Tối,PC,EN
+74,38,Romance,Truyện chữ,Sáng,Mobile,EN
+75,39,Romance,Truyện chữ,Chiều,PC,EN
+76,40,Classic,Truyện tranh,Tối,PC,EN
+77,40,Fantasy,Truyện chữ,Chiều,PC,EN
+78,40,Manga,Truyện tranh,Chiều,Tablet,EN
+79,41,Tài chính,Truyện tranh,Chiều,PC,VI
+80,42,Manga,Truyện chữ,Sáng,Mobile,VI
+81,43,Fantasy,Truyện chữ,Chiều,Mobile,EN
+82,43,Classic,Truyện tranh,Tối,Mobile,EN
+83,43,Classic,Truyện tranh,Tối,Tablet,EN
+84,44,Classic,Truyện chữ,Tối,PC,EN
+85,45,Romance,Truyện tranh,Chiều,Tablet,VI
+86,46,Classic,Truyện tranh,Sáng,Tablet,EN
+87,46,Tài chính,Truyện chữ,Sáng,Mobile,EN
+88,47,Tài chính,Truyện tranh,Tối,PC,EN
+89,47,Classic,Truyện tranh,Sáng,Tablet,VI
+90,48,Tài chính,Truyện tranh,Chiều,PC,EN
+91,49,Romance,Truyện chữ,Sáng,PC,EN
+92,50,Manga,Truyện tranh,Sáng,Mobile,EN
+93,50,Classic,Truyện chữ,Sáng,PC,VI
+94,51,Tài chính,Truyện tranh,Tối,Mobile,EN
+95,51,Romance,Truyện tranh,Sáng,PC,VI
+96,52,Manga,Truyện chữ,Sáng,Mobile,EN
+97,52,Manga,Truyện chữ,Sáng,Tablet,VI
+98,53,Manga,Truyện chữ,Chiều,Tablet,VI
+99,54,Tài chính,Truyện chữ,Sáng,Mobile,EN
+100,54,Tài chính,Truyện tranh,Tối,Mobile,EN
+101,55,Romance,Truyện tranh,Sáng,Tablet,EN
+102,55,Tài chính,Truyện chữ,Chiều,Mobile,VI
+103,55,Fantasy,Truyện chữ,Tối,Mobile,EN
+104,56,Tài chính,Truyện tranh,Sáng,Mobile,VI
+105,57,Tài chính,Truyện tranh,Tối,Mobile,VI
+106,58,Manga,Truyện tranh,Sáng,PC,EN
+107,58,Classic,Truyện tranh,Sáng,Mobile,EN
+108,59,Tài chính,Truyện chữ,Sáng,Mobile,VI
+109,60,Tài chính,Truyện tranh,Sáng,Tablet,VI
+110,61,Kỹ năng,Truyện chữ,Sáng,Tablet,VI
+111,62,Fantasy,Truyện tranh,Chiều,Tablet,EN
+112,62,Manga,Truyện chữ,Tối,PC,VI
+113,63,Fantasy,Truyện chữ,Tối,Tablet,VI
+114,63,Romance,Truyện chữ,Tối,Mobile,EN
+115,64,Tài chính,Truyện chữ,Tối,Mobile,VI
+116,64,Romance,Truyện chữ,Sáng,PC,EN
+117,65,Romance,Truyện tranh,Chiều,Mobile,EN
+118,66,Romance,Truyện tranh,Chiều,Mobile,EN
+119,66,Romance,Truyện chữ,Tối,PC,EN
+120,66,Classic,Truyện tranh,Chiều,Mobile,VI
+121,67,Manga,Truyện tranh,Tối,Mobile,VI
+122,67,Romance,Truyện chữ,Sáng,Tablet,EN
+123,68,Fantasy,Truyện chữ,Chiều,Tablet,VI
+124,69,Romance,Truyện tranh,Sáng,Mobile,EN
+125,69,Romance,Truyện chữ,Sáng,Mobile,EN
+126,69,Kỹ năng,Truyện tranh,Chiều,Mobile,VI
+127,70,Tài chính,Truyện chữ,Tối,PC,EN
+128,70,Kỹ năng,Truyện chữ,Sáng,Mobile,EN
+129,71,Romance,Truyện tranh,Chiều,Mobile,EN
+130,71,Fantasy,Truyện chữ,Tối,Mobile,EN
+131,71,Classic,Truyện chữ,Chiều,Mobile,VI
+132,72,Manga,Truyện tranh,Sáng,PC,VI
+133,72,Fantasy,Truyện tranh,Sáng,PC,EN
+134,73,Fantasy,Truyện chữ,Tối,Mobile,EN
+135,74,Manga,Truyện tranh,Tối,PC,EN
+136,74,Kỹ năng,Truyện tranh,Tối,Tablet,EN
+137,74,Fantasy,Truyện tranh,Tối,Mobile,EN
+138,75,Kỹ năng,Truyện chữ,Chiều,Mobile,EN
+139,76,Manga,Truyện tranh,Sáng,Tablet,VI
+140,77,Romance,Truyện tranh,Sáng,Tablet,EN
+141,77,Tài chính,Truyện tranh,Sáng,PC,VI
+142,77,Classic,Truyện chữ,Sáng,Mobile,VI
+143,78,Fantasy,Truyện tranh,Chiều,Mobile,EN
+144,78,Romance,Truyện chữ,Tối,PC,EN
+145,79,Tài chính,Truyện chữ,Sáng,Tablet,EN
+146,79,Romance,Truyện chữ,Tối,Mobile,EN
+147,80,Classic,Truyện chữ,Chiều,Mobile,EN
+148,81,Romance,Truyện chữ,Chiều,Mobile,VI
+149,82,Kỹ năng,Truyện tranh,Sáng,Tablet,VI
+150,82,Fantasy,Truyện chữ,Chiều,Tablet,EN
+151,83,Fantasy,Truyện tranh,Tối,PC,VI
+152,83,Classic,Truyện tranh,Chiều,Tablet,VI
+153,83,Kỹ năng,Truyện tranh,Chiều,PC,VI
+154,84,Classic,Truyện tranh,Chiều,Tablet,EN
+155,85,Manga,Truyện tranh,Chiều,PC,VI
+156,85,Classic,Truyện chữ,Tối,Mobile,EN
+157,85,Manga,Truyện tranh,Sáng,Mobile,VI
+158,86,Manga,Truyện chữ,Sáng,PC,EN
+159,86,Romance,Truyện chữ,Sáng,PC,VI
+160,87,Tài chính,Truyện chữ,Tối,PC,EN
+161,87,Classic,Truyện tranh,Tối,PC,EN
+162,87,Fantasy,Truyện chữ,Chiều,Mobile,VI
+163,88,Tài chính,Truyện chữ,Chiều,Mobile,VI
+164,88,Classic,Truyện tranh,Sáng,Mobile,VI
+165,88,Classic,Truyện chữ,Chiều,Mobile,VI
+166,89,Tài chính,Truyện chữ,Chiều,PC,VI
+167,90,Kỹ năng,Truyện tranh,Tối,PC,EN
+168,90,Tài chính,Truyện tranh,Tối,PC,EN
+169,90,Classic,Truyện chữ,Tối,Mobile,VI
+170,91,Kỹ năng,Truyện chữ,Tối,Mobile,EN
+171,91,Classic,Truyện tranh,Sáng,Tablet,EN
+172,91,Tài chính,Truyện chữ,Sáng,PC,EN
+173,92,Kỹ năng,Truyện tranh,Sáng,Tablet,EN
+174,93,Manga,Truyện tranh,Sáng,Mobile,EN
+175,93,Classic,Truyện tranh,Sáng,Tablet,EN
+176,94,Manga,Truyện tranh,Sáng,Tablet,VI
+177,94,Classic,Truyện chữ,Sáng,Mobile,VI
+178,94,Fantasy,Truyện tranh,Tối,PC,EN
+179,95,Classic,Truyện tranh,Tối,Tablet,EN
+180,96,Classic,Truyện tranh,Sáng,Tablet,VI
+181,96,Kỹ năng,Truyện chữ,Chiều,Mobile,EN
+182,96,Manga,Truyện chữ,Sáng,Mobile,VI
+183,97,Classic,Truyện chữ,Chiều,PC,VI
+184,98,Fantasy,Truyện chữ,Chiều,Mobile,VI
+185,99,Manga,Truyện chữ,Sáng,PC,VI
+186,100,Classic,Truyện tranh,Chiều,PC,VI
+187,100,Fantasy,Truyện tranh,Chiều,PC,EN
+188,100,Tài chính,Truyện tranh,Tối,PC,VI
+189,101,Manga,Truyện chữ,Sáng,Tablet,EN
+190,101,Fantasy,Truyện chữ,Tối,Tablet,VI
+191,102,Manga,Truyện chữ,Tối,Tablet,VI
+192,102,Tài chính,Truyện tranh,Tối,Mobile,EN
+193,102,Tài chính,Truyện tranh,Tối,Tablet,EN
+194,103,Kỹ năng,Truyện tranh,Sáng,Tablet,EN
+195,104,Manga,Truyện tranh,Sáng,Mobile,VI
+196,104,Fantasy,Truyện tranh,Chiều,Mobile,EN
+197,104,Manga,Truyện tranh,Tối,PC,EN
+198,105,Fantasy,Truyện chữ,Sáng,Tablet,EN
+199,106,Manga,Truyện tranh,Chiều,PC,VI
+200,106,Manga,Truyện tranh,Tối,Mobile,VI
+201,107,Romance,Truyện chữ,Tối,Tablet,VI
+202,107,Manga,Truyện chữ,Sáng,Tablet,VI
+203,108,Tài chính,Truyện tranh,Tối,Tablet,EN
+204,108,Romance,Truyện chữ,Sáng,Mobile,VI
+205,108,Romance,Truyện tranh,Chiều,Mobile,EN
+206,109,Manga,Truyện tranh,Chiều,Tablet,EN
+207,109,Kỹ năng,Truyện tranh,Tối,PC,VI
+208,109,Manga,Truyện tranh,Sáng,PC,EN
+209,110,Tài chính,Truyện chữ,Chiều,PC,VI
+210,111,Manga,Truyện chữ,Tối,PC,VI
+211,111,Kỹ năng,Truyện chữ,Sáng,PC,VI
+212,112,Kỹ năng,Truyện tranh,Tối,Mobile,EN
+213,112,Tài chính,Truyện tranh,Sáng,Mobile,VI
+214,112,Manga,Truyện tranh,Sáng,Tablet,EN
+215,113,Tài chính,Truyện tranh,Chiều,PC,EN
+216,113,Fantasy,Truyện tranh,Sáng,PC,VI
+217,114,Tài chính,Truyện chữ,Tối,Mobile,EN
+218,115,Kỹ năng,Truyện chữ,Sáng,PC,VI
+219,116,Classic,Truyện chữ,Sáng,Mobile,VI
+220,117,Romance,Truyện chữ,Tối,PC,EN
+221,117,Tài chính,Truyện chữ,Sáng,PC,VI
+222,118,Manga,Truyện chữ,Chiều,PC,EN
+223,119,Kỹ năng,Truyện tranh,Chiều,PC,VI
+224,119,Classic,Truyện chữ,Tối,Tablet,EN
+225,119,Romance,Truyện tranh,Chiều,PC,EN
+226,120,Kỹ năng,Truyện chữ,Tối,Mobile,VI
+227,120,Fantasy,Truyện chữ,Chiều,Mobile,VI
+228,120,Classic,Truyện tranh,Sáng,Tablet,EN
+229,121,Classic,Truyện tranh,Chiều,Mobile,EN
+230,121,Kỹ năng,Truyện chữ,Tối,Mobile,VI
+231,122,Romance,Truyện tranh,Sáng,Tablet,EN
+232,123,Classic,Truyện chữ,Sáng,Mobile,VI
+233,123,Romance,Truyện chữ,Sáng,PC,EN
+234,123,Romance,Truyện tranh,Sáng,PC,EN
+235,124,Classic,Truyện tranh,Chiều,PC,EN
+236,124,Romance,Truyện chữ,Tối,PC,VI
+237,124,Romance,Truyện tranh,Tối,PC,EN
+238,125,Classic,Truyện chữ,Chiều,Tablet,EN
+239,125,Fantasy,Truyện chữ,Tối,Tablet,VI
+240,125,Kỹ năng,Truyện tranh,Chiều,Tablet,VI
+241,126,Classic,Truyện chữ,Sáng,Mobile,EN
+242,126,Tài chính,Truyện tranh,Chiều,PC,EN
+243,126,Kỹ năng,Truyện chữ,Chiều,Mobile,EN
+244,127,Classic,Truyện chữ,Chiều,Mobile,VI
+245,128,Romance,Truyện chữ,Sáng,Tablet,VI
+246,128,Romance,Truyện chữ,Sáng,Mobile,VI
+247,129,Tài chính,Truyện tranh,Tối,PC,VI
+248,130,Classic,Truyện chữ,Sáng,Mobile,VI
+249,130,Tài chính,Truyện tranh,Tối,Tablet,EN
+250,130,Romance,Truyện chữ,Chiều,Tablet,EN
+251,131,Tài chính,Truyện chữ,Sáng,Tablet,VI
+252,131,Kỹ năng,Truyện tranh,Tối,Tablet,EN
+253,132,Romance,Truyện chữ,Sáng,Tablet,EN
+254,133,Classic,Truyện tranh,Chiều,Mobile,EN
+255,134,Kỹ năng,Truyện tranh,Chiều,PC,VI
+256,135,Romance,Truyện tranh,Chiều,Tablet,EN
+257,135,Classic,Truyện chữ,Chiều,Tablet,EN
+258,136,Manga,Truyện tranh,Tối,Mobile,VI
+259,136,Manga,Truyện tranh,Sáng,PC,EN
+260,137,Fantasy,Truyện tranh,Tối,Mobile,EN
+261,137,Kỹ năng,Truyện tranh,Chiều,Mobile,VI
+262,138,Fantasy,Truyện tranh,Sáng,Tablet,EN
+263,138,Classic,Truyện tranh,Chiều,Tablet,VI
+264,139,Classic,Truyện chữ,Tối,Tablet,EN
+265,139,Romance,Truyện tranh,Chiều,PC,VI
+266,140,Classic,Truyện chữ,Sáng,PC,EN
+267,141,Romance,Truyện chữ,Sáng,Mobile,VI
+268,142,Classic,Truyện chữ,Chiều,Tablet,VI
+269,143,Kỹ năng,Truyện tranh,Tối,Tablet,EN
+270,143,Classic,Truyện tranh,Sáng,PC,EN
+271,143,Tài chính,Truyện chữ,Tối,Mobile,VI
+272,144,Romance,Truyện tranh,Tối,PC,EN
+273,144,Manga,Truyện chữ,Tối,Mobile,VI
+274,145,Manga,Truyện tranh,Tối,Mobile,VI
+275,145,Manga,Truyện tranh,Sáng,PC,VI
+276,145,Classic,Truyện chữ,Tối,PC,VI
+277,146,Kỹ năng,Truyện chữ,Chiều,PC,VI
+278,147,Romance,Truyện tranh,Sáng,PC,VI
+279,148,Fantasy,Truyện tranh,Sáng,PC,EN
+280,148,Kỹ năng,Truyện tranh,Tối,PC,EN
+281,149,Kỹ năng,Truyện chữ,Tối,Tablet,EN
+282,150,Classic,Truyện tranh,Chiều,Tablet,VI
+283,150,Manga,Truyện tranh,Chiều,PC,EN
+284,150,Manga,Truyện tranh,Chiều,Tablet,EN
+285,151,Romance,Truyện tranh,Chiều,Tablet,EN
+286,151,Romance,Truyện tranh,Tối,Tablet,VI
+287,151,Classic,Truyện tranh,Chiều,PC,VI
+288,152,Manga,Truyện tranh,Tối,Tablet,VI
+289,152,Tài chính,Truyện tranh,Tối,Mobile,VI
+290,152,Kỹ năng,Truyện chữ,Sáng,Mobile,VI
+291,153,Romance,Truyện tranh,Sáng,PC,EN
+292,153,Tài chính,Truyện tranh,Tối,Tablet,EN
+293,153,Tài chính,Truyện chữ,Sáng,Tablet,EN
+294,154,Classic,Truyện tranh,Chiều,Mobile,EN
+295,155,Romance,Truyện tranh,Chiều,Tablet,VI
+296,156,Classic,Truyện tranh,Tối,Mobile,EN
+297,156,Kỹ năng,Truyện chữ,Sáng,PC,VI
+298,157,Manga,Truyện chữ,Chiều,Tablet,VI
+299,157,Tài chính,Truyện tranh,Chiều,PC,VI
+300,157,Fantasy,Truyện chữ,Tối,Tablet,EN
+301,158,Tài chính,Truyện chữ,Tối,PC,EN
+302,158,Manga,Truyện tranh,Chiều,Mobile,EN
+303,159,Manga,Truyện chữ,Sáng,PC,EN
+304,159,Kỹ năng,Truyện chữ,Chiều,Tablet,VI
+305,160,Fantasy,Truyện chữ,Sáng,Mobile,VI
+306,160,Manga,Truyện chữ,Sáng,Tablet,EN
+307,161,Manga,Truyện tranh,Sáng,Tablet,EN
+308,161,Tài chính,Truyện tranh,Tối,Mobile,EN
+309,161,Kỹ năng,Truyện tranh,Tối,Mobile,EN
+310,162,Manga,Truyện tranh,Tối,PC,VI
+311,162,Classic,Truyện chữ,Sáng,PC,VI
+312,163,Manga,Truyện tranh,Chiều,PC,VI
+313,163,Kỹ năng,Truyện tranh,Tối,Tablet,VI
+314,164,Kỹ năng,Truyện chữ,Chiều,Tablet,EN
+315,165,Fantasy,Truyện chữ,Sáng,Tablet,VI
+316,165,Fantasy,Truyện tranh,Sáng,PC,VI
+317,165,Romance,Truyện tranh,Chiều,Mobile,VI
+318,166,Kỹ năng,Truyện tranh,Tối,Mobile,EN
+319,166,Tài chính,Truyện chữ,Sáng,Tablet,EN
+320,166,Fantasy,Truyện tranh,Tối,Tablet,VI
+321,167,Romance,Truyện tranh,Sáng,Tablet,EN
+322,168,Kỹ năng,Truyện tranh,Chiều,PC,VI
+323,168,Kỹ năng,Truyện tranh,Tối,Mobile,EN
+324,169,Classic,Truyện tranh,Tối,Mobile,VI
+325,170,Manga,Truyện chữ,Tối,Mobile,VI
+326,170,Classic,Truyện tranh,Sáng,PC,EN
+327,170,Romance,Truyện chữ,Tối,PC,VI
+328,171,Fantasy,Truyện tranh,Sáng,Mobile,EN
+329,172,Kỹ năng,Truyện chữ,Tối,PC,VI
+330,172,Kỹ năng,Truyện tranh,Sáng,Mobile,VI
+331,172,Fantasy,Truyện chữ,Chiều,Mobile,VI
+332,173,Classic,Truyện chữ,Tối,Mobile,VI
+333,173,Kỹ năng,Truyện tranh,Tối,PC,VI
+334,173,Kỹ năng,Truyện chữ,Sáng,Tablet,VI
+335,174,Fantasy,Truyện tranh,Chiều,PC,EN
+336,175,Manga,Truyện tranh,Tối,Tablet,VI
+337,175,Tài chính,Truyện chữ,Tối,PC,EN
+338,176,Tài chính,Truyện chữ,Chiều,Mobile,EN
+339,176,Classic,Truyện chữ,Chiều,PC,EN
+340,176,Classic,Truyện chữ,Tối,Mobile,VI
+341,177,Classic,Truyện chữ,Tối,PC,VI
+342,178,Manga,Truyện chữ,Tối,Tablet,EN
+343,178,Fantasy,Truyện tranh,Chiều,Mobile,EN
+344,178,Fantasy,Truyện tranh,Sáng,PC,VI
+345,179,Romance,Truyện chữ,Chiều,PC,EN
+346,180,Fantasy,Truyện tranh,Tối,PC,EN
+347,181,Kỹ năng,Truyện tranh,Chiều,Tablet,VI
+348,182,Manga,Truyện tranh,Sáng,Mobile,VI
+349,182,Kỹ năng,Truyện chữ,Tối,PC,VI
+350,182,Classic,Truyện tranh,Tối,PC,VI
+351,183,Classic,Truyện chữ,Chiều,Mobile,EN
+352,183,Romance,Truyện chữ,Tối,Tablet,EN
+353,183,Tài chính,Truyện tranh,Tối,PC,EN
+354,184,Romance,Truyện tranh,Chiều,Tablet,EN
+355,185,Tài chính,Truyện chữ,Sáng,PC,EN
+356,185,Fantasy,Truyện chữ,Sáng,Tablet,EN
+357,185,Fantasy,Truyện tranh,Chiều,PC,VI
+358,186,Fantasy,Truyện tranh,Chiều,Mobile,VI
+359,186,Kỹ năng,Truyện tranh,Chiều,Tablet,VI
+360,187,Fantasy,Truyện tranh,Chiều,Tablet,EN
+361,188,Tài chính,Truyện tranh,Sáng,Tablet,VI
+362,188,Romance,Truyện tranh,Tối,Tablet,VI
+363,188,Tài chính,Truyện chữ,Chiều,Tablet,VI
+364,189,Classic,Truyện tranh,Sáng,Mobile,VI
+365,189,Classic,Truyện tranh,Sáng,Tablet,EN
+366,189,Kỹ năng,Truyện chữ,Chiều,Tablet,EN
+367,190,Kỹ năng,Truyện tranh,Tối,Tablet,EN
+368,190,Fantasy,Truyện chữ,Sáng,Tablet,VI
+369,190,Manga,Truyện tranh,Chiều,Mobile,EN
+370,191,Romance,Truyện tranh,Tối,Mobile,EN
+371,192,Kỹ năng,Truyện chữ,Chiều,PC,VI
+372,193,Kỹ năng,Truyện chữ,Sáng,PC,VI
+373,193,Classic,Truyện tranh,Chiều,Tablet,VI
+374,193,Tài chính,Truyện tranh,Chiều,PC,EN
+375,194,Manga,Truyện tranh,Sáng,Tablet,VI
+376,195,Kỹ năng,Truyện tranh,Chiều,Tablet,EN
+377,195,Romance,Truyện chữ,Chiều,Tablet,VI
+378,195,Classic,Truyện chữ,Tối,Mobile,VI
+379,196,Tài chính,Truyện tranh,Tối,Tablet,VI
+380,196,Manga,Truyện chữ,Chiều,Mobile,VI
+381,197,Manga,Truyện chữ,Chiều,PC,EN
+382,197,Tài chính,Truyện tranh,Sáng,PC,EN
+383,198,Tài chính,Truyện tranh,Tối,PC,VI
+384,198,Manga,Truyện tranh,Sáng,Tablet,VI
+385,199,Manga,Truyện chữ,Sáng,PC,VI
+386,200,Manga,Truyện chữ,Tối,PC,VI
+387,200,Classic,Truyện tranh,Tối,Mobile,VI
+388,201,Classic,Truyện chữ,Tối,Mobile,EN
+389,201,Fantasy,Truyện chữ,Chiều,Mobile,VI
+390,202,Romance,Truyện chữ,Tối,Tablet,VI
+391,202,Fantasy,Truyện chữ,Sáng,PC,VI
+392,203,Fantasy,Truyện tranh,Sáng,PC,VI
+393,203,Kỹ năng,Truyện chữ,Sáng,Tablet,EN
+394,204,Tài chính,Truyện chữ,Tối,Tablet,EN
+395,204,Fantasy,Truyện chữ,Sáng,Mobile,EN
+396,204,Kỹ năng,Truyện tranh,Sáng,Tablet,VI
+397,205,Romance,Truyện chữ,Sáng,PC,VI
+398,206,Kỹ năng,Truyện chữ,Sáng,Mobile,VI
+399,206,Fantasy,Truyện chữ,Chiều,Tablet,VI
+400,207,Classic,Truyện tranh,Tối,Tablet,VI
+401,207,Classic,Truyện tranh,Sáng,PC,VI
+402,207,Fantasy,Truyện chữ,Tối,Tablet,VI
+403,208,Classic,Truyện tranh,Sáng,PC,VI
+404,208,Kỹ năng,Truyện tranh,Sáng,PC,EN
+405,208,Manga,Truyện tranh,Chiều,Mobile,EN
+406,209,Fantasy,Truyện tranh,Chiều,Mobile,EN
+407,210,Tài chính,Truyện tranh,Chiều,PC,EN
+408,210,Romance,Truyện chữ,Tối,Mobile,VI
+409,210,Romance,Truyện tranh,Sáng,Mobile,VI
+410,211,Manga,Truyện tranh,Chiều,PC,EN
+411,211,Kỹ năng,Truyện tranh,Chiều,Mobile,EN
+412,211,Kỹ năng,Truyện chữ,Sáng,Mobile,VI
+413,212,Manga,Truyện tranh,Sáng,Mobile,EN
+414,212,Classic,Truyện chữ,Chiều,Mobile,VI
+415,212,Fantasy,Truyện chữ,Chiều,Mobile,EN
+416,213,Tài chính,Truyện tranh,Sáng,PC,VI
+417,213,Classic,Truyện chữ,Chiều,PC,EN
+418,213,Kỹ năng,Truyện chữ,Chiều,Mobile,EN
+419,214,Fantasy,Truyện tranh,Chiều,Mobile,VI
+420,214,Manga,Truyện chữ,Sáng,Tablet,EN
+421,214,Kỹ năng,Truyện chữ,Sáng,Mobile,EN
+422,215,Kỹ năng,Truyện chữ,Chiều,PC,EN
+423,215,Manga,Truyện chữ,Sáng,PC,VI
+424,215,Classic,Truyện tranh,Sáng,PC,VI
+425,216,Classic,Truyện chữ,Sáng,Mobile,VI
+426,216,Classic,Truyện chữ,Tối,Mobile,EN
+427,216,Classic,Truyện chữ,Chiều,PC,EN
+428,217,Romance,Truyện chữ,Chiều,Mobile,VI
+429,217,Tài chính,Truyện chữ,Chiều,Tablet,EN
+430,217,Tài chính,Truyện chữ,Tối,PC,EN
+431,218,Classic,Truyện tranh,Tối,PC,EN
+432,218,Classic,Truyện tranh,Chiều,PC,VI
+433,219,Classic,Truyện tranh,Chiều,PC,VI
+434,220,Tài chính,Truyện tranh,Sáng,PC,VI
+435,220,Manga,Truyện chữ,Tối,Tablet,EN
+436,220,Manga,Truyện chữ,Sáng,Tablet,VI
+437,221,Manga,Truyện tranh,Sáng,PC,VI
+438,222,Romance,Truyện tranh,Sáng,PC,EN
+439,223,Classic,Truyện tranh,Tối,Tablet,VI
+440,224,Tài chính,Truyện chữ,Sáng,PC,VI
+441,225,Kỹ năng,Truyện tranh,Chiều,Mobile,VI
+442,226,Kỹ năng,Truyện tranh,Tối,PC,VI
+443,226,Kỹ năng,Truyện tranh,Tối,PC,VI
+444,226,Manga,Truyện chữ,Tối,PC,VI
+445,227,Kỹ năng,Truyện tranh,Tối,Mobile,VI
+446,228,Tài chính,Truyện chữ,Sáng,PC,EN
+447,228,Romance,Truyện chữ,Chiều,PC,VI
+448,228,Fantasy,Truyện chữ,Tối,PC,VI
+449,229,Kỹ năng,Truyện chữ,Sáng,PC,EN
+450,229,Manga,Truyện chữ,Sáng,Mobile,EN
+451,229,Kỹ năng,Truyện tranh,Tối,Mobile,EN
+452,230,Fantasy,Truyện chữ,Sáng,Tablet,EN
+453,230,Fantasy,Truyện tranh,Chiều,Mobile,EN
+454,231,Tài chính,Truyện tranh,Sáng,Mobile,VI
+455,232,Tài chính,Truyện chữ,Chiều,Mobile,VI
+456,232,Romance,Truyện tranh,Tối,Tablet,EN
+457,232,Fantasy,Truyện tranh,Sáng,Mobile,VI
+458,233,Tài chính,Truyện tranh,Chiều,Tablet,VI
+459,234,Fantasy,Truyện tranh,Tối,Mobile,EN
+460,235,Fantasy,Truyện tranh,Chiều,Tablet,VI
+461,235,Kỹ năng,Truyện chữ,Chiều,PC,EN
+462,235,Tài chính,Truyện chữ,Tối,PC,EN
+463,236,Tài chính,Truyện tranh,Sáng,PC,VI
+464,236,Manga,Truyện chữ,Tối,PC,VI
+465,236,Romance,Truyện tranh,Tối,PC,EN
+466,237,Manga,Truyện tranh,Tối,PC,VI
+467,237,Fantasy,Truyện chữ,Chiều,PC,VI
+468,238,Kỹ năng,Truyện chữ,Sáng,Tablet,VI
+469,239,Fantasy,Truyện tranh,Sáng,PC,VI
+470,240,Kỹ năng,Truyện tranh,Sáng,PC,VI
+471,240,Tài chính,Truyện tranh,Tối,Mobile,VI
+472,241,Tài chính,Truyện chữ,Sáng,Mobile,EN
+473,241,Kỹ năng,Truyện chữ,Chiều,PC,EN
+474,241,Tài chính,Truyện chữ,Sáng,Mobile,EN
+475,242,Fantasy,Truyện tranh,Sáng,PC,VI
+476,242,Classic,Truyện chữ,Tối,PC,EN
+477,242,Kỹ năng,Truyện tranh,Tối,PC,EN
+478,243,Romance,Truyện chữ,Chiều,PC,EN
+479,243,Manga,Truyện chữ,Sáng,Tablet,EN
+480,244,Tài chính,Truyện chữ,Tối,PC,EN
+481,244,Tài chính,Truyện tranh,Chiều,Mobile,EN
+482,245,Classic,Truyện chữ,Chiều,PC,VI
+483,245,Fantasy,Truyện tranh,Sáng,Tablet,EN
+484,245,Tài chính,Truyện tranh,Chiều,PC,EN
+485,246,Romance,Truyện tranh,Tối,Mobile,EN
+486,246,Tài chính,Truyện tranh,Chiều,PC,EN
+487,246,Romance,Truyện chữ,Chiều,Mobile,EN
+488,247,Fantasy,Truyện tranh,Sáng,PC,VI
+489,247,Manga,Truyện chữ,Sáng,Tablet,EN
+490,247,Kỹ năng,Truyện chữ,Chiều,Tablet,VI
+491,248,Romance,Truyện tranh,Chiều,Mobile,EN
+492,249,Manga,Truyện chữ,Tối,Mobile,EN
+493,249,Manga,Truyện tranh,Chiều,Tablet,VI
+494,250,Romance,Truyện chữ,Sáng,Mobile,VI
+495,251,Manga,Truyện chữ,Sáng,Mobile,EN
+496,251,Manga,Truyện tranh,Sáng,Tablet,EN
+497,252,Classic,Truyện tranh,Sáng,Tablet,VI
+498,252,Manga,Truyện chữ,Chiều,Tablet,VI
+499,252,Tài chính,Truyện chữ,Chiều,Tablet,VI
+500,253,Tài chính,Truyện chữ,Chiều,PC,EN
+501,253,Romance,Truyện tranh,Chiều,Mobile,VI
+502,253,Romance,Truyện chữ,Tối,PC,VI
+503,254,Romance,Truyện tranh,Tối,PC,VI
+504,254,Tài chính,Truyện chữ,Tối,PC,EN
+505,254,Fantasy,Truyện tranh,Chiều,Tablet,VI
+506,255,Romance,Truyện chữ,Chiều,Mobile,VI
+507,256,Classic,Truyện chữ,Tối,Mobile,VI
+508,256,Romance,Truyện tranh,Sáng,Tablet,VI
+509,256,Fantasy,Truyện tranh,Chiều,Tablet,VI
+510,257,Romance,Truyện tranh,Sáng,Tablet,VI
+511,257,Tài chính,Truyện chữ,Sáng,Tablet,VI
+512,257,Manga,Truyện chữ,Tối,PC,EN
+513,258,Tài chính,Truyện tranh,Sáng,Tablet,VI
+514,259,Classic,Truyện chữ,Tối,Tablet,VI
+515,259,Fantasy,Truyện tranh,Sáng,Tablet,EN
+516,259,Manga,Truyện tranh,Tối,PC,VI
+517,260,Tài chính,Truyện chữ,Tối,Tablet,VI
+518,260,Kỹ năng,Truyện tranh,Chiều,PC,EN
+519,260,Tài chính,Truyện tranh,Sáng,Tablet,EN
+520,261,Tài chính,Truyện tranh,Chiều,PC,VI
+521,261,Romance,Truyện tranh,Sáng,Tablet,EN
+522,262,Fantasy,Truyện chữ,Chiều,Mobile,EN
+523,262,Fantasy,Truyện tranh,Sáng,Mobile,VI
+524,262,Fantasy,Truyện tranh,Tối,Mobile,EN
+525,263,Classic,Truyện chữ,Chiều,PC,EN
+526,264,Classic,Truyện chữ,Tối,Tablet,EN
+527,264,Kỹ năng,Truyện tranh,Sáng,Tablet,EN
+528,265,Fantasy,Truyện chữ,Sáng,PC,EN
+529,265,Fantasy,Truyện chữ,Chiều,PC,EN
+530,266,Classic,Truyện chữ,Chiều,PC,VI
+531,266,Tài chính,Truyện chữ,Sáng,Mobile,EN
+532,266,Fantasy,Truyện tranh,Sáng,PC,VI
+533,267,Kỹ năng,Truyện chữ,Sáng,Tablet,VI
+534,268,Classic,Truyện tranh,Tối,PC,VI
+535,268,Romance,Truyện chữ,Sáng,Mobile,EN
+536,268,Fantasy,Truyện chữ,Sáng,PC,VI
+537,269,Romance,Truyện tranh,Tối,PC,EN
+538,270,Manga,Truyện tranh,Tối,Mobile,EN
+539,271,Classic,Truyện chữ,Sáng,PC,EN
+540,272,Tài chính,Truyện chữ,Tối,PC,EN
+541,273,Tài chính,Truyện chữ,Chiều,Tablet,VI
+542,273,Tài chính,Truyện tranh,Tối,Tablet,EN
+543,273,Classic,Truyện tranh,Tối,PC,EN
+544,274,Tài chính,Truyện chữ,Tối,PC,VI
+545,274,Tài chính,Truyện tranh,Tối,Mobile,VI
+546,274,Kỹ năng,Truyện chữ,Chiều,Tablet,VI
+547,275,Manga,Truyện tranh,Sáng,Mobile,VI
+548,275,Manga,Truyện chữ,Sáng,Tablet,EN
+549,275,Classic,Truyện tranh,Sáng,Tablet,EN
+550,276,Tài chính,Truyện tranh,Chiều,PC,EN
+551,276,Manga,Truyện tranh,Sáng,Mobile,VI
+552,277,Tài chính,Truyện tranh,Chiều,PC,EN
+553,278,Tài chính,Truyện chữ,Sáng,Mobile,VI
+554,279,Kỹ năng,Truyện chữ,Tối,Tablet,EN
+555,280,Classic,Truyện chữ,Tối,PC,VI
+556,281,Manga,Truyện chữ,Chiều,PC,EN
+557,282,Romance,Truyện chữ,Sáng,Mobile,VI
+558,282,Manga,Truyện chữ,Sáng,PC,EN
+559,282,Romance,Truyện tranh,Sáng,Mobile,VI
+560,283,Tài chính,Truyện tranh,Sáng,PC,EN
+561,284,Romance,Truyện tranh,Sáng,Mobile,VI
+562,285,Manga,Truyện chữ,Tối,Mobile,VI
+563,286,Manga,Truyện chữ,Chiều,Tablet,VI
+564,286,Romance,Truyện tranh,Chiều,Mobile,VI
+565,286,Romance,Truyện tranh,Chiều,Mobile,VI
+566,287,Kỹ năng,Truyện tranh,Chiều,PC,VI
+567,288,Kỹ năng,Truyện tranh,Tối,Tablet,EN
+568,288,Tài chính,Truyện chữ,Sáng,Tablet,EN
+569,288,Romance,Truyện tranh,Tối,Tablet,VI
+570,289,Romance,Truyện chữ,Chiều,PC,EN
+571,289,Tài chính,Truyện chữ,Sáng,PC,EN
+572,290,Fantasy,Truyện chữ,Chiều,Mobile,EN
+573,291,Tài chính,Truyện chữ,Chiều,PC,EN
+574,291,Kỹ năng,Truyện chữ,Tối,PC,VI
+575,292,Kỹ năng,Truyện tranh,Chiều,PC,VI
+576,292,Kỹ năng,Truyện tranh,Chiều,Mobile,VI
+577,293,Fantasy,Truyện chữ,Tối,Tablet,EN
+578,293,Fantasy,Truyện chữ,Chiều,Tablet,EN
+579,294,Manga,Truyện tranh,Tối,Mobile,EN
+580,294,Tài chính,Truyện chữ,Tối,PC,VI
+581,295,Fantasy,Truyện chữ,Chiều,Mobile,EN
+582,295,Kỹ năng,Truyện tranh,Sáng,Tablet,EN
+583,296,Romance,Truyện tranh,Chiều,Tablet,VI
+584,297,Fantasy,Truyện tranh,Sáng,Mobile,EN
+585,297,Kỹ năng,Truyện chữ,Sáng,Mobile,EN
+586,297,Tài chính,Truyện chữ,Tối,Mobile,VI
+587,298,Classic,Truyện tranh,Tối,Mobile,VI
+588,299,Manga,Truyện tranh,Tối,Tablet,VI
+589,299,Classic,Truyện chữ,Tối,Mobile,EN
+590,300,Kỹ năng,Truyện tranh,Tối,Mobile,EN
+591,300,Tài chính,Truyện tranh,Tối,Mobile,VI
+592,300,Romance,Truyện chữ,Sáng,Mobile,EN
+593,301,Tài chính,Truyện tranh,Chiều,Mobile,EN
+594,302,Classic,Truyện chữ,Chiều,Mobile,VI
+595,302,Tài chính,Truyện tranh,Sáng,PC,EN
+596,303,Classic,Truyện tranh,Sáng,Tablet,EN
+597,303,Classic,Truyện tranh,Sáng,Mobile,VI
+598,304,Classic,Truyện chữ,Chiều,Tablet,VI
+599,305,Romance,Truyện chữ,Chiều,Tablet,EN
+600,306,Classic,Truyện tranh,Sáng,Tablet,EN
+601,307,Fantasy,Truyện chữ,Sáng,Mobile,EN
+602,308,Romance,Truyện chữ,Tối,Tablet,VI
+603,308,Romance,Truyện chữ,Tối,Mobile,VI
+604,309,Fantasy,Truyện chữ,Chiều,PC,VI
+605,309,Kỹ năng,Truyện chữ,Sáng,Mobile,VI
+606,309,Manga,Truyện tranh,Tối,Tablet,VI
+607,310,Kỹ năng,Truyện tranh,Chiều,Tablet,EN
+608,310,Manga,Truyện tranh,Chiều,PC,EN
+609,310,Tài chính,Truyện chữ,Chiều,Tablet,VI
+610,311,Classic,Truyện tranh,Chiều,PC,EN
+611,312,Manga,Truyện tranh,Sáng,Mobile,VI
+612,313,Manga,Truyện tranh,Chiều,Tablet,VI
+613,313,Tài chính,Truyện tranh,Tối,Mobile,VI
+614,313,Classic,Truyện chữ,Sáng,PC,EN
+615,314,Tài chính,Truyện tranh,Tối,PC,VI
+616,314,Tài chính,Truyện tranh,Tối,Mobile,EN
+617,315,Classic,Truyện chữ,Tối,Mobile,EN
+618,316,Kỹ năng,Truyện chữ,Sáng,PC,VI
+619,317,Romance,Truyện chữ,Tối,Mobile,EN
+620,317,Kỹ năng,Truyện chữ,Chiều,PC,EN
+621,318,Kỹ năng,Truyện chữ,Tối,Tablet,EN
+622,318,Kỹ năng,Truyện chữ,Sáng,Tablet,VI
+623,318,Kỹ năng,Truyện chữ,Chiều,Tablet,EN
+624,319,Classic,Truyện tranh,Sáng,Tablet,VI
+625,319,Fantasy,Truyện tranh,Chiều,Tablet,VI
+626,320,Manga,Truyện tranh,Sáng,Mobile,EN
+627,320,Romance,Truyện chữ,Sáng,PC,EN
+628,321,Tài chính,Truyện tranh,Tối,Tablet,VI
+629,321,Classic,Truyện tranh,Tối,PC,EN
+630,321,Manga,Truyện tranh,Chiều,Mobile,EN
+631,322,Romance,Truyện tranh,Sáng,PC,VI
+632,322,Fantasy,Truyện chữ,Sáng,PC,VI
+633,323,Romance,Truyện tranh,Tối,Mobile,EN
+634,323,Classic,Truyện chữ,Tối,Mobile,VI
+635,323,Classic,Truyện tranh,Sáng,Tablet,VI
+636,324,Kỹ năng,Truyện chữ,Tối,PC,EN
+637,324,Kỹ năng,Truyện tranh,Sáng,PC,EN
+638,324,Classic,Truyện tranh,Chiều,Mobile,VI
+639,325,Tài chính,Truyện chữ,Sáng,Tablet,VI
+640,326,Tài chính,Truyện chữ,Chiều,Tablet,EN
+641,327,Kỹ năng,Truyện chữ,Chiều,Tablet,VI
+642,328,Manga,Truyện tranh,Sáng,Mobile,EN
+643,328,Romance,Truyện chữ,Chiều,PC,VI
+644,328,Kỹ năng,Truyện tranh,Chiều,Mobile,VI
+645,329,Classic,Truyện chữ,Sáng,PC,EN
+646,329,Romance,Truyện chữ,Tối,Mobile,EN
+647,330,Tài chính,Truyện chữ,Sáng,Tablet,VI
+648,330,Manga,Truyện chữ,Chiều,Tablet,VI
+649,330,Tài chính,Truyện tranh,Chiều,Tablet,EN
+650,331,Fantasy,Truyện tranh,Tối,PC,VI
+651,331,Kỹ năng,Truyện chữ,Sáng,PC,EN
+652,332,Kỹ năng,Truyện tranh,Sáng,Tablet,EN
+653,332,Tài chính,Truyện tranh,Sáng,Tablet,EN
+654,333,Manga,Truyện tranh,Chiều,PC,EN
+655,334,Tài chính,Truyện chữ,Chiều,PC,VI
+656,335,Kỹ năng,Truyện tranh,Sáng,Tablet,EN
+657,336,Tài chính,Truyện chữ,Chiều,PC,VI
+658,336,Tài chính,Truyện tranh,Tối,Mobile,VI
+659,336,Kỹ năng,Truyện chữ,Tối,Tablet,EN
+660,337,Manga,Truyện chữ,Chiều,Tablet,VI
+661,337,Fantasy,Truyện chữ,Chiều,PC,EN
+662,337,Fantasy,Truyện tranh,Tối,PC,VI
+663,338,Kỹ năng,Truyện tranh,Sáng,Tablet,VI
+664,338,Manga,Truyện tranh,Tối,PC,VI
+665,339,Kỹ năng,Truyện chữ,Sáng,Tablet,EN
+666,339,Classic,Truyện chữ,Sáng,Tablet,EN
+667,339,Tài chính,Truyện tranh,Chiều,Tablet,VI
+668,340,Tài chính,Truyện tranh,Sáng,Tablet,EN
+669,341,Romance,Truyện chữ,Sáng,PC,VI
+670,341,Manga,Truyện tranh,Sáng,Mobile,EN
+671,341,Kỹ năng,Truyện chữ,Chiều,Tablet,EN
+672,342,Manga,Truyện tranh,Tối,Tablet,EN
+673,343,Kỹ năng,Truyện chữ,Sáng,Tablet,VI
+674,343,Classic,Truyện chữ,Chiều,PC,EN
+675,344,Tài chính,Truyện tranh,Chiều,Tablet,VI
+676,345,Kỹ năng,Truyện tranh,Tối,Tablet,VI
+677,346,Romance,Truyện chữ,Sáng,Tablet,EN
+678,346,Classic,Truyện tranh,Chiều,Mobile,VI
+679,346,Fantasy,Truyện tranh,Chiều,Mobile,EN
+680,347,Manga,Truyện chữ,Tối,Mobile,VI
+681,347,Manga,Truyện tranh,Sáng,Tablet,EN
+682,347,Classic,Truyện tranh,Chiều,Tablet,VI
+683,348,Tài chính,Truyện tranh,Chiều,Mobile,VI
+684,349,Classic,Truyện chữ,Tối,Tablet,EN
+685,350,Tài chính,Truyện tranh,Chiều,PC,VI
+686,350,Tài chính,Truyện tranh,Tối,Tablet,EN
+687,350,Manga,Truyện tranh,Chiều,Mobile,VI
+688,351,Romance,Truyện tranh,Chiều,Tablet,EN
+689,351,Manga,Truyện chữ,Tối,PC,VI
+690,352,Classic,Truyện chữ,Chiều,PC,VI
+691,352,Tài chính,Truyện tranh,Tối,Mobile,EN
+692,353,Manga,Truyện tranh,Sáng,Mobile,VI
+693,353,Classic,Truyện chữ,Tối,Tablet,EN
+694,353,Classic,Truyện tranh,Sáng,PC,EN
+695,354,Classic,Truyện tranh,Tối,PC,VI
+696,354,Manga,Truyện chữ,Sáng,PC,VI
+697,355,Fantasy,Truyện tranh,Tối,Tablet,EN
+698,355,Manga,Truyện tranh,Sáng,Tablet,VI
+699,356,Tài chính,Truyện tranh,Chiều,Mobile,VI
+700,356,Tài chính,Truyện tranh,Tối,PC,VI
+701,357,Manga,Truyện chữ,Tối,Tablet,VI
+702,357,Kỹ năng,Truyện chữ,Sáng,Mobile,VI
+703,358,Tài chính,Truyện tranh,Sáng,Tablet,EN
+704,358,Tài chính,Truyện chữ,Sáng,Tablet,VI
+705,359,Fantasy,Truyện tranh,Tối,PC,VI
+706,359,Fantasy,Truyện chữ,Tối,Tablet,EN
+707,359,Romance,Truyện tranh,Sáng,PC,VI
+708,360,Kỹ năng,Truyện chữ,Sáng,Mobile,EN
+709,360,Manga,Truyện tranh,Chiều,Mobile,VI
+710,360,Kỹ năng,Truyện chữ,Sáng,PC,EN
+711,361,Manga,Truyện chữ,Tối,PC,VI
+712,361,Tài chính,Truyện tranh,Chiều,PC,EN
+713,362,Manga,Truyện chữ,Chiều,Mobile,EN
+714,362,Classic,Truyện tranh,Sáng,PC,VI
+715,363,Kỹ năng,Truyện chữ,Chiều,Tablet,EN
+716,364,Kỹ năng,Truyện tranh,Tối,PC,VI
+717,364,Classic,Truyện chữ,Chiều,Tablet,VI
+718,364,Fantasy,Truyện tranh,Tối,Tablet,EN
+719,365,Kỹ năng,Truyện tranh,Sáng,Mobile,EN
+720,366,Fantasy,Truyện tranh,Tối,PC,EN
+721,366,Kỹ năng,Truyện chữ,Sáng,PC,VI
+722,367,Romance,Truyện chữ,Sáng,Mobile,EN
+723,367,Tài chính,Truyện chữ,Chiều,Mobile,VI
+724,367,Classic,Truyện tranh,Chiều,Tablet,VI
+725,368,Kỹ năng,Truyện tranh,Tối,Tablet,EN
+726,369,Kỹ năng,Truyện chữ,Tối,Mobile,VI
+727,369,Romance,Truyện tranh,Chiều,Mobile,VI
+728,370,Manga,Truyện chữ,Chiều,Mobile,VI
+729,370,Fantasy,Truyện tranh,Sáng,Tablet,VI
+730,370,Romance,Truyện chữ,Tối,Tablet,EN
+731,371,Classic,Truyện chữ,Tối,Mobile,VI
+732,371,Tài chính,Truyện chữ,Tối,Tablet,EN
+733,371,Manga,Truyện chữ,Sáng,Tablet,EN
+734,372,Fantasy,Truyện tranh,Chiều,Tablet,EN
+735,373,Classic,Truyện tranh,Chiều,PC,EN
+736,373,Classic,Truyện tranh,Sáng,Tablet,VI
+737,373,Fantasy,Truyện tranh,Tối,Tablet,VI
+738,374,Fantasy,Truyện tranh,Tối,Tablet,VI
+739,374,Kỹ năng,Truyện chữ,Sáng,Mobile,EN
+740,375,Tài chính,Truyện tranh,Tối,Tablet,VI
+741,375,Tài chính,Truyện tranh,Sáng,Mobile,VI
+742,376,Kỹ năng,Truyện tranh,Chiều,PC,VI
+743,377,Classic,Truyện chữ,Chiều,Mobile,EN
+744,377,Manga,Truyện tranh,Sáng,PC,VI
+745,377,Tài chính,Truyện tranh,Tối,Tablet,VI
+746,378,Classic,Truyện chữ,Sáng,PC,EN
+747,378,Manga,Truyện tranh,Sáng,Mobile,EN
+748,379,Kỹ năng,Truyện tranh,Tối,Mobile,VI
+749,379,Tài chính,Truyện chữ,Sáng,Mobile,EN
+750,380,Manga,Truyện tranh,Tối,PC,EN
+751,380,Fantasy,Truyện tranh,Tối,PC,EN
+752,381,Classic,Truyện tranh,Sáng,PC,VI
+753,381,Romance,Truyện chữ,Chiều,PC,EN
+754,381,Manga,Truyện chữ,Chiều,Tablet,VI
+755,382,Manga,Truyện chữ,Tối,PC,EN
+756,383,Tài chính,Truyện tranh,Tối,Mobile,EN
+757,384,Kỹ năng,Truyện tranh,Sáng,Tablet,VI
+758,384,Fantasy,Truyện tranh,Tối,Tablet,VI
+759,384,Manga,Truyện tranh,Tối,PC,VI
+760,385,Classic,Truyện chữ,Tối,Mobile,VI
+761,386,Manga,Truyện tranh,Tối,PC,EN
+762,387,Manga,Truyện chữ,Sáng,Tablet,EN
+763,388,Tài chính,Truyện chữ,Sáng,PC,EN
+764,388,Kỹ năng,Truyện tranh,Sáng,PC,VI
+765,388,Classic,Truyện chữ,Sáng,Mobile,EN
+766,389,Romance,Truyện chữ,Sáng,Mobile,VI
+767,389,Kỹ năng,Truyện tranh,Sáng,Tablet,EN
+768,390,Romance,Truyện tranh,Sáng,PC,VI
+769,390,Manga,Truyện tranh,Sáng,PC,EN
+770,390,Romance,Truyện chữ,Chiều,Tablet,VI
+771,391,Romance,Truyện tranh,Chiều,Tablet,EN
+772,391,Tài chính,Truyện tranh,Chiều,Tablet,EN
+773,392,Manga,Truyện tranh,Tối,PC,EN
+774,393,Romance,Truyện tranh,Chiều,Tablet,VI
+775,393,Manga,Truyện chữ,Sáng,PC,EN
+776,393,Kỹ năng,Truyện chữ,Sáng,Tablet,EN
+777,394,Kỹ năng,Truyện chữ,Tối,Mobile,EN
+778,394,Kỹ năng,Truyện tranh,Sáng,Mobile,VI
+779,394,Fantasy,Truyện tranh,Tối,Tablet,EN
+780,395,Manga,Truyện tranh,Tối,PC,VI
+781,395,Manga,Truyện tranh,Sáng,Mobile,VI
+782,395,Tài chính,Truyện tranh,Tối,PC,EN
+783,396,Classic,Truyện chữ,Tối,Tablet,EN
+784,396,Tài chính,Truyện chữ,Chiều,Tablet,VI
+785,397,Fantasy,Truyện tranh,Tối,Tablet,VI
+786,397,Kỹ năng,Truyện tranh,Tối,Mobile,EN
+787,398,Manga,Truyện chữ,Tối,Tablet,EN
+788,399,Kỹ năng,Truyện chữ,Tối,Mobile,EN
+789,399,Tài chính,Truyện chữ,Tối,Tablet,EN
+790,400,Fantasy,Truyện tranh,Chiều,Mobile,EN
+791,400,Kỹ năng,Truyện tranh,Tối,Mobile,EN
+792,401,Romance,Truyện tranh,Chiều,PC,VI
+793,402,Classic,Truyện chữ,Tối,PC,VI
+794,402,Classic,Truyện tranh,Chiều,PC,VI
+795,403,Manga,Truyện chữ,Sáng,Tablet,EN
+796,403,Romance,Truyện tranh,Tối,Mobile,VI
+797,403,Romance,Truyện tranh,Tối,Tablet,VI
+798,404,Romance,Truyện tranh,Tối,Tablet,VI
+799,404,Classic,Truyện tranh,Tối,PC,VI
+800,404,Fantasy,Truyện tranh,Tối,PC,EN
+801,405,Kỹ năng,Truyện tranh,Chiều,Mobile,EN
+802,405,Tài chính,Truyện chữ,Chiều,PC,EN
+803,405,Romance,Truyện tranh,Tối,Tablet,VI
+804,406,Tài chính,Truyện chữ,Tối,Mobile,VI
+805,406,Kỹ năng,Truyện tranh,Chiều,Mobile,EN
+806,407,Kỹ năng,Truyện chữ,Sáng,Tablet,VI
+807,408,Manga,Truyện chữ,Tối,Tablet,EN
+808,408,Fantasy,Truyện tranh,Tối,Tablet,EN
+809,408,Fantasy,Truyện chữ,Tối,Tablet,VI
+810,409,Classic,Truyện tranh,Chiều,Tablet,VI
+811,410,Kỹ năng,Truyện chữ,Chiều,Tablet,EN
+812,410,Fantasy,Truyện tranh,Sáng,Mobile,VI
+813,410,Fantasy,Truyện tranh,Sáng,PC,VI
+814,411,Kỹ năng,Truyện tranh,Tối,Tablet,VI
+815,411,Romance,Truyện chữ,Chiều,Tablet,VI
+816,411,Tài chính,Truyện tranh,Tối,Tablet,EN
+817,412,Tài chính,Truyện tranh,Sáng,Mobile,VI
+818,412,Classic,Truyện tranh,Chiều,Tablet,VI
+819,413,Kỹ năng,Truyện tranh,Chiều,Tablet,EN
+820,413,Classic,Truyện chữ,Sáng,Tablet,VI
+821,413,Fantasy,Truyện chữ,Chiều,PC,EN
+822,414,Classic,Truyện chữ,Sáng,PC,EN
+823,415,Manga,Truyện tranh,Sáng,Mobile,VI
+824,415,Fantasy,Truyện chữ,Tối,Tablet,EN
+825,416,Kỹ năng,Truyện chữ,Sáng,Mobile,VI
+826,417,Romance,Truyện chữ,Tối,Mobile,EN
+827,417,Manga,Truyện tranh,Tối,PC,VI
+828,417,Tài chính,Truyện chữ,Tối,Tablet,VI
+829,418,Kỹ năng,Truyện chữ,Sáng,PC,EN
+830,418,Tài chính,Truyện chữ,Chiều,Mobile,VI
+831,418,Kỹ năng,Truyện tranh,Chiều,Mobile,EN
+832,419,Fantasy,Truyện tranh,Sáng,Mobile,VI
+833,420,Fantasy,Truyện tranh,Chiều,Mobile,VI
+834,420,Fantasy,Truyện chữ,Sáng,Mobile,EN
+835,421,Tài chính,Truyện chữ,Chiều,Tablet,EN
+836,421,Manga,Truyện tranh,Tối,Mobile,VI
+837,422,Kỹ năng,Truyện chữ,Tối,Tablet,VI
+838,422,Classic,Truyện chữ,Tối,PC,EN
+839,422,Kỹ năng,Truyện chữ,Tối,PC,VI
+840,423,Romance,Truyện chữ,Chiều,Tablet,EN
+841,423,Fantasy,Truyện chữ,Chiều,Tablet,EN
+842,424,Kỹ năng,Truyện chữ,Chiều,PC,VI
+843,424,Romance,Truyện tranh,Chiều,Tablet,EN
+844,424,Fantasy,Truyện tranh,Tối,Tablet,EN
+845,425,Fantasy,Truyện chữ,Tối,PC,VI
+846,426,Kỹ năng,Truyện chữ,Tối,Mobile,VI
+847,427,Classic,Truyện tranh,Tối,PC,EN
+848,427,Classic,Truyện chữ,Sáng,PC,VI
+849,427,Fantasy,Truyện chữ,Chiều,PC,VI
+850,428,Manga,Truyện tranh,Tối,Mobile,VI
+851,428,Kỹ năng,Truyện chữ,Chiều,Mobile,EN
+852,428,Classic,Truyện tranh,Tối,PC,VI
+853,429,Romance,Truyện chữ,Tối,Mobile,EN
+854,429,Tài chính,Truyện tranh,Chiều,PC,EN
+855,430,Romance,Truyện tranh,Chiều,PC,EN
+856,430,Romance,Truyện tranh,Tối,Mobile,EN
+857,431,Manga,Truyện chữ,Chiều,PC,EN
+858,431,Manga,Truyện chữ,Chiều,Tablet,EN
+859,431,Romance,Truyện tranh,Sáng,Tablet,EN
+860,432,Romance,Truyện tranh,Tối,Mobile,EN
+861,432,Manga,Truyện tranh,Chiều,Mobile,VI
+862,432,Manga,Truyện tranh,Sáng,PC,VI
+863,433,Fantasy,Truyện chữ,Tối,Tablet,VI
+864,434,Classic,Truyện tranh,Chiều,Tablet,EN
+865,434,Classic,Truyện chữ,Chiều,Mobile,EN
+866,435,Classic,Truyện tranh,Chiều,PC,VI
+867,435,Tài chính,Truyện tranh,Sáng,Tablet,VI
+868,435,Romance,Truyện tranh,Sáng,Mobile,VI
+869,436,Tài chính,Truyện tranh,Tối,Tablet,VI
+870,436,Tài chính,Truyện tranh,Chiều,PC,EN
+871,436,Romance,Truyện chữ,Sáng,Tablet,VI
+872,437,Manga,Truyện chữ,Sáng,PC,EN
+873,437,Romance,Truyện chữ,Sáng,Mobile,VI
+874,437,Manga,Truyện chữ,Tối,PC,EN
+875,438,Classic,Truyện chữ,Tối,PC,EN
+876,439,Tài chính,Truyện chữ,Tối,Tablet,VI
+877,440,Kỹ năng,Truyện tranh,Tối,PC,VI
+878,441,Romance,Truyện chữ,Sáng,PC,EN
+879,441,Romance,Truyện tranh,Chiều,PC,VI
+880,442,Romance,Truyện tranh,Tối,PC,VI
+881,442,Tài chính,Truyện chữ,Tối,Tablet,VI
+882,442,Fantasy,Truyện tranh,Tối,PC,VI
+883,443,Manga,Truyện chữ,Sáng,Mobile,EN
+884,443,Kỹ năng,Truyện chữ,Chiều,PC,VI
+885,444,Manga,Truyện tranh,Tối,Mobile,VI
+886,444,Fantasy,Truyện tranh,Sáng,Mobile,VI
+887,444,Tài chính,Truyện chữ,Chiều,PC,EN
+888,445,Classic,Truyện tranh,Tối,PC,EN
+889,445,Kỹ năng,Truyện chữ,Chiều,Mobile,VI
+890,445,Kỹ năng,Truyện chữ,Tối,PC,VI
+891,446,Classic,Truyện chữ,Sáng,Mobile,EN
+892,446,Tài chính,Truyện chữ,Chiều,PC,EN
+893,446,Fantasy,Truyện tranh,Chiều,PC,VI
+894,447,Fantasy,Truyện tranh,Chiều,Mobile,EN
+895,447,Tài chính,Truyện tranh,Chiều,PC,VI
+896,447,Manga,Truyện tranh,Tối,PC,EN
+897,448,Kỹ năng,Truyện tranh,Chiều,Mobile,EN
+898,448,Kỹ năng,Truyện chữ,Sáng,PC,EN
+899,449,Romance,Truyện tranh,Tối,Tablet,VI
+900,449,Romance,Truyện chữ,Sáng,Mobile,EN
+901,449,Manga,Truyện tranh,Sáng,PC,EN
+902,450,Romance,Truyện tranh,Tối,PC,VI
+903,450,Romance,Truyện tranh,Chiều,Mobile,VI
+904,451,Romance,Truyện tranh,Sáng,Tablet,VI
+905,451,Classic,Truyện tranh,Chiều,Mobile,EN
+906,452,Fantasy,Truyện chữ,Sáng,Tablet,VI
+907,453,Tài chính,Truyện tranh,Chiều,PC,VI
+908,453,Fantasy,Truyện chữ,Chiều,PC,VI
+909,454,Romance,Truyện chữ,Chiều,Mobile,VI
+910,455,Classic,Truyện tranh,Tối,Mobile,VI
+911,455,Kỹ năng,Truyện chữ,Chiều,PC,VI
+912,455,Tài chính,Truyện chữ,Chiều,Tablet,EN
+913,456,Fantasy,Truyện tranh,Chiều,Mobile,VI
+914,457,Classic,Truyện tranh,Sáng,PC,EN
+915,457,Tài chính,Truyện tranh,Tối,Tablet,VI
+916,458,Kỹ năng,Truyện chữ,Sáng,PC,VI
+917,458,Kỹ năng,Truyện tranh,Sáng,Mobile,EN
+918,458,Manga,Truyện tranh,Sáng,Tablet,VI
+919,459,Tài chính,Truyện chữ,Tối,PC,VI
+920,459,Manga,Truyện chữ,Tối,Tablet,VI
+921,459,Classic,Truyện tranh,Sáng,Tablet,VI
+922,460,Manga,Truyện tranh,Sáng,Tablet,EN
+923,460,Classic,Truyện tranh,Chiều,Mobile,EN
+924,461,Classic,Truyện tranh,Chiều,PC,EN
+925,461,Manga,Truyện tranh,Chiều,Mobile,VI
+926,461,Classic,Truyện tranh,Tối,Tablet,EN
+927,462,Tài chính,Truyện tranh,Sáng,Mobile,EN
+928,462,Fantasy,Truyện chữ,Tối,Mobile,EN
+929,462,Kỹ năng,Truyện chữ,Sáng,Tablet,VI
+930,463,Kỹ năng,Truyện tranh,Tối,Mobile,EN
+931,464,Classic,Truyện chữ,Tối,Tablet,EN
+932,464,Manga,Truyện tranh,Tối,Mobile,VI
+933,465,Romance,Truyện chữ,Chiều,PC,VI
+934,465,Tài chính,Truyện chữ,Chiều,Mobile,EN
+935,466,Classic,Truyện chữ,Chiều,PC,EN
+936,466,Manga,Truyện chữ,Sáng,PC,EN
+937,466,Kỹ năng,Truyện chữ,Chiều,Mobile,VI
+938,467,Classic,Truyện tranh,Tối,Mobile,EN
+939,468,Romance,Truyện chữ,Chiều,PC,EN
+940,469,Manga,Truyện chữ,Chiều,Tablet,VI
+941,470,Tài chính,Truyện chữ,Sáng,Tablet,EN
+942,470,Tài chính,Truyện chữ,Tối,Tablet,EN
+943,470,Romance,Truyện chữ,Chiều,PC,EN
+944,471,Tài chính,Truyện chữ,Chiều,Mobile,EN
+945,472,Classic,Truyện tranh,Chiều,Tablet,VI
+946,473,Fantasy,Truyện tranh,Sáng,Mobile,VI
+947,473,Kỹ năng,Truyện tranh,Sáng,Tablet,VI
+948,474,Kỹ năng,Truyện tranh,Chiều,Tablet,VI
+949,474,Fantasy,Truyện chữ,Tối,PC,EN
+950,474,Fantasy,Truyện chữ,Chiều,Mobile,VI
+951,475,Manga,Truyện tranh,Chiều,Tablet,VI
+952,475,Tài chính,Truyện tranh,Tối,Mobile,EN
+953,475,Romance,Truyện tranh,Sáng,PC,EN
+954,476,Kỹ năng,Truyện tranh,Tối,Tablet,VI
+955,476,Manga,Truyện tranh,Chiều,PC,VI
+956,476,Manga,Truyện tranh,Tối,Mobile,VI
+957,477,Romance,Truyện tranh,Sáng,PC,EN
+958,477,Tài chính,Truyện chữ,Tối,PC,EN
+959,478,Romance,Truyện chữ,Sáng,PC,VI
+960,478,Tài chính,Truyện chữ,Tối,Mobile,VI
+961,478,Kỹ năng,Truyện tranh,Sáng,PC,VI
+962,479,Tài chính,Truyện chữ,Sáng,Mobile,EN
+963,479,Tài chính,Truyện tranh,Tối,PC,VI
+964,479,Tài chính,Truyện tranh,Chiều,Tablet,VI
+965,480,Manga,Truyện chữ,Chiều,Tablet,EN
+966,481,Romance,Truyện tranh,Tối,Tablet,EN
+967,481,Classic,Truyện tranh,Chiều,PC,VI
+968,482,Classic,Truyện tranh,Tối,Mobile,EN
+969,483,Tài chính,Truyện chữ,Chiều,Tablet,VI
+970,484,Classic,Truyện chữ,Sáng,PC,VI
+971,484,Fantasy,Truyện tranh,Chiều,PC,EN
+972,484,Classic,Truyện chữ,Sáng,Tablet,EN
+973,485,Kỹ năng,Truyện chữ,Chiều,Mobile,VI
+974,486,Tài chính,Truyện chữ,Chiều,Tablet,EN
+975,487,Kỹ năng,Truyện chữ,Tối,Tablet,VI
+976,487,Kỹ năng,Truyện chữ,Chiều,PC,VI
+977,488,Fantasy,Truyện tranh,Tối,Mobile,EN
+978,488,Tài chính,Truyện chữ,Tối,PC,EN
+979,488,Fantasy,Truyện chữ,Sáng,Tablet,VI
+980,489,Tài chính,Truyện tranh,Chiều,Mobile,EN
+981,489,Kỹ năng,Truyện tranh,Sáng,Tablet,EN
+982,489,Romance,Truyện chữ,Chiều,PC,EN
+983,490,Classic,Truyện chữ,Sáng,Mobile,VI
+984,490,Kỹ năng,Truyện chữ,Sáng,PC,VI
+985,490,Romance,Truyện chữ,Sáng,Mobile,EN
+986,491,Fantasy,Truyện tranh,Tối,Tablet,VI
+987,491,Kỹ năng,Truyện chữ,Tối,Tablet,EN
+988,492,Kỹ năng,Truyện tranh,Sáng,Mobile,VI
+989,492,Classic,Truyện tranh,Sáng,PC,VI
+990,493,Fantasy,Truyện chữ,Sáng,Mobile,EN
+991,493,Romance,Truyện chữ,Tối,Mobile,VI
+992,493,Classic,Truyện tranh,Chiều,Mobile,EN
+993,494,Classic,Truyện chữ,Sáng,Mobile,EN
+994,495,Tài chính,Truyện tranh,Chiều,PC,VI
+995,495,Manga,Truyện tranh,Tối,Mobile,VI
+996,496,Manga,Truyện tranh,Sáng,Mobile,VI
+997,497,Tài chính,Truyện chữ,Sáng,Mobile,VI
+998,497,Fantasy,Truyện chữ,Tối,Tablet,VI
+999,498,Tài chính,Truyện chữ,Tối,Tablet,VI
+1000,498,Kỹ năng,Truyện tranh,Chiều,PC,VI
+1001,499,Romance,Truyện tranh,Chiều,PC,VI
+1002,499,Manga,Truyện tranh,Chiều,Tablet,EN
+1003,500,Kỹ năng,Truyện tranh,Chiều,PC,VI

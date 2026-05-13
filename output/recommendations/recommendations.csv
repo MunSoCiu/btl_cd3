@@ -1,0 +1,2901 @@
+user_id,book_id,ten_sach,the_loai,final_score
+1,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+1,34,Outliers,Literature,0.8112222222222223
+1,83,Hooked,Literature,0.807
+1,81,The Lean Startup,Literature,0.8051111111111112
+1,79,Điểm Hẹn,Literature,0.758
+2,18,Số Đỏ,Classic,0.8555555555555555
+2,31,Lịch Sử Loài Người,Classic,0.808888888888889
+2,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+2,72,Demon Slayer,Classic,0.783888888888889
+2,50,Germinal,Classic,0.7423333333333333
+3,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+3,8,Naruto,Classic,0.8388888888888888
+3,24,Good to Great,Classic,0.8245555555555556
+3,4,Atomic Habits,Classic,0.816894271056014
+3,72,Demon Slayer,Classic,0.783888888888889
+4,59,Make Your Bed,Business,0.8463333333333333
+4,85,Continuous Discovery,Business,0.8222222222222222
+4,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+4,97,Mắt Biếc,Business,0.8043333333333333
+4,54,Ficciones,Business,0.7954444444444444
+5,66,Sách Trắng Tài Chính,Business,0.8651221115744103
+5,59,Make Your Bed,Business,0.8463333333333333
+5,85,Continuous Discovery,Business,0.8222222222222222
+5,21,Rich Dad Poor Dad,Business,0.8093333333333332
+5,97,Mắt Biếc,Business,0.8043333333333333
+6,66,Sách Trắng Tài Chính,Business,0.8651084833612742
+6,59,Make Your Bed,Business,0.8463333333333333
+6,85,Continuous Discovery,Business,0.8222222222222222
+6,97,Mắt Biếc,Business,0.8043333333333333
+6,54,Ficciones,Business,0.7954444444444444
+7,73,My Hero Academia,Fantasy,0.8757082688459561
+7,68,Bitcoin & Blockchain,Fantasy,0.8692638244015116
+7,67,Đầu Tư Chứng Khoán,Fantasy,0.8568571428571429
+7,56,The Power of Habit,Fantasy,0.8473333333333334
+7,94,Measure What Matters,Fantasy,0.7858888888888889
+8,59,Make Your Bed,Business,0.8463333333333333
+8,11,Harry Potter,Business,0.8222301513879038
+8,85,Continuous Discovery,Business,0.8222222222222222
+8,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+8,97,Mắt Biếc,Business,0.8043333333333333
+9,66,Sách Trắng Tài Chính,Business,0.8651082592010441
+9,59,Make Your Bed,Business,0.8463333333333333
+9,85,Continuous Discovery,Business,0.8222222222222222
+9,21,Rich Dad Poor Dad,Business,0.8093333333333332
+9,97,Mắt Biếc,Business,0.8043333333333333
+10,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+10,72,Demon Slayer,Classic,0.783888888888889
+10,4,Atomic Habits,Classic,0.766888888888889
+10,37,Pride and Prejudice,Classic,0.754
+10,50,Germinal,Classic,0.7423333333333333
+11,17,Quê Hương Tuổi Thơ,Fantasy,0.8924420639808219
+11,68,Bitcoin & Blockchain,Fantasy,0.8864515067099649
+11,56,The Power of Habit,Fantasy,0.8473333333333334
+11,12,The Hobbit,Fantasy,0.8167777777777778
+11,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+12,29,The Girl on the Train,Self-help,0.8444444444444444
+12,40,Great Expectations,Self-help,0.8416666666666667
+12,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+12,6,Doraemon,Self-help,0.8001111111111112
+12,64,Lão Hạc,Self-help,0.7969439967327377
+13,30,Big Little Lies,History,0.8190000000000001
+13,95,Radical Candor,History,0.808888888888889
+13,7,One Piece,History,0.8046666666666666
+13,14,Dune,History,0.7816666666666667
+13,69,Tự Do Tài Chính,History,0.7784444444444445
+14,29,The Girl on the Train,Self-help,0.8444444444444444
+14,40,Great Expectations,Self-help,0.8416666666666667
+14,58,Essentialism,Self-help,0.8144444444444445
+14,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+14,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+15,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+15,34,Outliers,Literature,0.8112222222222223
+15,83,Hooked,Literature,0.807
+15,81,The Lean Startup,Literature,0.8051111111111112
+15,49,Madame Bovary,Literature,0.8018888888888889
+16,21,Rich Dad Poor Dad,Business,0.889364553200241
+16,59,Make Your Bed,Business,0.8463333333333333
+16,85,Continuous Discovery,Business,0.8222222222222222
+16,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+16,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+17,59,Make Your Bed,Business,0.8463333333333333
+17,85,Continuous Discovery,Business,0.8222222222222222
+17,21,Rich Dad Poor Dad,Business,0.8093333333333332
+17,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+17,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+18,17,Quê Hương Tuổi Thơ,Fantasy,0.8699442231100567
+18,12,The Hobbit,Fantasy,0.8667877079053018
+18,56,The Power of Habit,Fantasy,0.8473333333333334
+18,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+18,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+19,59,Make Your Bed,Business,0.8463333333333333
+19,21,Rich Dad Poor Dad,Business,0.8093333333333332
+19,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+19,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+19,54,Ficciones,Business,0.7954444444444444
+20,52,Tình Yêu Thời Thổ Tả,Classic,0.8805395491190436
+20,18,Số Đỏ,Classic,0.8555555555555555
+20,8,Naruto,Classic,0.8388888888888888
+20,24,Good to Great,Classic,0.8245555555555556
+20,72,Demon Slayer,Classic,0.783888888888889
+21,8,Naruto,Classic,0.9388888888888888
+21,18,Số Đỏ,Classic,0.8555555555555555
+21,72,Demon Slayer,Classic,0.8410287913805962
+21,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+21,4,Atomic Habits,Classic,0.766888888888889
+22,29,The Girl on the Train,Self-help,0.8444444444444444
+22,40,Great Expectations,Self-help,0.8416666666666667
+22,58,Essentialism,Self-help,0.8144444444444445
+22,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+22,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+23,40,Great Expectations,Self-help,0.8416666666666667
+23,98,Tôi Thấy Hoa Vàng,Self-help,0.8331171803713797
+23,58,Essentialism,Self-help,0.8144444444444445
+23,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+23,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+24,14,Dune,History,0.8192177781442513
+24,30,Big Little Lies,History,0.8190000000000001
+24,7,One Piece,History,0.8046666666666666
+24,78,Thiên Thần Và Ác Quỷ,History,0.8001111111111112
+24,69,Tự Do Tài Chính,History,0.7784444444444445
+25,34,Outliers,Literature,0.8112222222222223
+25,83,Hooked,Literature,0.807
+25,39,Wuthering Heights,Literature,0.8065555555555555
+25,81,The Lean Startup,Literature,0.8051111111111112
+25,49,Madame Bovary,Literature,0.8018888888888889
+26,18,Số Đỏ,Classic,0.9127165575773993
+26,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+26,8,Naruto,Classic,0.8388888888888888
+26,24,Good to Great,Classic,0.8245555555555556
+26,31,Lịch Sử Loài Người,Classic,0.808888888888889
+27,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+27,8,Naruto,Classic,0.8388888888888888
+27,24,Good to Great,Classic,0.8245555555555556
+27,31,Lịch Sử Loài Người,Classic,0.808888888888889
+27,72,Demon Slayer,Classic,0.783888888888889
+28,56,The Power of Habit,Fantasy,0.8473333333333334
+28,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+28,12,The Hobbit,Fantasy,0.8167777777777778
+28,46,Bá Tước Monte Cristo,Fantasy,0.7932764930840077
+28,94,Measure What Matters,Fantasy,0.7858888888888889
+29,34,Outliers,Literature,0.8112222222222223
+29,83,Hooked,Literature,0.807
+29,39,Wuthering Heights,Literature,0.8065555555555555
+29,81,The Lean Startup,Literature,0.8051111111111112
+29,79,Điểm Hẹn,Literature,0.795491295164686
+30,85,Continuous Discovery,Business,0.8222222222222222
+30,21,Rich Dad Poor Dad,Business,0.8093333333333332
+30,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+30,97,Mắt Biếc,Business,0.8043333333333333
+30,54,Ficciones,Business,0.7954444444444444
+31,34,Outliers,Literature,0.8112222222222223
+31,83,Hooked,Literature,0.807
+31,39,Wuthering Heights,Literature,0.8065555555555555
+31,2,Nhà Giả Kim,Literature,0.761436949657941
+31,79,Điểm Hẹn,Literature,0.758
+32,48,Những Người Khốn Khổ,Business,0.8778888888888889
+32,85,Continuous Discovery,Business,0.8222222222222222
+32,21,Rich Dad Poor Dad,Business,0.8093333333333332
+32,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+32,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+33,18,Số Đỏ,Classic,0.45555555555555555
+33,76,Bố Già,Romance,0.4495555555555556
+33,56,The Power of Habit,Fantasy,0.44733333333333336
+33,43,Tư Duy Nhanh Chậm,Manga,0.44733333333333336
+33,59,Make Your Bed,Business,0.4463333333333333
+34,58,Essentialism,Self-help,0.8644508036483703
+34,40,Great Expectations,Self-help,0.8416666666666667
+34,63,Truyện Kiều,Self-help,0.8163839752711942
+34,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+34,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+35,35,Tipping Point,Business,0.8751111111111111
+35,59,Make Your Bed,Business,0.8463333333333333
+35,85,Continuous Discovery,Business,0.8222222222222222
+35,21,Rich Dad Poor Dad,Business,0.8093333333333332
+35,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+36,59,Make Your Bed,Business,0.8463333333333333
+36,85,Continuous Discovery,Business,0.8222222222222222
+36,21,Rich Dad Poor Dad,Business,0.8093333333333332
+36,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+36,97,Mắt Biếc,Business,0.8043333333333333
+37,56,The Power of Habit,Fantasy,0.8848314597573452
+37,17,Quê Hương Tuổi Thơ,Fantasy,0.8699448928197313
+37,73,My Hero Academia,Fantasy,0.832888888888889
+37,12,The Hobbit,Fantasy,0.8167777777777778
+37,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+38,30,Big Little Lies,History,0.8190000000000001
+38,75,Fullmetal Alchemist,History,0.8163333333333334
+38,95,Radical Candor,History,0.808888888888889
+38,7,One Piece,History,0.8046666666666666
+38,78,Thiên Thần Và Ác Quỷ,History,0.8001111111111112
+39,59,Make Your Bed,Business,0.9463186561509783
+39,35,Tipping Point,Business,0.8750993693652271
+39,44,Sức Mạnh Hiện Tại,Business,0.8689174638131693
+39,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+39,97,Mắt Biếc,Business,0.8043333333333333
+40,17,Quê Hương Tuổi Thơ,Fantasy,0.9324444444444444
+40,68,Bitcoin & Blockchain,Fantasy,0.8764668568935143
+40,56,The Power of Habit,Fantasy,0.8723445395578683
+40,73,My Hero Academia,Fantasy,0.832888888888889
+40,12,The Hobbit,Fantasy,0.8167777777777778
+41,29,The Girl on the Train,Self-help,0.8444444444444444
+41,40,Great Expectations,Self-help,0.8416666666666667
+41,58,Essentialism,Self-help,0.8144444444444445
+41,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+41,6,Doraemon,Self-help,0.8001111111111112
+42,59,Make Your Bed,Business,0.9263669067848515
+42,54,Ficciones,Business,0.8554696245330831
+42,85,Continuous Discovery,Business,0.8222222222222222
+42,21,Rich Dad Poor Dad,Business,0.8093333333333332
+42,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+43,17,Quê Hương Tuổi Thơ,Fantasy,0.919964612805805
+43,12,The Hobbit,Fantasy,0.8667976754900101
+43,56,The Power of Habit,Fantasy,0.8473333333333334
+43,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+43,94,Measure What Matters,Fantasy,0.8234038121730631
+44,18,Số Đỏ,Classic,0.8555555555555555
+44,8,Naruto,Classic,0.8388888888888888
+44,24,Good to Great,Classic,0.8245555555555556
+44,31,Lịch Sử Loài Người,Classic,0.808888888888889
+44,72,Demon Slayer,Classic,0.783888888888889
+45,79,Điểm Hẹn,Literature,0.858
+45,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+45,83,Hooked,Literature,0.807
+45,39,Wuthering Heights,Literature,0.8065555555555555
+45,81,The Lean Startup,Literature,0.8051111111111112
+46,100,Cô Đơn Trên Đại Dương,Self-help,0.8802222222222222
+46,40,Great Expectations,Self-help,0.8416666666666667
+46,64,Lão Hạc,Self-help,0.8194545575325245
+46,58,Essentialism,Self-help,0.8144444444444445
+46,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+47,67,Đầu Tư Chứng Khoán,Fantasy,0.8640308787107129
+47,56,The Power of Habit,Fantasy,0.8473333333333334
+47,73,My Hero Academia,Fantasy,0.832888888888889
+47,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+47,12,The Hobbit,Fantasy,0.8167777777777778
+48,59,Make Your Bed,Business,0.8463333333333333
+48,85,Continuous Discovery,Business,0.8222222222222222
+48,21,Rich Dad Poor Dad,Business,0.8093333333333332
+48,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+48,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+49,95,Radical Candor,History,0.8589712510673299
+49,30,Big Little Lies,History,0.8190000000000001
+49,7,One Piece,History,0.8046666666666666
+49,78,Thiên Thần Và Ác Quỷ,History,0.8001111111111112
+49,69,Tự Do Tài Chính,History,0.7784444444444445
+50,73,My Hero Academia,Fantasy,0.832888888888889
+50,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+50,12,The Hobbit,Fantasy,0.8167777777777778
+50,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+50,94,Measure What Matters,Fantasy,0.7858888888888889
+51,85,Continuous Discovery,Business,0.8222222222222222
+51,21,Rich Dad Poor Dad,Business,0.8093333333333332
+51,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+51,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+51,97,Mắt Biếc,Business,0.8043333333333333
+52,88,Và Núi Vang Vọng,Self-help,0.8477098652230532
+52,40,Great Expectations,Self-help,0.8416666666666667
+52,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+52,63,Truyện Kiều,Self-help,0.778888888888889
+52,57,Deep Work,Self-help,0.7737777777777778
+53,97,Mắt Biếc,Business,0.8642887966839358
+53,59,Make Your Bed,Business,0.8463333333333333
+53,11,Harry Potter,Business,0.8422222222222222
+53,1,Đắc Nhân Tâm,Business,0.8421820267145971
+53,85,Continuous Discovery,Business,0.8222222222222222
+54,59,Make Your Bed,Business,0.8463333333333333
+54,44,Sức Mạnh Hiện Tại,Business,0.8422214134736873
+54,85,Continuous Discovery,Business,0.8222222222222222
+54,21,Rich Dad Poor Dad,Business,0.8093333333333332
+54,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+55,59,Make Your Bed,Business,0.8963195807448584
+55,66,Sách Trắng Tài Chính,Business,0.8551175885497129
+55,21,Rich Dad Poor Dad,Business,0.8093333333333332
+55,97,Mắt Biếc,Business,0.8043333333333333
+55,54,Ficciones,Business,0.7954444444444444
+56,66,Sách Trắng Tài Chính,Business,0.8651083364319456
+56,59,Make Your Bed,Business,0.8463333333333333
+56,85,Continuous Discovery,Business,0.8222222222222222
+56,21,Rich Dad Poor Dad,Business,0.8093333333333332
+56,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+57,30,Big Little Lies,History,0.8190000000000001
+57,95,Radical Candor,History,0.808888888888889
+57,7,One Piece,History,0.8046666666666666
+57,78,Thiên Thần Và Ác Quỷ,History,0.8001111111111112
+57,69,Tự Do Tài Chính,History,0.7784444444444445
+58,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+58,18,Số Đỏ,Classic,0.8555555555555555
+58,24,Good to Great,Classic,0.8245555555555556
+58,31,Lịch Sử Loài Người,Classic,0.808888888888889
+58,72,Demon Slayer,Classic,0.783888888888889
+59,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+59,34,Outliers,Literature,0.8112222222222223
+59,39,Wuthering Heights,Literature,0.8065555555555555
+59,81,The Lean Startup,Literature,0.8051111111111112
+59,49,Madame Bovary,Literature,0.8018888888888889
+60,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8639558712446895
+60,29,The Girl on the Train,Self-help,0.8444444444444444
+60,40,Great Expectations,Self-help,0.8416666666666667
+60,58,Essentialism,Self-help,0.8144444444444445
+60,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+61,59,Make Your Bed,Business,0.8463333333333333
+61,85,Continuous Discovery,Business,0.8222222222222222
+61,60,Can't Hurt Me,Business,0.8115203058651663
+61,21,Rich Dad Poor Dad,Business,0.8093333333333332
+61,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+62,60,Can't Hurt Me,Business,0.8265368022316517
+62,85,Continuous Discovery,Business,0.8222222222222222
+62,21,Rich Dad Poor Dad,Business,0.8093333333333332
+62,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+62,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+63,8,Naruto,Classic,0.9388742117667919
+63,52,Tình Yêu Thời Thổ Tả,Classic,0.9005432121395741
+63,72,Demon Slayer,Classic,0.783888888888889
+63,4,Atomic Habits,Classic,0.766888888888889
+63,37,Pride and Prejudice,Classic,0.754
+64,18,Số Đỏ,Classic,0.8555555555555555
+64,8,Naruto,Classic,0.8388888888888888
+64,24,Good to Great,Classic,0.8245555555555556
+64,31,Lịch Sử Loài Người,Classic,0.808888888888889
+64,72,Demon Slayer,Classic,0.783888888888889
+65,29,The Girl on the Train,Self-help,0.8444444444444444
+65,58,Essentialism,Self-help,0.8144444444444445
+65,6,Doraemon,Self-help,0.8001111111111112
+65,89,Biển Rộng,Self-help,0.7979422739839358
+65,88,Và Núi Vang Vọng,Self-help,0.7876666666666667
+66,54,Ficciones,Business,0.8176590883906076
+66,21,Rich Dad Poor Dad,Business,0.8093333333333332
+66,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+66,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+66,35,Tipping Point,Business,0.7951111111111111
+67,34,Outliers,Literature,0.8112222222222223
+67,83,Hooked,Literature,0.807
+67,39,Wuthering Heights,Literature,0.8065555555555555
+67,81,The Lean Startup,Literature,0.8051111111111112
+67,79,Điểm Hẹn,Literature,0.758
+68,40,Great Expectations,Self-help,0.8416666666666667
+68,58,Essentialism,Self-help,0.8144444444444445
+68,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+68,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+68,6,Doraemon,Self-help,0.8001111111111112
+69,60,Can't Hurt Me,Business,0.8265542891884221
+69,85,Continuous Discovery,Business,0.8222222222222222
+69,21,Rich Dad Poor Dad,Business,0.8093333333333332
+69,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+69,74,Jujutsu Kaisen,Business,0.8085539921924919
+70,66,Sách Trắng Tài Chính,Business,0.8850951935574494
+70,44,Sức Mạnh Hiện Tại,Business,0.8688928316541666
+70,59,Make Your Bed,Business,0.8463333333333333
+70,85,Continuous Discovery,Business,0.8222222222222222
+70,21,Rich Dad Poor Dad,Business,0.8093333333333332
+71,85,Continuous Discovery,Business,0.8722206858937599
+71,59,Make Your Bed,Business,0.8463333333333333
+71,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+71,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+71,97,Mắt Biếc,Business,0.8043333333333333
+72,29,The Girl on the Train,Self-help,0.8444444444444444
+72,40,Great Expectations,Self-help,0.8416666666666667
+72,64,Lão Hạc,Self-help,0.8344354701118428
+72,58,Essentialism,Self-help,0.8144444444444445
+72,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+73,59,Make Your Bed,Business,0.8463333333333333
+73,85,Continuous Discovery,Business,0.8222222222222222
+73,21,Rich Dad Poor Dad,Business,0.8093333333333332
+73,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+73,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+74,59,Make Your Bed,Business,0.8463333333333333
+74,85,Continuous Discovery,Business,0.8222222222222222
+74,21,Rich Dad Poor Dad,Business,0.8093333333333332
+74,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+74,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+75,59,Make Your Bed,Business,0.9463333333333332
+75,35,Tipping Point,Business,0.8751111111111111
+75,10,Conan,Business,0.8392013173464802
+75,85,Continuous Discovery,Business,0.8222222222222222
+75,21,Rich Dad Poor Dad,Business,0.8093333333333332
+76,14,Dune,History,0.8416692052871859
+76,69,Tự Do Tài Chính,History,0.8384469830649637
+76,30,Big Little Lies,History,0.8190000000000001
+76,75,Fullmetal Alchemist,History,0.8163333333333334
+76,55,Vườn Nửa Đêm,History,0.7401111111111112
+77,59,Make Your Bed,Business,0.8463333333333333
+77,85,Continuous Discovery,Business,0.8222222222222222
+77,21,Rich Dad Poor Dad,Business,0.8093333333333332
+77,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+77,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+78,56,The Power of Habit,Fantasy,0.8848315933045562
+78,17,Quê Hương Tuổi Thơ,Fantasy,0.8699450079877029
+78,73,My Hero Academia,Fantasy,0.832888888888889
+78,12,The Hobbit,Fantasy,0.8167777777777778
+78,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+79,59,Make Your Bed,Business,0.8463333333333333
+79,85,Continuous Discovery,Business,0.8222222222222222
+79,21,Rich Dad Poor Dad,Business,0.8093333333333332
+79,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+79,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+80,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+80,39,Wuthering Heights,Literature,0.8065555555555555
+80,81,The Lean Startup,Literature,0.8051111111111112
+80,49,Madame Bovary,Literature,0.8018888888888889
+80,79,Điểm Hẹn,Literature,0.7955000605938181
+81,59,Make Your Bed,Business,0.8463333333333333
+81,85,Continuous Discovery,Business,0.8222222222222222
+81,21,Rich Dad Poor Dad,Business,0.8093333333333332
+81,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+81,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+82,59,Make Your Bed,Business,0.8463333333333333
+82,85,Continuous Discovery,Business,0.8222222222222222
+82,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+82,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+82,97,Mắt Biếc,Business,0.8043333333333333
+83,64,Lão Hạc,Self-help,0.8194382696266543
+83,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+83,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+83,6,Doraemon,Self-help,0.8001111111111112
+83,98,Tôi Thấy Hoa Vàng,Self-help,0.7831111111111111
+84,60,Can't Hurt Me,Business,0.8265336508658062
+84,85,Continuous Discovery,Business,0.8222222222222222
+84,21,Rich Dad Poor Dad,Business,0.8093333333333332
+84,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+84,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+85,29,The Girl on the Train,Self-help,0.8444444444444444
+85,40,Great Expectations,Self-help,0.8416666666666667
+85,58,Essentialism,Self-help,0.8144444444444445
+85,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+85,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+86,18,Số Đỏ,Classic,0.9555555555555555
+86,24,Good to Great,Classic,0.8245555555555556
+86,4,Atomic Habits,Classic,0.8239399714522175
+86,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+86,72,Demon Slayer,Classic,0.783888888888889
+87,59,Make Your Bed,Business,0.8463333333333333
+87,66,Sách Trắng Tài Chính,Business,0.8426169458076985
+87,85,Continuous Discovery,Business,0.8222222222222222
+87,21,Rich Dad Poor Dad,Business,0.8093333333333332
+87,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+88,56,The Power of Habit,Fantasy,0.8848314673976939
+88,17,Quê Hương Tuổi Thơ,Fantasy,0.8699448994085882
+88,73,My Hero Academia,Fantasy,0.832888888888889
+88,12,The Hobbit,Fantasy,0.8167777777777778
+88,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+89,18,Số Đỏ,Classic,0.8555555555555555
+89,8,Naruto,Classic,0.8388888888888888
+89,24,Good to Great,Classic,0.8245555555555556
+89,31,Lịch Sử Loài Người,Classic,0.808888888888889
+89,72,Demon Slayer,Classic,0.783888888888889
+90,40,Great Expectations,Self-help,0.9416666666666667
+90,29,The Girl on the Train,Self-help,0.8444444444444444
+90,58,Essentialism,Self-help,0.8144444444444445
+90,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+90,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+91,40,Great Expectations,Self-help,0.8416666666666667
+91,58,Essentialism,Self-help,0.8394364659790584
+91,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+91,63,Truyện Kiều,Self-help,0.8038809104235028
+91,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+92,45,Mindset,Business,0.8664444444444445
+92,59,Make Your Bed,Business,0.8463333333333333
+92,48,Những Người Khốn Khổ,Business,0.817888888888889
+92,21,Rich Dad Poor Dad,Business,0.8093333333333332
+92,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+93,44,Sức Mạnh Hiện Tại,Business,0.8588938787650865
+93,48,Những Người Khốn Khổ,Business,0.8445558864000904
+93,45,Mindset,Business,0.8331114419556459
+93,11,Harry Potter,Business,0.8288892197334237
+93,85,Continuous Discovery,Business,0.8222222222222222
+94,68,Bitcoin & Blockchain,Fantasy,0.9263358614367542
+94,22,The Intelligent Investor,Fantasy,0.8427719925304223
+94,73,My Hero Academia,Fantasy,0.832888888888889
+94,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+94,12,The Hobbit,Fantasy,0.8167777777777778
+95,17,Quê Hương Tuổi Thơ,Fantasy,0.8752964864668962
+95,68,Bitcoin & Blockchain,Fantasy,0.8692990888797707
+95,56,The Power of Habit,Fantasy,0.8473333333333334
+95,73,My Hero Academia,Fantasy,0.832888888888889
+95,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+96,17,Quê Hương Tuổi Thơ,Fantasy,0.8923709874873221
+96,56,The Power of Habit,Fantasy,0.8473333333333334
+96,73,My Hero Academia,Fantasy,0.832888888888889
+96,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+96,12,The Hobbit,Fantasy,0.8167777777777778
+97,67,Đầu Tư Chứng Khoán,Fantasy,0.8740000000000001
+97,84,Inspired,Fantasy,0.863
+97,73,My Hero Academia,Fantasy,0.832888888888889
+97,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+97,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+98,17,Quê Hương Tuổi Thơ,Fantasy,0.8924327015229683
+98,56,The Power of Habit,Fantasy,0.8473333333333334
+98,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+98,12,The Hobbit,Fantasy,0.8167777777777778
+98,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+99,59,Make Your Bed,Business,0.8463333333333333
+99,85,Continuous Discovery,Business,0.8222222222222222
+99,60,Can't Hurt Me,Business,0.8115553762472262
+99,21,Rich Dad Poor Dad,Business,0.8093333333333332
+99,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+100,54,Ficciones,Business,0.8754249725190726
+100,44,Sức Mạnh Hiện Tại,Business,0.8689081004137474
+100,59,Make Your Bed,Business,0.8463333333333333
+100,85,Continuous Discovery,Business,0.8222222222222222
+100,21,Rich Dad Poor Dad,Business,0.8093333333333332
+101,73,My Hero Academia,Fantasy,0.9128888888888891
+101,94,Measure What Matters,Fantasy,0.8858888888888888
+101,84,Inspired,Fantasy,0.863
+101,56,The Power of Habit,Fantasy,0.8473333333333334
+101,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+102,97,Mắt Biếc,Business,0.8487837915452886
+102,59,Make Your Bed,Business,0.8463333333333333
+102,85,Continuous Discovery,Business,0.8222222222222222
+102,21,Rich Dad Poor Dad,Business,0.8093333333333332
+102,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+103,30,Big Little Lies,History,0.8190000000000001
+103,75,Fullmetal Alchemist,History,0.8163333333333334
+103,95,Radical Candor,History,0.808888888888889
+103,69,Tự Do Tài Chính,History,0.7784444444444445
+103,55,Vườn Nửa Đêm,History,0.7401111111111112
+104,18,Số Đỏ,Classic,0.8555555555555555
+104,8,Naruto,Classic,0.8388888888888888
+104,24,Good to Great,Classic,0.8245555555555556
+104,72,Demon Slayer,Classic,0.783888888888889
+104,4,Atomic Habits,Classic,0.766888888888889
+105,17,Quê Hương Tuổi Thơ,Fantasy,0.869944949474156
+105,68,Bitcoin & Blockchain,Fantasy,0.8639430748386242
+105,56,The Power of Habit,Fantasy,0.8473333333333334
+105,73,My Hero Academia,Fantasy,0.832888888888889
+105,12,The Hobbit,Fantasy,0.8167777777777778
+106,59,Make Your Bed,Business,0.8463333333333333
+106,85,Continuous Discovery,Business,0.8222222222222222
+106,21,Rich Dad Poor Dad,Business,0.8093333333333332
+106,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+106,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+107,44,Sức Mạnh Hiện Tại,Business,0.8888541812563823
+107,59,Make Your Bed,Business,0.8863159795170799
+107,60,Can't Hurt Me,Business,0.8315127149507323
+107,85,Continuous Discovery,Business,0.8222222222222222
+107,21,Rich Dad Poor Dad,Business,0.8093333333333332
+108,52,Tình Yêu Thời Thổ Tả,Classic,0.8805358598903621
+108,18,Số Đỏ,Classic,0.8555555555555555
+108,8,Naruto,Classic,0.8388888888888888
+108,24,Good to Great,Classic,0.8245555555555556
+108,31,Lịch Sử Loài Người,Classic,0.808888888888889
+109,30,Big Little Lies,History,0.8190000000000001
+109,75,Fullmetal Alchemist,History,0.8163333333333334
+109,95,Radical Candor,History,0.808888888888889
+109,7,One Piece,History,0.8046666666666666
+109,78,Thiên Thần Và Ác Quỷ,History,0.8001111111111112
+110,17,Quê Hương Tuổi Thơ,Fantasy,0.8699448282900921
+110,56,The Power of Habit,Fantasy,0.8473333333333334
+110,73,My Hero Academia,Fantasy,0.832888888888889
+110,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+110,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+111,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8856355826861712
+111,29,The Girl on the Train,Self-help,0.8444444444444444
+111,40,Great Expectations,Self-help,0.8416666666666667
+111,98,Tôi Thấy Hoa Vàng,Self-help,0.8330903884574474
+111,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+112,68,Bitcoin & Blockchain,Fantasy,0.9064710074640309
+112,56,The Power of Habit,Fantasy,0.8473333333333334
+112,73,My Hero Academia,Fantasy,0.832888888888889
+112,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+112,12,The Hobbit,Fantasy,0.8167777777777778
+113,59,Make Your Bed,Business,0.9462680122216679
+113,85,Continuous Discovery,Business,0.8222222222222222
+113,21,Rich Dad Poor Dad,Business,0.8093333333333332
+113,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+113,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+114,56,The Power of Habit,Fantasy,0.8848281296534589
+114,68,Bitcoin & Blockchain,Fantasy,0.8639397046119569
+114,73,My Hero Academia,Fantasy,0.832888888888889
+114,12,The Hobbit,Fantasy,0.8167777777777778
+114,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+115,31,Lịch Sử Loài Người,Classic,0.908888888888889
+115,52,Tình Yêu Thời Thổ Tả,Classic,0.8805541125908152
+115,18,Số Đỏ,Classic,0.8555555555555555
+115,8,Naruto,Classic,0.8388888888888888
+115,24,Good to Great,Classic,0.8245555555555556
+116,29,The Girl on the Train,Self-help,0.8444444444444444
+116,40,Great Expectations,Self-help,0.8416666666666667
+116,100,Cô Đơn Trên Đại Dương,Self-help,0.8302182696143194
+116,58,Essentialism,Self-help,0.8144444444444445
+116,57,Deep Work,Self-help,0.8113012310225469
+117,68,Bitcoin & Blockchain,Fantasy,0.9264444444444445
+117,17,Quê Hương Tuổi Thơ,Fantasy,0.875299557266375
+117,56,The Power of Habit,Fantasy,0.8473333333333334
+117,73,My Hero Academia,Fantasy,0.832888888888889
+117,12,The Hobbit,Fantasy,0.8167777777777778
+118,44,Sức Mạnh Hiện Tại,Business,0.8689227211173655
+118,59,Make Your Bed,Business,0.8463333333333333
+118,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+118,97,Mắt Biếc,Business,0.8043333333333333
+118,54,Ficciones,Business,0.7954444444444444
+119,59,Make Your Bed,Business,0.8463333333333333
+119,85,Continuous Discovery,Business,0.8222222222222222
+119,21,Rich Dad Poor Dad,Business,0.8093333333333332
+119,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+119,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+120,12,The Hobbit,Fantasy,0.9167777777777778
+120,68,Bitcoin & Blockchain,Fantasy,0.9064486990833622
+120,17,Quê Hương Tuổi Thơ,Fantasy,0.8924398955921602
+120,65,Bỉ Vỏ,Fantasy,0.86122647686114
+120,73,My Hero Academia,Fantasy,0.832888888888889
+121,59,Make Your Bed,Business,0.8463333333333333
+121,85,Continuous Discovery,Business,0.8222222222222222
+121,21,Rich Dad Poor Dad,Business,0.8093333333333332
+121,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+121,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+122,65,Bỉ Vỏ,Fantasy,0.8812222222222222
+122,56,The Power of Habit,Fantasy,0.8473333333333334
+122,73,My Hero Academia,Fantasy,0.832888888888889
+122,84,Inspired,Fantasy,0.783
+122,27,Agatha Christie Collection,Fantasy,0.7572222222222222
+123,59,Make Your Bed,Business,0.8463333333333333
+123,21,Rich Dad Poor Dad,Business,0.8093333333333332
+123,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+123,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+123,97,Mắt Biếc,Business,0.8043333333333333
+124,59,Make Your Bed,Business,0.8463333333333333
+124,60,Can't Hurt Me,Business,0.8264765388850859
+124,85,Continuous Discovery,Business,0.8222222222222222
+124,21,Rich Dad Poor Dad,Business,0.8093333333333332
+124,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+125,59,Make Your Bed,Business,0.8463333333333333
+125,92,The Goal,Business,0.8228780202883114
+125,85,Continuous Discovery,Business,0.8222222222222222
+125,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+125,97,Mắt Biếc,Business,0.8043333333333333
+126,40,Great Expectations,Self-help,0.8791650841964627
+126,29,The Girl on the Train,Self-help,0.8444444444444444
+126,58,Essentialism,Self-help,0.8144444444444445
+126,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+126,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+127,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8940107387434169
+127,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8681188685171964
+127,29,The Girl on the Train,Self-help,0.8444444444444444
+127,40,Great Expectations,Self-help,0.8416666666666667
+127,58,Essentialism,Self-help,0.8144444444444445
+128,17,Quê Hương Tuổi Thơ,Fantasy,0.8752986488881361
+128,56,The Power of Habit,Fantasy,0.8473333333333334
+128,94,Measure What Matters,Fantasy,0.8430746444228794
+128,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+128,12,The Hobbit,Fantasy,0.8167777777777778
+129,59,Make Your Bed,Business,0.8463333333333333
+129,48,Những Người Khốn Khổ,Business,0.8278612556461574
+129,85,Continuous Discovery,Business,0.8222222222222222
+129,45,Mindset,Business,0.8164168112017129
+129,11,Harry Potter,Business,0.8121945889794907
+130,18,Số Đỏ,Classic,0.45555555555555555
+130,76,Bố Già,Romance,0.4495555555555556
+130,56,The Power of Habit,Fantasy,0.44733333333333336
+130,43,Tư Duy Nhanh Chậm,Manga,0.44733333333333336
+130,59,Make Your Bed,Business,0.4463333333333333
+131,56,The Power of Habit,Fantasy,0.8473333333333334
+131,73,My Hero Academia,Fantasy,0.832888888888889
+131,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+131,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+131,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+132,58,Essentialism,Self-help,0.8810968678536735
+132,40,Great Expectations,Self-help,0.8416666666666667
+132,98,Tôi Thấy Hoa Vàng,Self-help,0.8331125497997969
+132,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+132,88,Và Núi Vang Vọng,Self-help,0.7876666666666667
+133,29,The Girl on the Train,Self-help,0.8444444444444444
+133,40,Great Expectations,Self-help,0.8416666666666667
+133,58,Essentialism,Self-help,0.8144444444444445
+133,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+133,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+134,59,Make Your Bed,Business,0.8463333333333333
+134,85,Continuous Discovery,Business,0.8222222222222222
+134,21,Rich Dad Poor Dad,Business,0.8093333333333332
+134,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+134,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+135,35,Tipping Point,Business,0.8751111111111112
+135,59,Make Your Bed,Business,0.8463333333333333
+135,21,Rich Dad Poor Dad,Business,0.8093333333333332
+135,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+135,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+136,34,Outliers,Literature,0.8112222222222223
+136,83,Hooked,Literature,0.807
+136,39,Wuthering Heights,Literature,0.8065555555555555
+136,81,The Lean Startup,Literature,0.8051111111111112
+136,49,Madame Bovary,Literature,0.8018888888888889
+137,17,Quê Hương Tuổi Thơ,Fantasy,0.8924408379050194
+137,73,My Hero Academia,Fantasy,0.832888888888889
+137,12,The Hobbit,Fantasy,0.8167777777777778
+137,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+137,94,Measure What Matters,Fantasy,0.7858888888888889
+138,52,Tình Yêu Thời Thổ Tả,Classic,0.8577069452721937
+138,18,Số Đỏ,Classic,0.8555555555555555
+138,8,Naruto,Classic,0.8388888888888888
+138,24,Good to Great,Classic,0.8245555555555556
+138,31,Lịch Sử Loài Người,Classic,0.808888888888889
+139,59,Make Your Bed,Business,0.8463333333333333
+139,85,Continuous Discovery,Business,0.8222222222222222
+139,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+139,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+139,97,Mắt Biếc,Business,0.8043333333333333
+140,59,Make Your Bed,Business,0.8463333333333333
+140,85,Continuous Discovery,Business,0.8222222222222222
+140,21,Rich Dad Poor Dad,Business,0.8093333333333332
+140,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+140,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+141,85,Continuous Discovery,Business,0.9222222222222222
+141,59,Make Your Bed,Business,0.9213282889466126
+141,21,Rich Dad Poor Dad,Business,0.8093333333333332
+141,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+141,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+142,85,Continuous Discovery,Business,0.8222222222222222
+142,21,Rich Dad Poor Dad,Business,0.8093333333333332
+142,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+142,61,Dế Mèn Phiêu Lưu Ký,Business,0.8057777777777778
+142,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+143,58,Essentialism,Self-help,0.8944692292909177
+143,29,The Girl on the Train,Self-help,0.8444444444444444
+143,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+143,88,Và Núi Vang Vọng,Self-help,0.7876666666666667
+143,98,Tôi Thấy Hoa Vàng,Self-help,0.7831111111111111
+144,38,Jane Eyre,Manga,0.820888888888889
+144,28,Gone Girl,Manga,0.8038888888888889
+144,3,Sapiens,Manga,0.802888888888889
+144,93,Toyota Way,Manga,0.7867777777777778
+144,80,Trại Hoa Vàng,Manga,0.7844444444444445
+145,88,Và Núi Vang Vọng,Self-help,0.847685176747497
+145,29,The Girl on the Train,Self-help,0.8444444444444444
+145,40,Great Expectations,Self-help,0.8416666666666667
+145,100,Cô Đơn Trên Đại Dương,Self-help,0.8402222222222222
+145,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+146,66,Sách Trắng Tài Chính,Business,0.8550956516507441
+146,59,Make Your Bed,Business,0.8463333333333333
+146,85,Continuous Discovery,Business,0.8222222222222222
+146,21,Rich Dad Poor Dad,Business,0.8093333333333332
+146,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+147,59,Make Your Bed,Business,0.9264005930492589
+147,54,Ficciones,Business,0.8554948892313886
+147,85,Continuous Discovery,Business,0.8222222222222222
+147,21,Rich Dad Poor Dad,Business,0.8093333333333332
+147,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+148,83,Hooked,Literature,0.807
+148,39,Wuthering Heights,Literature,0.8065555555555555
+148,81,The Lean Startup,Literature,0.8051111111111112
+148,49,Madame Bovary,Literature,0.8018888888888889
+148,79,Điểm Hẹn,Literature,0.7955001066184829
+149,59,Make Your Bed,Business,0.8463333333333333
+149,60,Can't Hurt Me,Business,0.8265204104026027
+149,85,Continuous Discovery,Business,0.8222222222222222
+149,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+149,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+150,73,My Hero Academia,Fantasy,0.832888888888889
+150,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+150,12,The Hobbit,Fantasy,0.8167777777777778
+150,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+150,94,Measure What Matters,Fantasy,0.7858888888888889
+151,28,Gone Girl,Manga,0.8638888888888889
+151,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+151,38,Jane Eyre,Manga,0.820888888888889
+151,3,Sapiens,Manga,0.802888888888889
+151,93,Toyota Way,Manga,0.7867777777777778
+152,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+152,34,Outliers,Literature,0.8112222222222223
+152,81,The Lean Startup,Literature,0.8051111111111112
+152,49,Madame Bovary,Literature,0.8018888888888889
+152,79,Điểm Hẹn,Literature,0.758
+153,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+153,18,Số Đỏ,Classic,0.8555555555555555
+153,24,Good to Great,Classic,0.8245555555555556
+153,31,Lịch Sử Loài Người,Classic,0.808888888888889
+153,4,Atomic Habits,Classic,0.766888888888889
+154,59,Make Your Bed,Business,0.8463333333333333
+154,85,Continuous Discovery,Business,0.8222222222222222
+154,21,Rich Dad Poor Dad,Business,0.8093333333333332
+154,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+154,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+155,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+155,38,Jane Eyre,Manga,0.820888888888889
+155,99,Bức Thư Gửi Em,Manga,0.8057769637615763
+155,93,Toyota Way,Manga,0.7867777777777778
+155,80,Trại Hoa Vàng,Manga,0.7844444444444445
+156,66,Sách Trắng Tài Chính,Business,0.8551093186676555
+156,11,Harry Potter,Business,0.8288789394678743
+156,85,Continuous Discovery,Business,0.8222222222222222
+156,21,Rich Dad Poor Dad,Business,0.8093333333333332
+156,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+157,66,Sách Trắng Tài Chính,Business,0.9051111111111112
+157,59,Make Your Bed,Business,0.8463333333333333
+157,85,Continuous Discovery,Business,0.8222222222222222
+157,21,Rich Dad Poor Dad,Business,0.8093333333333332
+157,97,Mắt Biếc,Business,0.8043333333333333
+158,12,The Hobbit,Fantasy,0.9167777777777778
+158,17,Quê Hương Tuổi Thơ,Fantasy,0.8924439883776938
+158,56,The Power of Habit,Fantasy,0.8473333333333334
+158,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+158,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+159,59,Make Your Bed,Business,0.8463333333333333
+159,60,Can't Hurt Me,Business,0.8265586152647214
+159,85,Continuous Discovery,Business,0.8222222222222222
+159,21,Rich Dad Poor Dad,Business,0.8093333333333332
+159,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+160,29,The Girl on the Train,Self-help,0.8444444444444444
+160,40,Great Expectations,Self-help,0.8416666666666667
+160,58,Essentialism,Self-help,0.8144444444444445
+160,6,Doraemon,Self-help,0.8001111111111112
+160,88,Và Núi Vang Vọng,Self-help,0.7876666666666667
+161,59,Make Your Bed,Business,0.8463333333333333
+161,85,Continuous Discovery,Business,0.8222222222222222
+161,11,Harry Potter,Business,0.8222157699591925
+161,21,Rich Dad Poor Dad,Business,0.8093333333333332
+161,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+162,29,The Girl on the Train,Self-help,0.8444444444444444
+162,58,Essentialism,Self-help,0.8144444444444445
+162,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+162,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+162,6,Doraemon,Self-help,0.8001111111111112
+163,88,Và Núi Vang Vọng,Self-help,0.8477094114785881
+163,29,The Girl on the Train,Self-help,0.8444444444444444
+163,40,Great Expectations,Self-help,0.8416666666666667
+163,58,Essentialism,Self-help,0.8144444444444445
+163,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+164,44,Sức Mạnh Hiện Tại,Business,0.908888888888889
+164,66,Sách Trắng Tài Chính,Business,0.8479793802830703
+164,85,Continuous Discovery,Business,0.8222222222222222
+164,21,Rich Dad Poor Dad,Business,0.8093333333333332
+164,97,Mắt Biếc,Business,0.8043333333333333
+165,29,The Girl on the Train,Self-help,0.8444444444444444
+165,40,Great Expectations,Self-help,0.8416666666666667
+165,58,Essentialism,Self-help,0.8144444444444445
+165,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+165,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+166,65,Bỉ Vỏ,Fantasy,0.8478903238910509
+166,56,The Power of Habit,Fantasy,0.8473333333333334
+166,73,My Hero Academia,Fantasy,0.832888888888889
+166,12,The Hobbit,Fantasy,0.8167777777777778
+166,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+167,59,Make Your Bed,Business,0.8463333333333333
+167,60,Can't Hurt Me,Business,0.8265556686093892
+167,85,Continuous Discovery,Business,0.8222222222222222
+167,21,Rich Dad Poor Dad,Business,0.8093333333333332
+167,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+168,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+168,34,Outliers,Literature,0.8112222222222223
+168,83,Hooked,Literature,0.807
+168,49,Madame Bovary,Literature,0.8018888888888889
+168,79,Điểm Hẹn,Literature,0.758
+169,58,Essentialism,Self-help,0.9143037616925616
+169,29,The Girl on the Train,Self-help,0.8444444444444444
+169,40,Great Expectations,Self-help,0.8416666666666667
+169,100,Cô Đơn Trên Đại Dương,Self-help,0.8301767226719403
+169,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+170,40,Great Expectations,Self-help,0.8860935084989018
+170,29,The Girl on the Train,Self-help,0.8444444444444444
+170,58,Essentialism,Self-help,0.8144444444444445
+170,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+170,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+171,57,Deep Work,Self-help,0.8737777777777778
+171,63,Truyện Kiều,Self-help,0.8538888888888889
+171,29,The Girl on the Train,Self-help,0.8444444444444444
+171,40,Great Expectations,Self-help,0.8416666666666667
+171,58,Essentialism,Self-help,0.8144444444444445
+172,18,Số Đỏ,Classic,0.8555555555555555
+172,8,Naruto,Classic,0.8388888888888888
+172,24,Good to Great,Classic,0.8245555555555556
+172,31,Lịch Sử Loài Người,Classic,0.808888888888889
+172,4,Atomic Habits,Classic,0.766888888888889
+173,40,Great Expectations,Self-help,0.8416666666666667
+173,58,Essentialism,Self-help,0.8144444444444445
+173,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+173,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+173,89,Biển Rộng,Self-help,0.7979632130224079
+174,17,Quê Hương Tuổi Thơ,Fantasy,0.8699450575650988
+174,56,The Power of Habit,Fantasy,0.8473333333333334
+174,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+174,12,The Hobbit,Fantasy,0.8167777777777778
+174,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+175,21,Rich Dad Poor Dad,Business,0.8807926577251542
+175,97,Mắt Biếc,Business,0.8471965739771798
+175,85,Continuous Discovery,Business,0.8222222222222222
+175,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+175,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+176,44,Sức Mạnh Hiện Tại,Business,0.8688795010783529
+176,59,Make Your Bed,Business,0.8463333333333333
+176,21,Rich Dad Poor Dad,Business,0.8093333333333332
+176,61,Dế Mèn Phiêu Lưu Ký,Business,0.8057777777777778
+176,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+177,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+177,18,Số Đỏ,Classic,0.8555555555555555
+177,24,Good to Great,Classic,0.8245555555555556
+177,31,Lịch Sử Loài Người,Classic,0.808888888888889
+177,72,Demon Slayer,Classic,0.783888888888889
+178,30,Big Little Lies,History,0.8190000000000001
+178,95,Radical Candor,History,0.808888888888889
+178,7,One Piece,History,0.8046666666666666
+178,14,Dune,History,0.7816666666666667
+178,69,Tự Do Tài Chính,History,0.7784444444444445
+179,17,Quê Hương Tuổi Thơ,Fantasy,0.8699449297097839
+179,73,My Hero Academia,Fantasy,0.832888888888889
+179,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+179,12,The Hobbit,Fantasy,0.8167777777777778
+179,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+180,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+180,8,Naruto,Classic,0.8388888888888888
+180,24,Good to Great,Classic,0.8245555555555556
+180,31,Lịch Sử Loài Người,Classic,0.808888888888889
+180,72,Demon Slayer,Classic,0.783888888888889
+181,59,Make Your Bed,Business,0.8463333333333333
+181,85,Continuous Discovery,Business,0.8222222222222222
+181,21,Rich Dad Poor Dad,Business,0.8093333333333332
+181,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+181,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+182,18,Số Đỏ,Classic,0.8555555555555555
+182,8,Naruto,Classic,0.8388888888888888
+182,24,Good to Great,Classic,0.8245555555555556
+182,31,Lịch Sử Loài Người,Classic,0.808888888888889
+182,72,Demon Slayer,Classic,0.783888888888889
+183,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+183,8,Naruto,Classic,0.8388888888888888
+183,24,Good to Great,Classic,0.8245555555555556
+183,31,Lịch Sử Loài Người,Classic,0.808888888888889
+183,72,Demon Slayer,Classic,0.783888888888889
+184,59,Make Your Bed,Business,0.8463333333333333
+184,85,Continuous Discovery,Business,0.8222222222222222
+184,21,Rich Dad Poor Dad,Business,0.8093333333333332
+184,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+184,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+185,29,The Girl on the Train,Self-help,0.8444444444444444
+185,40,Great Expectations,Self-help,0.8416666666666667
+185,58,Essentialism,Self-help,0.8144444444444445
+185,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+185,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+186,28,Gone Girl,Manga,0.8038888888888889
+186,3,Sapiens,Manga,0.802888888888889
+186,93,Toyota Way,Manga,0.7867777777777778
+186,80,Trại Hoa Vàng,Manga,0.7844444444444445
+186,62,Tắt Đèn,Manga,0.7743333333333333
+187,68,Bitcoin & Blockchain,Fantasy,0.912178232174894
+187,56,The Power of Habit,Fantasy,0.8473333333333334
+187,73,My Hero Academia,Fantasy,0.832888888888889
+187,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+187,12,The Hobbit,Fantasy,0.8167777777777778
+188,17,Quê Hương Tuổi Thơ,Fantasy,0.9073529392438047
+188,56,The Power of Habit,Fantasy,0.8473333333333334
+188,73,My Hero Academia,Fantasy,0.832888888888889
+188,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+188,12,The Hobbit,Fantasy,0.8167777777777778
+189,59,Make Your Bed,Business,0.8463333333333333
+189,66,Sách Trắng Tài Chính,Business,0.8426107569005757
+189,54,Ficciones,Business,0.83294479865498
+189,85,Continuous Discovery,Business,0.8222222222222222
+189,21,Rich Dad Poor Dad,Business,0.8093333333333332
+190,29,The Girl on the Train,Self-help,0.9444444444444444
+190,98,Tôi Thấy Hoa Vàng,Self-help,0.8631221880906557
+190,58,Essentialism,Self-help,0.8144444444444445
+190,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+190,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+191,34,Outliers,Literature,0.8112222222222223
+191,83,Hooked,Literature,0.807
+191,81,The Lean Startup,Literature,0.8051111111111112
+191,49,Madame Bovary,Literature,0.8018888888888889
+191,26,Sherlock Holmes,Literature,0.7641099446543436
+192,29,The Girl on the Train,Self-help,0.8444444444444444
+192,40,Great Expectations,Self-help,0.8416666666666667
+192,98,Tôi Thấy Hoa Vàng,Self-help,0.8164364210023183
+192,6,Doraemon,Self-help,0.8001111111111112
+192,88,Và Núi Vang Vọng,Self-help,0.7876666666666667
+193,59,Make Your Bed,Business,0.8463333333333333
+193,85,Continuous Discovery,Business,0.8222222222222222
+193,21,Rich Dad Poor Dad,Business,0.8093333333333332
+193,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+193,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+194,17,Quê Hương Tuổi Thơ,Fantasy,0.869944772696881
+194,56,The Power of Habit,Fantasy,0.8473333333333334
+194,73,My Hero Academia,Fantasy,0.832888888888889
+194,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+194,12,The Hobbit,Fantasy,0.8167777777777778
+195,85,Continuous Discovery,Business,0.8222222222222222
+195,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+195,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+195,97,Mắt Biếc,Business,0.8043333333333333
+195,54,Ficciones,Business,0.7954444444444444
+196,48,Những Người Khốn Khổ,Business,0.8778888888888889
+196,21,Rich Dad Poor Dad,Business,0.8093333333333332
+196,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+196,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+196,97,Mắt Biếc,Business,0.8043333333333333
+197,85,Continuous Discovery,Business,0.8222222222222222
+197,21,Rich Dad Poor Dad,Business,0.8093333333333332
+197,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+197,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+197,97,Mắt Biếc,Business,0.8043333333333333
+198,17,Quê Hương Tuổi Thơ,Fantasy,0.8923987125348777
+198,73,My Hero Academia,Fantasy,0.832888888888889
+198,12,The Hobbit,Fantasy,0.8167777777777778
+198,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+198,94,Measure What Matters,Fantasy,0.7858888888888889
+199,17,Quê Hương Tuổi Thơ,Fantasy,0.8924342894533883
+199,56,The Power of Habit,Fantasy,0.8473333333333334
+199,73,My Hero Academia,Fantasy,0.832888888888889
+199,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+199,12,The Hobbit,Fantasy,0.8167777777777778
+200,17,Quê Hương Tuổi Thơ,Fantasy,0.869944526866909
+200,56,The Power of Habit,Fantasy,0.8473333333333334
+200,73,My Hero Academia,Fantasy,0.832888888888889
+200,12,The Hobbit,Fantasy,0.8167777777777778
+200,94,Measure What Matters,Fantasy,0.7858888888888889
+201,59,Make Your Bed,Business,0.8463333333333333
+201,21,Rich Dad Poor Dad,Business,0.8093333333333332
+201,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+201,97,Mắt Biếc,Business,0.8043333333333333
+201,54,Ficciones,Business,0.7954444444444444
+202,35,Tipping Point,Business,0.8617786117737265
+202,44,Sức Mạnh Hiện Tại,Business,0.858912996758498
+202,59,Make Your Bed,Business,0.8463333333333333
+202,85,Continuous Discovery,Business,0.8222222222222222
+202,21,Rich Dad Poor Dad,Business,0.8093333333333332
+203,17,Quê Hương Tuổi Thơ,Fantasy,0.8699449676679972
+203,68,Bitcoin & Blockchain,Fantasy,0.8639430901625397
+203,56,The Power of Habit,Fantasy,0.8473333333333334
+203,73,My Hero Academia,Fantasy,0.832888888888889
+203,12,The Hobbit,Fantasy,0.8167777777777778
+204,48,Những Người Khốn Khổ,Business,0.8578716599031722
+204,59,Make Your Bed,Business,0.8463333333333333
+204,10,Conan,Business,0.8392093004829346
+204,85,Continuous Discovery,Business,0.8222222222222222
+204,21,Rich Dad Poor Dad,Business,0.8093333333333332
+205,59,Make Your Bed,Business,0.8463333333333333
+205,21,Rich Dad Poor Dad,Business,0.8093333333333332
+205,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+205,97,Mắt Biếc,Business,0.8043333333333333
+205,1,Đắc Nhân Tâm,Business,0.8022102681230122
+206,24,Good to Great,Classic,0.8245555555555556
+206,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+206,4,Atomic Habits,Classic,0.766888888888889
+206,37,Pride and Prejudice,Classic,0.754
+206,50,Germinal,Classic,0.7423333333333333
+207,17,Quê Hương Tuổi Thơ,Fantasy,0.9073961548453853
+207,65,Bỉ Vỏ,Fantasy,0.8811809049236716
+207,56,The Power of Habit,Fantasy,0.8473333333333334
+207,73,My Hero Academia,Fantasy,0.832888888888889
+207,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+208,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+208,38,Jane Eyre,Manga,0.820888888888889
+208,93,Toyota Way,Manga,0.7867777777777778
+208,80,Trại Hoa Vàng,Manga,0.7844444444444445
+208,62,Tắt Đèn,Manga,0.7743333333333333
+209,59,Make Your Bed,Business,0.8463333333333333
+209,85,Continuous Discovery,Business,0.8222222222222222
+209,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+209,97,Mắt Biếc,Business,0.8043333333333333
+209,54,Ficciones,Business,0.7954444444444444
+210,44,Sức Mạnh Hiện Tại,Business,0.8888869861177714
+210,97,Mắt Biếc,Business,0.8643381734963977
+210,85,Continuous Discovery,Business,0.8222222222222222
+210,60,Can't Hurt Me,Business,0.8115667465240051
+210,21,Rich Dad Poor Dad,Business,0.8093333333333332
+211,44,Sức Mạnh Hiện Tại,Business,0.8517464108665267
+211,59,Make Your Bed,Business,0.8463333333333333
+211,85,Continuous Discovery,Business,0.8222222222222222
+211,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+211,54,Ficciones,Business,0.7954444444444444
+212,59,Make Your Bed,Business,0.8463333333333333
+212,85,Continuous Discovery,Business,0.8222222222222222
+212,21,Rich Dad Poor Dad,Business,0.8093333333333332
+212,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+212,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+213,37,Pride and Prejudice,Classic,0.854
+213,8,Naruto,Classic,0.8388888888888888
+213,4,Atomic Habits,Classic,0.8268576527754066
+213,31,Lịch Sử Loài Người,Classic,0.808888888888889
+213,72,Demon Slayer,Classic,0.783888888888889
+214,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8706641294045889
+214,29,The Girl on the Train,Self-help,0.8444444444444444
+214,40,Great Expectations,Self-help,0.8416666666666667
+214,91,Thinking in Systems,Self-help,0.8241212393076063
+214,98,Tôi Thấy Hoa Vàng,Self-help,0.8231094196030592
+215,76,Bố Già,Romance,0.8495555555555556
+215,13,Foundation,Romance,0.8315555555555555
+215,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+215,191,Sách AI 90,Romance,0.7193777777777778
+215,174,Sách AI 73,Romance,0.6981333333333333
+216,59,Make Your Bed,Business,0.8463333333333333
+216,60,Can't Hurt Me,Business,0.8265457523014119
+216,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+216,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+216,54,Ficciones,Business,0.7954444444444444
+217,59,Make Your Bed,Business,0.8713333780771314
+217,97,Mắt Biếc,Business,0.8418334004490305
+217,85,Continuous Discovery,Business,0.8222222222222222
+217,21,Rich Dad Poor Dad,Business,0.8093333333333332
+217,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+218,17,Quê Hương Tuổi Thơ,Fantasy,0.8924406793834372
+218,73,My Hero Academia,Fantasy,0.832888888888889
+218,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+218,27,Agatha Christie Collection,Fantasy,0.8172222222222223
+218,12,The Hobbit,Fantasy,0.8167777777777778
+219,31,Lịch Sử Loài Người,Classic,0.908888888888889
+219,18,Số Đỏ,Classic,0.8555555555555555
+219,8,Naruto,Classic,0.8388888888888888
+219,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+219,72,Demon Slayer,Classic,0.783888888888889
+220,53,Nhà Giả Kim 2,Literature,0.8287715524490376
+220,81,The Lean Startup,Literature,0.8051111111111112
+220,49,Madame Bovary,Literature,0.8018888888888889
+220,79,Điểm Hẹn,Literature,0.758
+220,96,Cô Gái Thứ 13,Literature,0.7331111111111112
+221,85,Continuous Discovery,Business,0.8222222222222222
+221,21,Rich Dad Poor Dad,Business,0.8093333333333332
+221,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+221,97,Mắt Biếc,Business,0.8043333333333333
+221,54,Ficciones,Business,0.7954444444444444
+222,59,Make Your Bed,Business,0.8463333333333333
+222,21,Rich Dad Poor Dad,Business,0.8093333333333332
+222,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+222,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+222,97,Mắt Biếc,Business,0.8043333333333333
+223,38,Jane Eyre,Manga,0.820888888888889
+223,3,Sapiens,Manga,0.802888888888889
+223,93,Toyota Way,Manga,0.7867777777777778
+223,99,Bức Thư Gửi Em,Manga,0.7807777777777778
+223,62,Tắt Đèn,Manga,0.7743333333333333
+224,52,Tình Yêu Thời Thổ Tả,Classic,0.8805611341254047
+224,18,Số Đỏ,Classic,0.8555555555555555
+224,8,Naruto,Classic,0.8388888888888888
+224,24,Good to Great,Classic,0.8245555555555556
+224,72,Demon Slayer,Classic,0.783888888888889
+225,59,Make Your Bed,Business,0.8463333333333333
+225,85,Continuous Discovery,Business,0.8222222222222222
+225,21,Rich Dad Poor Dad,Business,0.8093333333333332
+225,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+225,97,Mắt Biếc,Business,0.8043333333333333
+226,58,Essentialism,Self-help,0.8943844473190117
+226,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8906242564539897
+226,40,Great Expectations,Self-help,0.8816337480548894
+226,100,Cô Đơn Trên Đại Dương,Self-help,0.8801373438280478
+226,29,The Girl on the Train,Self-help,0.8444444444444444
+227,79,Điểm Hẹn,Literature,0.8179841387397501
+227,83,Hooked,Literature,0.807
+227,39,Wuthering Heights,Literature,0.8065555555555555
+227,81,The Lean Startup,Literature,0.8051111111111112
+227,49,Madame Bovary,Literature,0.8018888888888889
+228,59,Make Your Bed,Business,0.8463333333333333
+228,35,Tipping Point,Business,0.845109986324046
+228,1,Đắc Nhân Tâm,Business,0.8122210974351571
+228,21,Rich Dad Poor Dad,Business,0.8093333333333332
+228,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+229,30,Big Little Lies,History,0.8690050129367077
+229,78,Thiên Thần Và Ác Quỷ,History,0.8500966880060841
+229,75,Fullmetal Alchemist,History,0.8163333333333334
+229,95,Radical Candor,History,0.808888888888889
+229,14,Dune,History,0.7816666666666667
+230,59,Make Your Bed,Business,0.8463333333333333
+230,85,Continuous Discovery,Business,0.8222222222222222
+230,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+230,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+230,97,Mắt Biếc,Business,0.8043333333333333
+231,68,Bitcoin & Blockchain,Fantasy,0.9014536810354763
+231,56,The Power of Habit,Fantasy,0.8473333333333334
+231,73,My Hero Academia,Fantasy,0.832888888888889
+231,12,The Hobbit,Fantasy,0.8167777777777778
+231,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+232,59,Make Your Bed,Business,0.8463333333333333
+232,85,Continuous Discovery,Business,0.8222222222222222
+232,92,The Goal,Business,0.8104030547271754
+232,21,Rich Dad Poor Dad,Business,0.8093333333333332
+232,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+233,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8514456442824437
+233,29,The Girl on the Train,Self-help,0.8444444444444444
+233,40,Great Expectations,Self-help,0.8416666666666667
+233,91,Thinking in Systems,Self-help,0.814109911273112
+233,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+234,8,Naruto,Classic,0.88176497566234
+234,52,Tình Yêu Thời Thổ Tả,Classic,0.8576649288638655
+234,18,Số Đỏ,Classic,0.8555555555555555
+234,72,Demon Slayer,Classic,0.783888888888889
+234,4,Atomic Habits,Classic,0.766888888888889
+235,72,Demon Slayer,Classic,0.883888888888889
+235,18,Số Đỏ,Classic,0.8555555555555555
+235,8,Naruto,Classic,0.8388888888888888
+235,24,Good to Great,Classic,0.8245555555555556
+235,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+236,76,Bố Già,Romance,0.8495555555555556
+236,13,Foundation,Romance,0.8315555555555555
+236,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+236,9,Dragon Ball,Romance,0.7493333333333333
+236,191,Sách AI 90,Romance,0.7193777777777778
+237,44,Sức Mạnh Hiện Tại,Business,0.8463731518053949
+237,66,Sách Trắng Tài Chính,Business,0.8426003258104893
+237,85,Continuous Discovery,Business,0.8222222222222222
+237,21,Rich Dad Poor Dad,Business,0.8093333333333332
+237,97,Mắt Biếc,Business,0.8043333333333333
+238,29,The Girl on the Train,Self-help,0.8444444444444444
+238,40,Great Expectations,Self-help,0.8416666666666667
+238,58,Essentialism,Self-help,0.8144444444444445
+238,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+238,6,Doraemon,Self-help,0.8001111111111112
+239,59,Make Your Bed,Business,0.8463333333333333
+239,85,Continuous Discovery,Business,0.8222222222222222
+239,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+239,97,Mắt Biếc,Business,0.8043333333333333
+239,54,Ficciones,Business,0.7954444444444444
+240,59,Make Your Bed,Business,0.8463333333333333
+240,97,Mắt Biếc,Business,0.841858026148592
+240,85,Continuous Discovery,Business,0.8222222222222222
+240,21,Rich Dad Poor Dad,Business,0.8093333333333332
+240,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+241,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+241,83,Hooked,Literature,0.807
+241,39,Wuthering Heights,Literature,0.8065555555555555
+241,81,The Lean Startup,Literature,0.8051111111111112
+241,79,Điểm Hẹn,Literature,0.795499917530316
+242,35,Tipping Point,Business,0.8551405467034539
+242,59,Make Your Bed,Business,0.8463333333333333
+242,85,Continuous Discovery,Business,0.8222222222222222
+242,21,Rich Dad Poor Dad,Business,0.8093333333333332
+242,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+243,59,Make Your Bed,Business,0.8463333333333333
+243,85,Continuous Discovery,Business,0.8222222222222222
+243,21,Rich Dad Poor Dad,Business,0.8093333333333332
+243,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+243,97,Mắt Biếc,Business,0.8043333333333333
+244,17,Quê Hương Tuổi Thơ,Fantasy,0.9324444444444444
+244,56,The Power of Habit,Fantasy,0.8473333333333334
+244,12,The Hobbit,Fantasy,0.8167777777777778
+244,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+244,27,Agatha Christie Collection,Fantasy,0.8000579262300322
+245,66,Sách Trắng Tài Chính,Business,0.8851500484150826
+245,59,Make Your Bed,Business,0.8463333333333333
+245,21,Rich Dad Poor Dad,Business,0.8093333333333332
+245,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+245,97,Mắt Biếc,Business,0.8043333333333333
+246,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+246,18,Số Đỏ,Classic,0.8555555555555555
+246,24,Good to Great,Classic,0.8245555555555556
+246,31,Lịch Sử Loài Người,Classic,0.808888888888889
+246,72,Demon Slayer,Classic,0.783888888888889
+247,29,The Girl on the Train,Self-help,0.8444444444444444
+247,40,Great Expectations,Self-help,0.8416666666666667
+247,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+247,88,Và Núi Vang Vọng,Self-help,0.7876666666666667
+247,98,Tôi Thấy Hoa Vàng,Self-help,0.7831111111111111
+248,30,Big Little Lies,History,0.8190000000000001
+248,75,Fullmetal Alchemist,History,0.8163333333333334
+248,78,Thiên Thần Và Ác Quỷ,History,0.8001111111111112
+248,69,Tự Do Tài Chính,History,0.7784444444444445
+248,55,Vườn Nửa Đêm,History,0.7401111111111112
+249,83,Hooked,Literature,0.807
+249,39,Wuthering Heights,Literature,0.8065555555555555
+249,81,The Lean Startup,Literature,0.8051111111111112
+249,49,Madame Bovary,Literature,0.8018888888888889
+249,79,Điểm Hẹn,Literature,0.758
+250,85,Continuous Discovery,Business,0.8222222222222222
+250,21,Rich Dad Poor Dad,Business,0.8093333333333332
+250,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+250,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+250,97,Mắt Biếc,Business,0.8043333333333333
+251,12,The Hobbit,Fantasy,0.9167719060632485
+251,17,Quê Hương Tuổi Thơ,Fantasy,0.8768826894591849
+251,68,Bitcoin & Blockchain,Fantasy,0.8709045019544981
+251,56,The Power of Habit,Fantasy,0.8473333333333334
+251,65,Bỉ Vỏ,Fantasy,0.8256822797322758
+252,59,Make Your Bed,Business,0.8963279255844149
+252,48,Những Người Khốn Khổ,Business,0.8778888888888889
+252,85,Continuous Discovery,Business,0.8222222222222222
+252,21,Rich Dad Poor Dad,Business,0.8093333333333332
+252,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+253,29,The Girl on the Train,Self-help,0.8444444444444444
+253,58,Essentialism,Self-help,0.8144444444444445
+253,91,Thinking in Systems,Self-help,0.8140717167535468
+253,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+253,88,Và Núi Vang Vọng,Self-help,0.7876666666666667
+254,13,Foundation,Romance,0.8690619050719106
+254,23,Zero to One,Romance,0.8312222222222223
+254,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+254,9,Dragon Ball,Romance,0.7493333333333333
+254,191,Sách AI 90,Romance,0.7193777777777778
+255,67,Đầu Tư Chứng Khoán,Fantasy,0.914
+255,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+255,12,The Hobbit,Fantasy,0.8167777777777778
+255,94,Measure What Matters,Fantasy,0.7858888888888889
+255,84,Inspired,Fantasy,0.783
+256,59,Make Your Bed,Business,0.9463333333333332
+256,85,Continuous Discovery,Business,0.8222222222222222
+256,21,Rich Dad Poor Dad,Business,0.8093333333333332
+256,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+256,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+257,40,Great Expectations,Self-help,0.8416666666666667
+257,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+257,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+257,89,Biển Rộng,Self-help,0.7979785393135965
+257,88,Và Núi Vang Vọng,Self-help,0.7876666666666667
+258,78,Thiên Thần Và Ác Quỷ,History,0.9001058208981679
+258,30,Big Little Lies,History,0.8190000000000001
+258,75,Fullmetal Alchemist,History,0.8163333333333334
+258,95,Radical Candor,History,0.808888888888889
+258,69,Tự Do Tài Chính,History,0.7784444444444445
+259,40,Great Expectations,Self-help,0.9416666666666667
+259,29,The Girl on the Train,Self-help,0.8444444444444444
+259,98,Tôi Thấy Hoa Vàng,Self-help,0.8331132877967611
+259,58,Essentialism,Self-help,0.8144444444444445
+259,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+260,59,Make Your Bed,Business,0.8463333333333333
+260,21,Rich Dad Poor Dad,Business,0.8093333333333332
+260,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+260,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+260,97,Mắt Biếc,Business,0.8043333333333333
+261,68,Bitcoin & Blockchain,Fantasy,0.9041867850904072
+261,73,My Hero Academia,Fantasy,0.832888888888889
+261,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+261,12,The Hobbit,Fantasy,0.8167777777777778
+261,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+262,17,Quê Hương Tuổi Thơ,Fantasy,0.9074291887182797
+262,73,My Hero Academia,Fantasy,0.832888888888889
+262,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+262,12,The Hobbit,Fantasy,0.8167777777777778
+262,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+263,68,Bitcoin & Blockchain,Fantasy,0.8930828565893058
+263,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+263,12,The Hobbit,Fantasy,0.8167777777777778
+263,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+263,94,Measure What Matters,Fantasy,0.7858888888888889
+264,35,Tipping Point,Business,0.8551290069499037
+264,59,Make Your Bed,Business,0.8463333333333333
+264,85,Continuous Discovery,Business,0.8222222222222222
+264,21,Rich Dad Poor Dad,Business,0.8093333333333332
+264,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+265,17,Quê Hương Tuổi Thơ,Fantasy,0.8752915091958596
+265,67,Đầu Tư Chứng Khoán,Fantasy,0.8568571428571429
+265,12,The Hobbit,Fantasy,0.8167777777777778
+265,94,Measure What Matters,Fantasy,0.7858888888888889
+265,84,Inspired,Fantasy,0.783
+266,17,Quê Hương Tuổi Thơ,Fantasy,0.8699452139309909
+266,68,Bitcoin & Blockchain,Fantasy,0.8639432975796127
+266,56,The Power of Habit,Fantasy,0.8473333333333334
+266,12,The Hobbit,Fantasy,0.8167777777777778
+266,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+267,17,Quê Hương Tuổi Thơ,Fantasy,0.8699450013698192
+267,68,Bitcoin & Blockchain,Fantasy,0.8639431185481821
+267,56,The Power of Habit,Fantasy,0.8473333333333334
+267,73,My Hero Academia,Fantasy,0.832888888888889
+267,12,The Hobbit,Fantasy,0.8167777777777778
+268,38,Jane Eyre,Manga,0.865331969829307
+268,28,Gone Girl,Manga,0.8038888888888889
+268,3,Sapiens,Manga,0.802888888888889
+268,93,Toyota Way,Manga,0.7867777777777778
+268,80,Trại Hoa Vàng,Manga,0.7844444444444445
+269,17,Quê Hương Tuổi Thơ,Fantasy,0.8699448423795824
+269,56,The Power of Habit,Fantasy,0.8473333333333334
+269,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+269,12,The Hobbit,Fantasy,0.8167777777777778
+269,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+270,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+270,34,Outliers,Literature,0.8112222222222223
+270,83,Hooked,Literature,0.807
+270,39,Wuthering Heights,Literature,0.8065555555555555
+270,79,Điểm Hẹn,Literature,0.8008499728205133
+271,59,Make Your Bed,Business,0.8463333333333333
+271,85,Continuous Discovery,Business,0.8222222222222222
+271,21,Rich Dad Poor Dad,Business,0.8093333333333332
+271,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+271,54,Ficciones,Business,0.7954444444444444
+272,29,The Girl on the Train,Self-help,0.8444444444444444
+272,40,Great Expectations,Self-help,0.8416666666666667
+272,63,Truyện Kiều,Self-help,0.838888888888889
+272,58,Essentialism,Self-help,0.8144444444444445
+272,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+273,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+273,34,Outliers,Literature,0.8112222222222223
+273,83,Hooked,Literature,0.807
+273,39,Wuthering Heights,Literature,0.8065555555555555
+273,53,Nhà Giả Kim 2,Literature,0.7487777777777778
+274,88,Và Núi Vang Vọng,Self-help,0.8476550050810059
+274,29,The Girl on the Train,Self-help,0.8444444444444444
+274,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+274,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+274,98,Tôi Thấy Hoa Vàng,Self-help,0.7831111111111111
+275,29,The Girl on the Train,Self-help,0.8444444444444444
+275,58,Essentialism,Self-help,0.8144444444444445
+275,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+275,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+275,6,Doraemon,Self-help,0.8001111111111112
+276,17,Quê Hương Tuổi Thơ,Fantasy,0.9073802413515709
+276,56,The Power of Habit,Fantasy,0.8473333333333334
+276,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+276,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+276,94,Measure What Matters,Fantasy,0.7858888888888889
+277,8,Naruto,Classic,0.8388888888888888
+277,24,Good to Great,Classic,0.8245555555555556
+277,31,Lịch Sử Loài Người,Classic,0.808888888888889
+277,72,Demon Slayer,Classic,0.783888888888889
+277,4,Atomic Habits,Classic,0.766888888888889
+278,17,Quê Hương Tuổi Thơ,Fantasy,0.8699447351298446
+278,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+278,12,The Hobbit,Fantasy,0.8167777777777778
+278,94,Measure What Matters,Fantasy,0.7858888888888889
+278,84,Inspired,Fantasy,0.783
+279,17,Quê Hương Tuổi Thơ,Fantasy,0.9074138389068733
+279,56,The Power of Habit,Fantasy,0.8473333333333334
+279,73,My Hero Academia,Fantasy,0.832888888888889
+279,12,The Hobbit,Fantasy,0.8167777777777778
+279,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+280,59,Make Your Bed,Business,0.9213451003958136
+280,85,Continuous Discovery,Business,0.8222222222222222
+280,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+280,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+280,97,Mắt Biếc,Business,0.8043333333333333
+281,30,Big Little Lies,History,0.8190000000000001
+281,75,Fullmetal Alchemist,History,0.8163333333333334
+281,95,Radical Candor,History,0.808888888888889
+281,7,One Piece,History,0.8046666666666666
+281,55,Vườn Nửa Đêm,History,0.7401111111111112
+282,10,Conan,Business,0.8792222222222222
+282,21,Rich Dad Poor Dad,Business,0.8593451112432122
+282,59,Make Your Bed,Business,0.8463333333333333
+282,48,Những Người Khốn Khổ,Business,0.8154012378649629
+282,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+283,59,Make Your Bed,Business,0.8463333333333333
+283,85,Continuous Discovery,Business,0.8222222222222222
+283,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+283,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+283,97,Mắt Biếc,Business,0.8043333333333333
+284,18,Số Đỏ,Classic,0.8555555555555555
+284,8,Naruto,Classic,0.8388888888888888
+284,31,Lịch Sử Loài Người,Classic,0.808888888888889
+284,37,Pride and Prejudice,Classic,0.754
+284,50,Germinal,Classic,0.7423333333333333
+285,75,Fullmetal Alchemist,History,0.8163333333333334
+285,95,Radical Candor,History,0.808888888888889
+285,7,One Piece,History,0.8046666666666666
+285,14,Dune,History,0.7816666666666667
+285,69,Tự Do Tài Chính,History,0.7784444444444445
+286,35,Tipping Point,Business,0.8522254768657569
+286,59,Make Your Bed,Business,0.8463333333333333
+286,85,Continuous Discovery,Business,0.8222222222222222
+286,21,Rich Dad Poor Dad,Business,0.8093333333333332
+286,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+287,29,The Girl on the Train,Self-help,0.8444444444444444
+287,40,Great Expectations,Self-help,0.8416666666666667
+287,58,Essentialism,Self-help,0.8144444444444445
+287,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+287,91,Thinking in Systems,Self-help,0.8085470579267182
+288,59,Make Your Bed,Business,0.8463333333333333
+288,85,Continuous Discovery,Business,0.8222222222222222
+288,21,Rich Dad Poor Dad,Business,0.8093333333333332
+288,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+288,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+289,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+289,18,Số Đỏ,Classic,0.8555555555555555
+289,8,Naruto,Classic,0.8388888888888888
+289,24,Good to Great,Classic,0.8245555555555556
+289,31,Lịch Sử Loài Người,Classic,0.808888888888889
+290,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+290,83,Hooked,Literature,0.807
+290,81,The Lean Startup,Literature,0.8051111111111112
+290,49,Madame Bovary,Literature,0.8018888888888889
+290,79,Điểm Hẹn,Literature,0.7954998487391249
+291,21,Rich Dad Poor Dad,Business,0.9093333333333332
+291,66,Sách Trắng Tài Chính,Business,0.8651525828956305
+291,85,Continuous Discovery,Business,0.8222222222222222
+291,97,Mắt Biếc,Business,0.8043333333333333
+291,54,Ficciones,Business,0.7954444444444444
+292,85,Continuous Discovery,Business,0.8222222222222222
+292,21,Rich Dad Poor Dad,Business,0.8093333333333332
+292,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+292,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+292,97,Mắt Biếc,Business,0.8043333333333333
+293,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+293,18,Số Đỏ,Classic,0.8555555555555555
+293,8,Naruto,Classic,0.8388888888888888
+293,72,Demon Slayer,Classic,0.783888888888889
+293,4,Atomic Habits,Classic,0.766888888888889
+294,44,Sức Mạnh Hiện Tại,Business,0.8463983510167906
+294,59,Make Your Bed,Business,0.8463333333333333
+294,85,Continuous Discovery,Business,0.8222222222222222
+294,21,Rich Dad Poor Dad,Business,0.8093333333333332
+294,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+295,59,Make Your Bed,Business,0.8463333333333333
+295,85,Continuous Discovery,Business,0.8222222222222222
+295,21,Rich Dad Poor Dad,Business,0.8093333333333332
+295,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+295,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+296,59,Make Your Bed,Business,0.9213143103577345
+296,44,Sức Mạnh Hiện Tại,Business,0.883888888888889
+296,60,Can't Hurt Me,Business,0.8265417246856758
+296,85,Continuous Discovery,Business,0.8222222222222222
+296,21,Rich Dad Poor Dad,Business,0.8093333333333332
+297,76,Bố Già,Romance,0.8495555555555556
+297,13,Foundation,Romance,0.8315555555555555
+297,23,Zero to One,Romance,0.8312222222222223
+297,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+297,9,Dragon Ball,Romance,0.7493333333333333
+298,30,Big Little Lies,History,0.8190000000000001
+298,75,Fullmetal Alchemist,History,0.8163333333333334
+298,7,One Piece,History,0.8046666666666666
+298,14,Dune,History,0.7816666666666667
+298,69,Tự Do Tài Chính,History,0.7784444444444445
+299,18,Số Đỏ,Classic,0.8555555555555555
+299,8,Naruto,Classic,0.8388888888888888
+299,24,Good to Great,Classic,0.8245555555555556
+299,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+299,37,Pride and Prejudice,Classic,0.754
+300,52,Tình Yêu Thời Thổ Tả,Classic,0.9005261755861025
+300,18,Số Đỏ,Classic,0.8555555555555555
+300,8,Naruto,Classic,0.8388888888888888
+300,24,Good to Great,Classic,0.8245555555555556
+300,31,Lịch Sử Loài Người,Classic,0.808888888888889
+301,59,Make Your Bed,Business,0.8463333333333333
+301,85,Continuous Discovery,Business,0.8222222222222222
+301,21,Rich Dad Poor Dad,Business,0.8093333333333332
+301,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+301,97,Mắt Biếc,Business,0.8043333333333333
+302,15,1984,Self-help,0.8686589842552557
+302,29,The Girl on the Train,Self-help,0.8444444444444444
+302,40,Great Expectations,Self-help,0.8416666666666667
+302,20,Đất Rừng Phương Nam,Self-help,0.8196666666666668
+302,58,Essentialism,Self-help,0.8144444444444445
+303,85,Continuous Discovery,Business,0.9022242788160275
+303,60,Can't Hurt Me,Business,0.8115525589295989
+303,21,Rich Dad Poor Dad,Business,0.8093333333333332
+303,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+303,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+304,13,Foundation,Romance,0.8315555555555555
+304,9,Dragon Ball,Romance,0.7493333333333333
+304,191,Sách AI 90,Romance,0.7193777777777778
+304,174,Sách AI 73,Romance,0.6981333333333333
+304,157,Sách AI 56,Romance,0.6937777777777778
+305,34,Outliers,Literature,0.8112222222222223
+305,83,Hooked,Literature,0.807
+305,39,Wuthering Heights,Literature,0.8065555555555555
+305,49,Madame Bovary,Literature,0.8018888888888889
+305,53,Nhà Giả Kim 2,Literature,0.7887724282380735
+306,17,Quê Hương Tuổi Thơ,Fantasy,0.8924348076750614
+306,56,The Power of Habit,Fantasy,0.8473333333333334
+306,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+306,12,The Hobbit,Fantasy,0.8167777777777778
+306,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+307,44,Sức Mạnh Hiện Tại,Business,0.8589018898727987
+307,59,Make Your Bed,Business,0.8463333333333333
+307,85,Continuous Discovery,Business,0.8222222222222222
+307,21,Rich Dad Poor Dad,Business,0.8093333333333332
+307,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+308,43,Tư Duy Nhanh Chậm,Manga,0.947283390411043
+308,93,Toyota Way,Manga,0.8617507915516684
+308,28,Gone Girl,Manga,0.8038888888888889
+308,3,Sapiens,Manga,0.802888888888889
+308,99,Bức Thư Gửi Em,Manga,0.7807777777777778
+309,40,Great Expectations,Self-help,0.8816468154338305
+309,88,Và Núi Vang Vọng,Self-help,0.847638670430997
+309,29,The Girl on the Train,Self-help,0.8444444444444444
+309,98,Tôi Thấy Hoa Vàng,Self-help,0.8430813342618567
+309,64,Lão Hạc,Self-help,0.8394613410799672
+310,8,Naruto,Classic,0.8888944220479069
+310,18,Số Đỏ,Classic,0.8555555555555555
+310,72,Demon Slayer,Classic,0.8505426921342701
+310,50,Germinal,Classic,0.8090128634212854
+310,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+311,59,Make Your Bed,Business,0.8463333333333333
+311,60,Can't Hurt Me,Business,0.8265552705114239
+311,85,Continuous Discovery,Business,0.8222222222222222
+311,21,Rich Dad Poor Dad,Business,0.8093333333333332
+311,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+312,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+312,83,Hooked,Literature,0.807
+312,39,Wuthering Heights,Literature,0.8065555555555555
+312,81,The Lean Startup,Literature,0.8051111111111112
+312,49,Madame Bovary,Literature,0.8018888888888889
+313,29,The Girl on the Train,Self-help,0.8444444444444444
+313,40,Great Expectations,Self-help,0.8416666666666667
+313,88,Và Núi Vang Vọng,Self-help,0.8251872540513253
+313,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+313,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+314,59,Make Your Bed,Business,0.8463333333333333
+314,92,The Goal,Business,0.8228783701930981
+314,85,Continuous Discovery,Business,0.8222222222222222
+314,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+314,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+315,35,Tipping Point,Business,0.8551111111111112
+315,59,Make Your Bed,Business,0.8463333333333333
+315,85,Continuous Discovery,Business,0.8222222222222222
+315,21,Rich Dad Poor Dad,Business,0.8093333333333332
+315,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+316,84,Inspired,Fantasy,0.863
+316,56,The Power of Habit,Fantasy,0.8473333333333334
+316,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+316,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+316,12,The Hobbit,Fantasy,0.8167777777777778
+317,59,Make Your Bed,Business,0.8463333333333333
+317,85,Continuous Discovery,Business,0.8222222222222222
+317,21,Rich Dad Poor Dad,Business,0.8093333333333332
+317,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+317,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+318,29,The Girl on the Train,Self-help,0.8444444444444444
+318,58,Essentialism,Self-help,0.8144444444444445
+318,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+318,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+318,6,Doraemon,Self-help,0.8001111111111112
+319,56,The Power of Habit,Fantasy,0.8473333333333334
+319,73,My Hero Academia,Fantasy,0.832888888888889
+319,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+319,12,The Hobbit,Fantasy,0.8167777777777778
+319,94,Measure What Matters,Fantasy,0.7858888888888889
+320,29,The Girl on the Train,Self-help,0.9444444444444444
+320,58,Essentialism,Self-help,0.9144218974257485
+320,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8906326475915378
+320,40,Great Expectations,Self-help,0.8416666666666667
+320,64,Lão Hạc,Self-help,0.8194298295565744
+321,97,Mắt Biếc,Business,0.8418412471504731
+321,85,Continuous Discovery,Business,0.8222222222222222
+321,21,Rich Dad Poor Dad,Business,0.8093333333333332
+321,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+321,54,Ficciones,Business,0.7954444444444444
+322,56,The Power of Habit,Fantasy,0.8473333333333334
+322,73,My Hero Academia,Fantasy,0.832888888888889
+322,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+322,12,The Hobbit,Fantasy,0.8167777777777778
+322,94,Measure What Matters,Fantasy,0.7858888888888889
+323,59,Make Your Bed,Business,0.8463333333333333
+323,85,Continuous Discovery,Business,0.8222222222222222
+323,21,Rich Dad Poor Dad,Business,0.8093333333333332
+323,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+323,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+324,29,The Girl on the Train,Self-help,0.8444444444444444
+324,40,Great Expectations,Self-help,0.8416666666666667
+324,58,Essentialism,Self-help,0.8144444444444445
+324,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+324,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+325,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+325,38,Jane Eyre,Manga,0.820888888888889
+325,28,Gone Girl,Manga,0.8038888888888889
+325,3,Sapiens,Manga,0.802888888888889
+325,93,Toyota Way,Manga,0.7867777777777778
+326,59,Make Your Bed,Business,0.8463333333333333
+326,85,Continuous Discovery,Business,0.8222222222222222
+326,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+326,97,Mắt Biếc,Business,0.8043333333333333
+326,54,Ficciones,Business,0.7954444444444444
+327,59,Make Your Bed,Business,0.8749016958669923
+327,66,Sách Trắng Tài Chính,Business,0.8479732655795814
+327,35,Tipping Point,Business,0.8379615718198175
+327,85,Continuous Discovery,Business,0.8222222222222222
+327,21,Rich Dad Poor Dad,Business,0.8093333333333332
+328,66,Sách Trắng Tài Chính,Business,0.9050679413468646
+328,59,Make Your Bed,Business,0.8463333333333333
+328,85,Continuous Discovery,Business,0.8222222222222222
+328,21,Rich Dad Poor Dad,Business,0.8093333333333332
+328,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+329,68,Bitcoin & Blockchain,Fantasy,0.8764768362193199
+329,65,Bỉ Vỏ,Fantasy,0.847885775414313
+329,56,The Power of Habit,Fantasy,0.8473333333333334
+329,73,My Hero Academia,Fantasy,0.832888888888889
+329,12,The Hobbit,Fantasy,0.8167777777777778
+330,59,Make Your Bed,Business,0.8463333333333333
+330,85,Continuous Discovery,Business,0.8222222222222222
+330,21,Rich Dad Poor Dad,Business,0.8093333333333332
+330,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+330,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+331,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+331,18,Số Đỏ,Classic,0.8555555555555555
+331,8,Naruto,Classic,0.8388888888888888
+331,24,Good to Great,Classic,0.8245555555555556
+331,72,Demon Slayer,Classic,0.783888888888889
+332,40,Great Expectations,Self-help,0.8416666666666667
+332,58,Essentialism,Self-help,0.8144444444444445
+332,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+332,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+332,6,Doraemon,Self-help,0.8001111111111112
+333,59,Make Your Bed,Business,0.8463333333333333
+333,85,Continuous Discovery,Business,0.8222222222222222
+333,21,Rich Dad Poor Dad,Business,0.8093333333333332
+333,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+333,97,Mắt Biếc,Business,0.8043333333333333
+334,18,Số Đỏ,Classic,0.45555555555555555
+334,76,Bố Già,Romance,0.4495555555555556
+334,56,The Power of Habit,Fantasy,0.44733333333333336
+334,43,Tư Duy Nhanh Chậm,Manga,0.44733333333333336
+334,59,Make Your Bed,Business,0.4463333333333333
+335,59,Make Your Bed,Business,0.8463333333333333
+335,85,Continuous Discovery,Business,0.8222222222222222
+335,21,Rich Dad Poor Dad,Business,0.8093333333333332
+335,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+335,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+336,29,The Girl on the Train,Self-help,0.8444444444444444
+336,64,Lão Hạc,Self-help,0.8344444444444445
+336,58,Essentialism,Self-help,0.8144444444444445
+336,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+336,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+337,85,Continuous Discovery,Business,0.8222222222222222
+337,21,Rich Dad Poor Dad,Business,0.8093333333333332
+337,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+337,54,Ficciones,Business,0.7954444444444444
+337,35,Tipping Point,Business,0.7951111111111111
+338,29,The Girl on the Train,Self-help,0.8444444444444444
+338,40,Great Expectations,Self-help,0.8416666666666667
+338,58,Essentialism,Self-help,0.8144444444444445
+338,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+338,91,Thinking in Systems,Self-help,0.8016311175355259
+339,59,Make Your Bed,Business,0.8463333333333333
+339,11,Harry Potter,Business,0.8422197447998337
+339,85,Continuous Discovery,Business,0.8222222222222222
+339,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+339,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+340,59,Make Your Bed,Business,0.9463333333333332
+340,85,Continuous Discovery,Business,0.8222222222222222
+340,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+340,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+340,97,Mắt Biếc,Business,0.8043333333333333
+341,29,The Girl on the Train,Self-help,0.8444444444444444
+341,40,Great Expectations,Self-help,0.8416666666666667
+341,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+341,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+341,6,Doraemon,Self-help,0.8001111111111112
+342,29,The Girl on the Train,Self-help,0.8444444444444444
+342,40,Great Expectations,Self-help,0.8416666666666667
+342,58,Essentialism,Self-help,0.8144444444444445
+342,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+342,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+343,85,Continuous Discovery,Business,0.8222222222222222
+343,60,Can't Hurt Me,Business,0.8115481003935034
+343,21,Rich Dad Poor Dad,Business,0.8093333333333332
+343,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+343,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+344,59,Make Your Bed,Business,0.8463333333333333
+344,5,Think and Grow Rich,Business,0.8232526600892583
+344,85,Continuous Discovery,Business,0.8222222222222222
+344,21,Rich Dad Poor Dad,Business,0.8093333333333332
+344,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+345,44,Sức Mạnh Hiện Tại,Business,0.8688933316305614
+345,59,Make Your Bed,Business,0.8463333333333333
+345,85,Continuous Discovery,Business,0.8222222222222222
+345,21,Rich Dad Poor Dad,Business,0.8093333333333332
+345,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+346,59,Make Your Bed,Business,0.8463333333333333
+346,21,Rich Dad Poor Dad,Business,0.8343460097198842
+346,85,Continuous Discovery,Business,0.8222222222222222
+346,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+346,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+347,18,Số Đỏ,Classic,0.8555555555555555
+347,8,Naruto,Classic,0.8388888888888888
+347,31,Lịch Sử Loài Người,Classic,0.808888888888889
+347,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+347,37,Pride and Prejudice,Classic,0.754
+348,58,Essentialism,Self-help,0.8144444444444445
+348,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+348,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+348,6,Doraemon,Self-help,0.8001111111111112
+348,64,Lão Hạc,Self-help,0.7969440027920283
+349,12,The Hobbit,Fantasy,0.9167777777777778
+349,17,Quê Hương Tuổi Thơ,Fantasy,0.8924453373008379
+349,56,The Power of Habit,Fantasy,0.8473333333333334
+349,73,My Hero Academia,Fantasy,0.832888888888889
+349,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+350,29,The Girl on the Train,Self-help,0.8444444444444444
+350,40,Great Expectations,Self-help,0.8416666666666667
+350,58,Essentialism,Self-help,0.8144444444444445
+350,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+350,20,Đất Rừng Phương Nam,Self-help,0.8046674230077436
+351,59,Make Your Bed,Business,0.8463333333333333
+351,85,Continuous Discovery,Business,0.8222222222222222
+351,21,Rich Dad Poor Dad,Business,0.8093333333333332
+351,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+351,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+352,3,Sapiens,Manga,0.8600759271198632
+352,93,Toyota Way,Manga,0.7867777777777778
+352,80,Trại Hoa Vàng,Manga,0.7844444444444445
+352,99,Bức Thư Gửi Em,Manga,0.7807777777777778
+352,181,Sách AI 80,Manga,0.7255333333333333
+353,17,Quê Hương Tuổi Thơ,Fantasy,0.869945021931751
+353,56,The Power of Habit,Fantasy,0.8473333333333334
+353,73,My Hero Academia,Fantasy,0.832888888888889
+353,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+353,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+354,59,Make Your Bed,Business,0.9034664789627331
+354,66,Sách Trắng Tài Chính,Business,0.8479764981227235
+354,54,Ficciones,Business,0.8382943036664943
+354,85,Continuous Discovery,Business,0.8222222222222222
+354,21,Rich Dad Poor Dad,Business,0.8093333333333332
+355,40,Great Expectations,Self-help,0.8987953992889544
+355,29,The Girl on the Train,Self-help,0.8872958524304865
+355,88,Và Núi Vang Vọng,Self-help,0.83053175456663
+355,64,Lão Hạc,Self-help,0.8165796550925005
+355,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+356,17,Quê Hương Tuổi Thơ,Fantasy,0.8752978171543293
+356,73,My Hero Academia,Fantasy,0.832888888888889
+356,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+356,12,The Hobbit,Fantasy,0.8167777777777778
+356,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+357,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8814444444444445
+357,29,The Girl on the Train,Self-help,0.8444444444444444
+357,40,Great Expectations,Self-help,0.8416666666666667
+357,58,Essentialism,Self-help,0.8144444444444445
+357,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+358,65,Bỉ Vỏ,Fantasy,0.8812222222222222
+358,56,The Power of Habit,Fantasy,0.8473333333333334
+358,73,My Hero Academia,Fantasy,0.832888888888889
+358,12,The Hobbit,Fantasy,0.8167777777777778
+358,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+359,59,Make Your Bed,Business,0.8463333333333333
+359,85,Continuous Discovery,Business,0.8222222222222222
+359,21,Rich Dad Poor Dad,Business,0.8093333333333332
+359,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+359,97,Mắt Biếc,Business,0.8043333333333333
+360,59,Make Your Bed,Business,0.8463333333333333
+360,5,Think and Grow Rich,Business,0.8232310260291864
+360,85,Continuous Discovery,Business,0.8222222222222222
+360,21,Rich Dad Poor Dad,Business,0.8093333333333332
+360,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+361,98,Tôi Thấy Hoa Vàng,Self-help,0.8831111111111111
+361,29,The Girl on the Train,Self-help,0.8444444444444444
+361,40,Great Expectations,Self-help,0.8416666666666667
+361,58,Essentialism,Self-help,0.8144444444444445
+361,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+362,59,Make Your Bed,Business,0.8463333333333333
+362,85,Continuous Discovery,Business,0.8222222222222222
+362,60,Can't Hurt Me,Business,0.8115586629273936
+362,21,Rich Dad Poor Dad,Business,0.8093333333333332
+362,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+363,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+363,34,Outliers,Literature,0.8112222222222223
+363,81,The Lean Startup,Literature,0.8051111111111112
+363,49,Madame Bovary,Literature,0.8018888888888889
+363,79,Điểm Hẹn,Literature,0.7913257267538587
+364,66,Sách Trắng Tài Chính,Business,0.8551093592112118
+364,59,Make Your Bed,Business,0.8463333333333333
+364,85,Continuous Discovery,Business,0.8222222222222222
+364,21,Rich Dad Poor Dad,Business,0.8093333333333332
+364,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+365,29,The Girl on the Train,Self-help,0.8444444444444444
+365,40,Great Expectations,Self-help,0.8416666666666667
+365,58,Essentialism,Self-help,0.8144444444444445
+365,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+365,6,Doraemon,Self-help,0.8001111111111112
+366,52,Tình Yêu Thời Thổ Tả,Classic,0.8805282624862325
+366,8,Naruto,Classic,0.8388888888888888
+366,24,Good to Great,Classic,0.8245555555555556
+366,31,Lịch Sử Loài Người,Classic,0.808888888888889
+366,72,Demon Slayer,Classic,0.783888888888889
+367,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+367,34,Outliers,Literature,0.8112222222222223
+367,83,Hooked,Literature,0.807
+367,39,Wuthering Heights,Literature,0.8065555555555555
+367,81,The Lean Startup,Literature,0.8051111111111112
+368,66,Sách Trắng Tài Chính,Business,0.8651066938595682
+368,59,Make Your Bed,Business,0.8463333333333333
+368,85,Continuous Discovery,Business,0.8222222222222222
+368,21,Rich Dad Poor Dad,Business,0.8093333333333332
+368,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+369,12,The Hobbit,Fantasy,0.8967856425453471
+369,73,My Hero Academia,Fantasy,0.832888888888889
+369,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+369,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+369,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+370,21,Rich Dad Poor Dad,Business,0.9093333333333332
+370,59,Make Your Bed,Business,0.8463333333333333
+370,60,Can't Hurt Me,Business,0.8265075730396672
+370,85,Continuous Discovery,Business,0.8222222222222222
+370,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+371,30,Big Little Lies,History,0.8190000000000001
+371,134,Sách AI 33,History,0.8047333333333333
+371,7,One Piece,History,0.8046666666666666
+371,78,Thiên Thần Và Ác Quỷ,History,0.8001111111111112
+371,14,Dune,History,0.7816666666666667
+372,18,Số Đỏ,Classic,0.45555555555555555
+372,76,Bố Già,Romance,0.4495555555555556
+372,56,The Power of Habit,Fantasy,0.44733333333333336
+372,43,Tư Duy Nhanh Chậm,Manga,0.44733333333333336
+372,59,Make Your Bed,Business,0.4463333333333333
+373,17,Quê Hương Tuổi Thơ,Fantasy,0.8752995709518355
+373,68,Bitcoin & Blockchain,Fantasy,0.8692999166720993
+373,56,The Power of Habit,Fantasy,0.8473333333333334
+373,73,My Hero Academia,Fantasy,0.832888888888889
+373,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+374,59,Make Your Bed,Business,0.8463333333333333
+374,85,Continuous Discovery,Business,0.8222222222222222
+374,60,Can't Hurt Me,Business,0.8115453667070954
+374,21,Rich Dad Poor Dad,Business,0.8093333333333332
+374,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+375,59,Make Your Bed,Business,0.8907740123698923
+375,97,Mắt Biếc,Business,0.8487698322724778
+375,48,Những Người Khốn Khổ,Business,0.8334397376845877
+375,21,Rich Dad Poor Dad,Business,0.8093333333333332
+375,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+376,59,Make Your Bed,Business,0.8463333333333333
+376,85,Continuous Discovery,Business,0.8222222222222222
+376,21,Rich Dad Poor Dad,Business,0.8093333333333332
+376,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+376,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+377,51,Trăm Năm Cô Đơn,Literature,0.897648402694359
+377,81,The Lean Startup,Literature,0.8451179102122461
+377,34,Outliers,Literature,0.8112222222222223
+377,83,Hooked,Literature,0.807
+377,49,Madame Bovary,Literature,0.8018888888888889
+378,29,The Girl on the Train,Self-help,0.8444444444444444
+378,58,Essentialism,Self-help,0.8144444444444445
+378,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+378,6,Doraemon,Self-help,0.8001111111111112
+378,100,Cô Đơn Trên Đại Dương,Self-help,0.7802222222222223
+379,59,Make Your Bed,Business,0.8463333333333333
+379,85,Continuous Discovery,Business,0.8222222222222222
+379,21,Rich Dad Poor Dad,Business,0.8093333333333332
+379,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+379,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+380,17,Quê Hương Tuổi Thơ,Fantasy,0.9074256887138278
+380,27,Agatha Christie Collection,Fantasy,0.8572222222222222
+380,56,The Power of Habit,Fantasy,0.8473333333333334
+380,73,My Hero Academia,Fantasy,0.832888888888889
+380,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+381,29,The Girl on the Train,Self-help,0.8444444444444444
+381,98,Tôi Thấy Hoa Vàng,Self-help,0.8431276540206316
+381,40,Great Expectations,Self-help,0.8416666666666667
+381,64,Lão Hạc,Self-help,0.8393956511765817
+381,58,Essentialism,Self-help,0.8144444444444445
+382,29,The Girl on the Train,Self-help,0.8444444444444444
+382,40,Great Expectations,Self-help,0.8416666666666667
+382,58,Essentialism,Self-help,0.8144444444444445
+382,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+382,20,Đất Rừng Phương Nam,Self-help,0.8046622743364324
+383,59,Make Your Bed,Business,0.8463333333333333
+383,85,Continuous Discovery,Business,0.8222222222222222
+383,21,Rich Dad Poor Dad,Business,0.8093333333333332
+383,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+383,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+384,59,Make Your Bed,Business,0.8463333333333333
+384,85,Continuous Discovery,Business,0.8222222222222222
+384,60,Can't Hurt Me,Business,0.8115001655209964
+384,21,Rich Dad Poor Dad,Business,0.8093333333333332
+384,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+385,56,The Power of Habit,Fantasy,0.8848314596459821
+385,68,Bitcoin & Blockchain,Fantasy,0.8639430270400715
+385,73,My Hero Academia,Fantasy,0.832888888888889
+385,12,The Hobbit,Fantasy,0.8167777777777778
+385,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+386,29,The Girl on the Train,Self-help,0.8444444444444444
+386,40,Great Expectations,Self-help,0.8416666666666667
+386,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+386,89,Biển Rộng,Self-help,0.8105170990934222
+386,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+387,59,Make Your Bed,Business,0.8463333333333333
+387,35,Tipping Point,Business,0.828428195609481
+387,85,Continuous Discovery,Business,0.8222222222222222
+387,21,Rich Dad Poor Dad,Business,0.8093333333333332
+387,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+388,76,Bố Già,Romance,0.8495555555555556
+388,13,Foundation,Romance,0.8315555555555555
+388,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+388,9,Dragon Ball,Romance,0.7493333333333333
+388,191,Sách AI 90,Romance,0.7193777777777778
+389,29,The Girl on the Train,Self-help,0.8444444444444444
+389,40,Great Expectations,Self-help,0.8416666666666667
+389,58,Essentialism,Self-help,0.8144444444444445
+389,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+389,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+390,44,Sức Mạnh Hiện Tại,Business,0.8888760803383114
+390,59,Make Your Bed,Business,0.8863269290580444
+390,35,Tipping Point,Business,0.8551533251040581
+390,74,Jujutsu Kaisen,Business,0.8335555555555555
+390,21,Rich Dad Poor Dad,Business,0.8093333333333332
+391,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+391,8,Naruto,Classic,0.8388888888888888
+391,24,Good to Great,Classic,0.8245555555555556
+391,31,Lịch Sử Loài Người,Classic,0.808888888888889
+391,72,Demon Slayer,Classic,0.783888888888889
+392,66,Sách Trắng Tài Chính,Business,0.8426296308422688
+392,85,Continuous Discovery,Business,0.8222222222222222
+392,21,Rich Dad Poor Dad,Business,0.8093333333333332
+392,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+392,97,Mắt Biếc,Business,0.8043333333333333
+393,17,Quê Hương Tuổi Thơ,Fantasy,0.9124444444444444
+393,68,Bitcoin & Blockchain,Fantasy,0.8864450207617446
+393,84,Inspired,Fantasy,0.8630334938034183
+393,56,The Power of Habit,Fantasy,0.8473333333333334
+393,94,Measure What Matters,Fantasy,0.8458888888888889
+394,85,Continuous Discovery,Business,0.8222222222222222
+394,21,Rich Dad Poor Dad,Business,0.8093333333333332
+394,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+394,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+394,97,Mắt Biếc,Business,0.8043333333333333
+395,18,Số Đỏ,Classic,0.45555555555555555
+395,76,Bố Già,Romance,0.4495555555555556
+395,56,The Power of Habit,Fantasy,0.44733333333333336
+395,43,Tư Duy Nhanh Chậm,Manga,0.44733333333333336
+395,59,Make Your Bed,Business,0.4463333333333333
+396,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+396,8,Naruto,Classic,0.8388888888888888
+396,24,Good to Great,Classic,0.8245555555555556
+396,31,Lịch Sử Loài Người,Classic,0.808888888888889
+396,72,Demon Slayer,Classic,0.783888888888889
+397,59,Make Your Bed,Business,0.8463333333333333
+397,85,Continuous Discovery,Business,0.8222222222222222
+397,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+397,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+397,97,Mắt Biếc,Business,0.8043333333333333
+398,40,Great Expectations,Self-help,0.9416666666666667
+398,57,Deep Work,Self-help,0.8737707904599992
+398,63,Truyện Kiều,Self-help,0.853883648400555
+398,29,The Girl on the Train,Self-help,0.8444444444444444
+398,58,Essentialism,Self-help,0.8144444444444445
+399,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+399,18,Số Đỏ,Classic,0.8555555555555555
+399,24,Good to Great,Classic,0.8245555555555556
+399,31,Lịch Sử Loài Người,Classic,0.808888888888889
+399,72,Demon Slayer,Classic,0.783888888888889
+400,29,The Girl on the Train,Self-help,0.8444444444444444
+400,40,Great Expectations,Self-help,0.8416666666666667
+400,58,Essentialism,Self-help,0.8144444444444445
+400,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+400,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+401,63,Truyện Kiều,Self-help,0.8788695875810807
+401,29,The Girl on the Train,Self-help,0.8444444444444444
+401,40,Great Expectations,Self-help,0.8416666666666667
+401,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+401,6,Doraemon,Self-help,0.8001111111111112
+402,29,The Girl on the Train,Self-help,0.8444444444444444
+402,40,Great Expectations,Self-help,0.8416666666666667
+402,88,Và Núi Vang Vọng,Self-help,0.8251687502106475
+402,58,Essentialism,Self-help,0.8144444444444445
+402,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+403,45,Mindset,Business,0.8664444444444445
+403,59,Make Your Bed,Business,0.8463333333333333
+403,85,Continuous Discovery,Business,0.8222222222222222
+403,21,Rich Dad Poor Dad,Business,0.8093333333333332
+403,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+404,17,Quê Hương Tuổi Thơ,Fantasy,0.9073950292976847
+404,56,The Power of Habit,Fantasy,0.8473333333333334
+404,73,My Hero Academia,Fantasy,0.832888888888889
+404,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+404,12,The Hobbit,Fantasy,0.8167777777777778
+405,59,Make Your Bed,Business,0.8463333333333333
+405,5,Think and Grow Rich,Business,0.8232220587629768
+405,21,Rich Dad Poor Dad,Business,0.8093333333333332
+405,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+405,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+406,60,Can't Hurt Me,Business,0.839066158547853
+406,85,Continuous Discovery,Business,0.8222222222222222
+406,21,Rich Dad Poor Dad,Business,0.8093333333333332
+406,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+406,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+407,88,Và Núi Vang Vọng,Self-help,0.8476666666666668
+407,29,The Girl on the Train,Self-help,0.8444444444444444
+407,40,Great Expectations,Self-help,0.8416666666666667
+407,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+407,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+408,81,The Lean Startup,Literature,0.8384384686084809
+408,34,Outliers,Literature,0.8112222222222223
+408,83,Hooked,Literature,0.807
+408,39,Wuthering Heights,Literature,0.8065555555555555
+408,49,Madame Bovary,Literature,0.8018888888888889
+409,43,Tư Duy Nhanh Chậm,Manga,0.9044927082713332
+409,62,Tắt Đèn,Manga,0.8171961072499909
+409,28,Gone Girl,Manga,0.8038888888888889
+409,3,Sapiens,Manga,0.802888888888889
+409,93,Toyota Way,Manga,0.7867777777777778
+410,29,The Girl on the Train,Self-help,0.8444444444444444
+410,40,Great Expectations,Self-help,0.8416666666666667
+410,63,Truyện Kiều,Self-help,0.8289198961660004
+410,100,Cô Đơn Trên Đại Dương,Self-help,0.8177454776800558
+410,58,Essentialism,Self-help,0.8144444444444445
+411,85,Continuous Discovery,Business,0.8222222222222222
+411,21,Rich Dad Poor Dad,Business,0.8093333333333332
+411,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+411,97,Mắt Biếc,Business,0.8043333333333333
+411,54,Ficciones,Business,0.7954444444444444
+412,59,Make Your Bed,Business,0.8463333333333333
+412,85,Continuous Discovery,Business,0.8222222222222222
+412,21,Rich Dad Poor Dad,Business,0.8093333333333332
+412,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+412,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+413,73,My Hero Academia,Fantasy,0.8928977525486659
+413,56,The Power of Habit,Fantasy,0.8473333333333334
+413,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+413,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+413,12,The Hobbit,Fantasy,0.8167777777777778
+414,79,Điểm Hẹn,Literature,0.8179864511256079
+414,39,Wuthering Heights,Literature,0.8065555555555555
+414,81,The Lean Startup,Literature,0.8051111111111112
+414,49,Madame Bovary,Literature,0.8018888888888889
+414,53,Nhà Giả Kim 2,Literature,0.7487777777777778
+415,98,Tôi Thấy Hoa Vàng,Self-help,0.8431111111111111
+415,57,Deep Work,Self-help,0.8337777777777778
+415,58,Essentialism,Self-help,0.8144444444444445
+415,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+415,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+416,59,Make Your Bed,Business,0.8463333333333333
+416,85,Continuous Discovery,Business,0.8222222222222222
+416,21,Rich Dad Poor Dad,Business,0.8093333333333332
+416,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+416,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+417,58,Essentialism,Self-help,0.8644537019321362
+417,29,The Girl on the Train,Self-help,0.8444444444444444
+417,40,Great Expectations,Self-help,0.8416666666666667
+417,57,Deep Work,Self-help,0.8112701573119367
+417,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+418,59,Make Your Bed,Business,0.8463333333333333
+418,85,Continuous Discovery,Business,0.8222222222222222
+418,21,Rich Dad Poor Dad,Business,0.8093333333333332
+418,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+418,97,Mắt Biếc,Business,0.8043333333333333
+419,85,Continuous Discovery,Business,0.8222222222222222
+419,21,Rich Dad Poor Dad,Business,0.8093333333333332
+419,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+419,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+419,97,Mắt Biếc,Business,0.8043333333333333
+420,56,The Power of Habit,Fantasy,0.8473333333333334
+420,73,My Hero Academia,Fantasy,0.832888888888889
+420,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+420,94,Measure What Matters,Fantasy,0.7858888888888889
+420,84,Inspired,Fantasy,0.783
+421,35,Tipping Point,Business,0.8395542175360461
+421,85,Continuous Discovery,Business,0.8222222222222222
+421,21,Rich Dad Poor Dad,Business,0.8093333333333332
+421,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+421,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+422,29,The Girl on the Train,Self-help,0.8444444444444444
+422,40,Great Expectations,Self-help,0.8416666666666667
+422,58,Essentialism,Self-help,0.8144444444444445
+422,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+422,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+423,18,Số Đỏ,Classic,0.45555555555555555
+423,76,Bố Già,Romance,0.4495555555555556
+423,56,The Power of Habit,Fantasy,0.44733333333333336
+423,43,Tư Duy Nhanh Chậm,Manga,0.44733333333333336
+423,59,Make Your Bed,Business,0.4463333333333333
+424,45,Mindset,Business,0.8264444444444445
+424,21,Rich Dad Poor Dad,Business,0.8093333333333332
+424,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+424,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+424,97,Mắt Biếc,Business,0.8043333333333333
+425,38,Jane Eyre,Manga,0.820888888888889
+425,93,Toyota Way,Manga,0.7867777777777778
+425,99,Bức Thư Gửi Em,Manga,0.7807777777777778
+425,62,Tắt Đèn,Manga,0.7743333333333333
+425,86,Người Đua Diều,Manga,0.7595555555555555
+426,85,Continuous Discovery,Business,0.8222222222222222
+426,21,Rich Dad Poor Dad,Business,0.8093333333333332
+426,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+426,97,Mắt Biếc,Business,0.8043333333333333
+426,54,Ficciones,Business,0.7954444444444444
+427,29,The Girl on the Train,Self-help,0.8444444444444444
+427,40,Great Expectations,Self-help,0.8416666666666667
+427,58,Essentialism,Self-help,0.8144444444444445
+427,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+427,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+428,59,Make Your Bed,Business,0.8463333333333333
+428,60,Can't Hurt Me,Business,0.8115282886357887
+428,21,Rich Dad Poor Dad,Business,0.8093333333333332
+428,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+428,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+429,59,Make Your Bed,Business,0.8891751208587464
+429,10,Conan,Business,0.8363612582522063
+429,1,Đắc Nhân Tâm,Business,0.8193679451997342
+429,21,Rich Dad Poor Dad,Business,0.8093333333333332
+429,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+430,30,Big Little Lies,History,0.8190000000000001
+430,95,Radical Candor,History,0.808888888888889
+430,7,One Piece,History,0.8046666666666666
+430,69,Tự Do Tài Chính,History,0.7784444444444445
+430,55,Vườn Nửa Đêm,History,0.7401111111111112
+431,59,Make Your Bed,Business,0.8463333333333333
+431,5,Think and Grow Rich,Business,0.843217714901304
+431,21,Rich Dad Poor Dad,Business,0.8093333333333332
+431,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+431,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+432,75,Fullmetal Alchemist,History,0.8163333333333334
+432,95,Radical Candor,History,0.808888888888889
+432,7,One Piece,History,0.8046666666666666
+432,69,Tự Do Tài Chính,History,0.7784444444444445
+432,134,Sách AI 33,History,0.7047333333333333
+433,76,Bố Già,Romance,0.8495555555555556
+433,13,Foundation,Romance,0.8315555555555555
+433,23,Zero to One,Romance,0.8312222222222223
+433,9,Dragon Ball,Romance,0.7493333333333333
+433,191,Sách AI 90,Romance,0.7193777777777778
+434,17,Quê Hương Tuổi Thơ,Fantasy,0.8924336013486385
+434,73,My Hero Academia,Fantasy,0.832888888888889
+434,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+434,12,The Hobbit,Fantasy,0.8167777777777778
+434,94,Measure What Matters,Fantasy,0.7858888888888889
+435,6,Doraemon,Self-help,0.9000933368619031
+435,100,Cô Đơn Trên Đại Dương,Self-help,0.8602780294946007
+435,29,The Girl on the Train,Self-help,0.8444444444444444
+435,40,Great Expectations,Self-help,0.8416666666666667
+435,58,Essentialism,Self-help,0.8144444444444445
+436,17,Quê Hương Tuổi Thơ,Fantasy,0.9324444444444444
+436,56,The Power of Habit,Fantasy,0.8473333333333334
+436,73,My Hero Academia,Fantasy,0.832888888888889
+436,94,Measure What Matters,Fantasy,0.828753651420219
+436,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+437,68,Bitcoin & Blockchain,Fantasy,0.8693051391601747
+437,56,The Power of Habit,Fantasy,0.8473333333333334
+437,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+437,94,Measure What Matters,Fantasy,0.7858888888888889
+437,84,Inspired,Fantasy,0.783
+438,40,Great Expectations,Self-help,0.8416666666666667
+438,58,Essentialism,Self-help,0.8144444444444445
+438,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+438,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+438,6,Doraemon,Self-help,0.8001111111111112
+439,66,Sách Trắng Tài Chính,Business,0.8479671056556544
+439,59,Make Your Bed,Business,0.8463333333333333
+439,85,Continuous Discovery,Business,0.8222222222222222
+439,74,Jujutsu Kaisen,Business,0.8192783853997769
+439,21,Rich Dad Poor Dad,Business,0.8093333333333332
+440,40,Great Expectations,Self-help,0.9416666666666667
+440,58,Essentialism,Self-help,0.8144444444444445
+440,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+440,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+440,6,Doraemon,Self-help,0.8001111111111112
+441,56,The Power of Habit,Fantasy,0.9473333333333334
+441,65,Bỉ Vỏ,Fantasy,0.8612167411999239
+441,73,My Hero Academia,Fantasy,0.832888888888889
+441,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+441,12,The Hobbit,Fantasy,0.8167777777777778
+442,40,Great Expectations,Self-help,0.8416666666666667
+442,58,Essentialism,Self-help,0.8144444444444445
+442,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+442,88,Và Núi Vang Vọng,Self-help,0.7876666666666667
+442,98,Tôi Thấy Hoa Vàng,Self-help,0.7831111111111111
+443,59,Make Your Bed,Business,0.8463333333333333
+443,85,Continuous Discovery,Business,0.8222222222222222
+443,60,Can't Hurt Me,Business,0.8115537789118871
+443,21,Rich Dad Poor Dad,Business,0.8093333333333332
+443,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+444,29,The Girl on the Train,Self-help,0.8444444444444444
+444,40,Great Expectations,Self-help,0.8416666666666667
+444,89,Biển Rộng,Self-help,0.823
+444,58,Essentialism,Self-help,0.8144444444444445
+444,64,Lão Hạc,Self-help,0.8094362828630861
+445,30,Big Little Lies,History,0.8190000000000001
+445,75,Fullmetal Alchemist,History,0.8163333333333334
+445,95,Radical Candor,History,0.808888888888889
+445,7,One Piece,History,0.8046666666666666
+445,78,Thiên Thần Và Ác Quỷ,History,0.8001111111111112
+446,58,Essentialism,Self-help,0.8644782535203897
+446,29,The Girl on the Train,Self-help,0.8444444444444444
+446,40,Great Expectations,Self-help,0.8416666666666667
+446,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+446,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+447,17,Quê Hương Tuổi Thơ,Fantasy,0.9074347872906027
+447,68,Bitcoin & Blockchain,Fantasy,0.9014350604889667
+447,56,The Power of Habit,Fantasy,0.8473333333333334
+447,73,My Hero Academia,Fantasy,0.832888888888889
+447,12,The Hobbit,Fantasy,0.8167777777777778
+448,78,Thiên Thần Và Ác Quỷ,History,0.8501093643849842
+448,30,Big Little Lies,History,0.8190000000000001
+448,75,Fullmetal Alchemist,History,0.8163333333333334
+448,95,Radical Candor,History,0.808888888888889
+448,7,One Piece,History,0.8046666666666666
+449,59,Make Your Bed,Business,0.8463333333333333
+449,85,Continuous Discovery,Business,0.8222222222222222
+449,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+449,97,Mắt Biếc,Business,0.8043333333333333
+449,54,Ficciones,Business,0.7954444444444444
+450,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+450,83,Hooked,Literature,0.807
+450,39,Wuthering Heights,Literature,0.8065555555555555
+450,81,The Lean Startup,Literature,0.8051111111111112
+450,26,Sherlock Holmes,Literature,0.7625069937842135
+451,94,Measure What Matters,Fantasy,0.8430346957094974
+451,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+451,12,The Hobbit,Fantasy,0.8167777777777778
+451,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+451,84,Inspired,Fantasy,0.783
+452,59,Make Your Bed,Business,0.9063154888573384
+452,85,Continuous Discovery,Business,0.8222222222222222
+452,21,Rich Dad Poor Dad,Business,0.8093333333333332
+452,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+452,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+453,59,Make Your Bed,Business,0.8463333333333333
+453,85,Continuous Discovery,Business,0.8222222222222222
+453,21,Rich Dad Poor Dad,Business,0.8093333333333332
+453,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+453,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+454,24,Good to Great,Classic,0.9044730291596436
+454,18,Số Đỏ,Classic,0.8555555555555555
+454,37,Pride and Prejudice,Classic,0.8539609606098402
+454,8,Naruto,Classic,0.8388888888888888
+454,31,Lịch Sử Loài Người,Classic,0.808888888888889
+455,68,Bitcoin & Blockchain,Fantasy,0.8764515993342028
+455,12,The Hobbit,Fantasy,0.8667585255523957
+455,73,My Hero Academia,Fantasy,0.832888888888889
+455,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+455,94,Measure What Matters,Fantasy,0.8159027034594807
+456,29,The Girl on the Train,Self-help,0.9444375558003331
+456,98,Tôi Thấy Hoa Vàng,Self-help,0.8631173242454014
+456,90,Bầu Trời,Self-help,0.8433333333333333
+456,58,Essentialism,Self-help,0.8144444444444445
+456,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+457,59,Make Your Bed,Business,0.8463333333333333
+457,85,Continuous Discovery,Business,0.8222222222222222
+457,21,Rich Dad Poor Dad,Business,0.8093333333333332
+457,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+457,97,Mắt Biếc,Business,0.8043333333333333
+458,29,The Girl on the Train,Self-help,0.8444444444444444
+458,40,Great Expectations,Self-help,0.8416666666666667
+458,58,Essentialism,Self-help,0.8144444444444445
+458,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+458,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+459,59,Make Your Bed,Business,0.8463333333333333
+459,85,Continuous Discovery,Business,0.8222222222222222
+459,21,Rich Dad Poor Dad,Business,0.8093333333333332
+459,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+459,97,Mắt Biếc,Business,0.8043333333333333
+460,85,Continuous Discovery,Business,0.8222222222222222
+460,21,Rich Dad Poor Dad,Business,0.8093333333333332
+460,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+460,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+460,97,Mắt Biếc,Business,0.8043333333333333
+461,52,Tình Yêu Thời Thổ Tả,Classic,0.8576905935510408
+461,18,Số Đỏ,Classic,0.8555555555555555
+461,8,Naruto,Classic,0.8388888888888888
+461,24,Good to Great,Classic,0.8245555555555556
+461,4,Atomic Habits,Classic,0.766888888888889
+462,13,Foundation,Romance,0.8315555555555555
+462,23,Zero to One,Romance,0.8312222222222223
+462,36,Romeo and Juliet,Romance,0.7548888888888889
+462,191,Sách AI 90,Romance,0.7193777777777778
+462,174,Sách AI 73,Romance,0.6981333333333333
+463,8,Naruto,Classic,0.8388888888888888
+463,24,Good to Great,Classic,0.8245555555555556
+463,31,Lịch Sử Loài Người,Classic,0.808888888888889
+463,37,Pride and Prejudice,Classic,0.7915012185737136
+463,4,Atomic Habits,Classic,0.766888888888889
+464,79,Điểm Hẹn,Literature,0.8179920617569917
+464,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+464,34,Outliers,Literature,0.8112222222222223
+464,83,Hooked,Literature,0.807
+464,39,Wuthering Heights,Literature,0.8065555555555555
+465,59,Make Your Bed,Business,0.8463333333333333
+465,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+465,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+465,97,Mắt Biếc,Business,0.8043333333333333
+465,54,Ficciones,Business,0.7954444444444444
+466,59,Make Your Bed,Business,0.9063446502399778
+466,97,Mắt Biếc,Business,0.8643642412359857
+466,21,Rich Dad Poor Dad,Business,0.8093333333333332
+466,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+466,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+467,17,Quê Hương Tuổi Thơ,Fantasy,0.8699450255163372
+467,56,The Power of Habit,Fantasy,0.8473333333333334
+467,12,The Hobbit,Fantasy,0.8167777777777778
+467,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+467,94,Measure What Matters,Fantasy,0.7858888888888889
+468,59,Make Your Bed,Business,0.8463333333333333
+468,60,Can't Hurt Me,Business,0.8265585927259148
+468,85,Continuous Discovery,Business,0.8222222222222222
+468,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+468,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+469,44,Sức Mạnh Hiện Tại,Business,0.8517519058168006
+469,66,Sách Trắng Tài Chính,Business,0.8479689381446581
+469,59,Make Your Bed,Business,0.8463333333333333
+469,85,Continuous Discovery,Business,0.8222222222222222
+469,21,Rich Dad Poor Dad,Business,0.8093333333333332
+470,59,Make Your Bed,Business,0.8463333333333333
+470,85,Continuous Discovery,Business,0.8222222222222222
+470,21,Rich Dad Poor Dad,Business,0.8093333333333332
+470,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+470,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+471,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.9106383481438408
+471,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8814134571083607
+471,29,The Girl on the Train,Self-help,0.8444444444444444
+471,63,Truyện Kiều,Self-help,0.8389122115164845
+471,58,Essentialism,Self-help,0.8144444444444445
+472,28,Gone Girl,Manga,0.883888888888889
+472,99,Bức Thư Gửi Em,Manga,0.8607473438424036
+472,3,Sapiens,Manga,0.802888888888889
+472,62,Tắt Đèn,Manga,0.7743333333333333
+472,86,Người Đua Diều,Manga,0.7595555555555555
+473,40,Great Expectations,Self-help,0.8916711184143604
+473,58,Essentialism,Self-help,0.8144444444444445
+473,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+473,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+473,6,Doraemon,Self-help,0.8001111111111112
+474,12,The Hobbit,Fantasy,0.8967777777777778
+474,56,The Power of Habit,Fantasy,0.8473333333333334
+474,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+474,65,Bỉ Vỏ,Fantasy,0.7812222222222223
+474,27,Agatha Christie Collection,Fantasy,0.7572222222222222
+475,40,Great Expectations,Self-help,0.9416666666666667
+475,29,The Girl on the Train,Self-help,0.8444444444444444
+475,58,Essentialism,Self-help,0.8144444444444445
+475,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+475,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+476,85,Continuous Discovery,Business,0.862239452632894
+476,11,Harry Potter,Business,0.822218850730275
+476,21,Rich Dad Poor Dad,Business,0.8093333333333332
+476,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+476,97,Mắt Biếc,Business,0.8043333333333333
+477,8,Naruto,Classic,0.8989257522766864
+477,18,Số Đỏ,Classic,0.8555555555555555
+477,24,Good to Great,Classic,0.8245555555555556
+477,31,Lịch Sử Loài Người,Classic,0.808888888888889
+477,72,Demon Slayer,Classic,0.783888888888889
+478,58,Essentialism,Self-help,0.8944472763550105
+478,88,Và Núi Vang Vọng,Self-help,0.8676515511749396
+478,29,The Girl on the Train,Self-help,0.8444444444444444
+478,40,Great Expectations,Self-help,0.8416666666666667
+478,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+479,18,Số Đỏ,Classic,0.8555555555555555
+479,37,Pride and Prejudice,Classic,0.854
+479,4,Atomic Habits,Classic,0.8468199701073555
+479,24,Good to Great,Classic,0.8245555555555556
+479,31,Lịch Sử Loài Người,Classic,0.808888888888889
+480,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+480,34,Outliers,Literature,0.8112222222222223
+480,83,Hooked,Literature,0.807
+480,39,Wuthering Heights,Literature,0.8065555555555555
+480,81,The Lean Startup,Literature,0.8051111111111112
+481,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8907053398000483
+481,29,The Girl on the Train,Self-help,0.8444444444444444
+481,40,Great Expectations,Self-help,0.8416666666666667
+481,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+481,88,Và Núi Vang Vọng,Self-help,0.7876666666666667
+482,59,Make Your Bed,Business,0.8463333333333333
+482,66,Sách Trắng Tài Chính,Business,0.8426150963632891
+482,21,Rich Dad Poor Dad,Business,0.8093333333333332
+482,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+482,97,Mắt Biếc,Business,0.8043333333333333
+483,44,Sức Mạnh Hiện Tại,Business,0.8838626599439295
+483,59,Make Your Bed,Business,0.8463333333333333
+483,85,Continuous Discovery,Business,0.8222222222222222
+483,5,Think and Grow Rich,Business,0.8181959932772628
+483,21,Rich Dad Poor Dad,Business,0.8093333333333332
+484,85,Continuous Discovery,Business,0.8722261762619848
+484,59,Make Your Bed,Business,0.8463333333333333
+484,21,Rich Dad Poor Dad,Business,0.8093333333333332
+484,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+484,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+485,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8764444444444446
+485,29,The Girl on the Train,Self-help,0.8444444444444444
+485,40,Great Expectations,Self-help,0.8416666666666667
+485,63,Truyện Kiều,Self-help,0.8288796081917635
+485,58,Essentialism,Self-help,0.8144444444444445
+486,56,The Power of Habit,Fantasy,0.8473333333333334
+486,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+486,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+486,12,The Hobbit,Fantasy,0.8167777777777778
+486,94,Measure What Matters,Fantasy,0.7858888888888889
+487,59,Make Your Bed,Business,0.8463333333333333
+487,85,Continuous Discovery,Business,0.8222222222222222
+487,21,Rich Dad Poor Dad,Business,0.8093333333333332
+487,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+487,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+488,17,Quê Hương Tuổi Thơ,Fantasy,0.9074437886527267
+488,56,The Power of Habit,Fantasy,0.8473333333333334
+488,73,My Hero Academia,Fantasy,0.832888888888889
+488,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+488,12,The Hobbit,Fantasy,0.8167777777777778
+489,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+489,18,Số Đỏ,Classic,0.8555555555555555
+489,8,Naruto,Classic,0.8388888888888888
+489,24,Good to Great,Classic,0.8245555555555556
+489,31,Lịch Sử Loài Người,Classic,0.808888888888889
+490,21,Rich Dad Poor Dad,Business,0.8926477932835101
+490,59,Make Your Bed,Business,0.8463333333333333
+490,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+490,97,Mắt Biếc,Business,0.8043333333333333
+490,54,Ficciones,Business,0.7954444444444444
+491,59,Make Your Bed,Business,0.8463333333333333
+491,85,Continuous Discovery,Business,0.8222222222222222
+491,21,Rich Dad Poor Dad,Business,0.8093333333333332
+491,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+491,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+492,29,The Girl on the Train,Self-help,0.8444444444444444
+492,40,Great Expectations,Self-help,0.8416666666666667
+492,58,Essentialism,Self-help,0.8144444444444445
+492,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+492,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+493,20,Đất Rừng Phương Nam,Self-help,0.8196294061000832
+493,58,Essentialism,Self-help,0.8144444444444445
+493,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+493,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+493,6,Doraemon,Self-help,0.8001111111111112
+494,59,Make Your Bed,Business,0.8463333333333333
+494,60,Can't Hurt Me,Business,0.8265182273589525
+494,85,Continuous Discovery,Business,0.8222222222222222
+494,21,Rich Dad Poor Dad,Business,0.8093333333333332
+494,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+495,59,Make Your Bed,Business,0.8463333333333333
+495,5,Think and Grow Rich,Business,0.8431997741904534
+495,85,Continuous Discovery,Business,0.8222222222222222
+495,21,Rich Dad Poor Dad,Business,0.8093333333333332
+495,61,Dế Mèn Phiêu Lưu Ký,Business,0.8057777777777778
+496,18,Số Đỏ,Classic,0.45555555555555555
+496,76,Bố Già,Romance,0.4495555555555556
+496,56,The Power of Habit,Fantasy,0.44733333333333336
+496,43,Tư Duy Nhanh Chậm,Manga,0.44733333333333336
+496,59,Make Your Bed,Business,0.4463333333333333
+497,34,Outliers,Literature,0.8112222222222223
+497,83,Hooked,Literature,0.807
+497,39,Wuthering Heights,Literature,0.8065555555555555
+497,81,The Lean Startup,Literature,0.8051111111111112
+497,49,Madame Bovary,Literature,0.8018888888888889
+498,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+498,34,Outliers,Literature,0.8112222222222223
+498,83,Hooked,Literature,0.807
+498,39,Wuthering Heights,Literature,0.8065555555555555
+498,49,Madame Bovary,Literature,0.8018888888888889
+499,17,Quê Hương Tuổi Thơ,Fantasy,0.9324444444444444
+499,12,The Hobbit,Fantasy,0.8739254840625644
+499,56,The Power of Habit,Fantasy,0.8473333333333334
+499,73,My Hero Academia,Fantasy,0.832888888888889
+499,94,Measure What Matters,Fantasy,0.8287496686024788
+500,30,Big Little Lies,History,0.8190000000000001
+500,75,Fullmetal Alchemist,History,0.8163333333333334
+500,7,One Piece,History,0.8046666666666666
+500,14,Dune,History,0.7816666666666667
+500,69,Tự Do Tài Chính,History,0.7784444444444445
+501,13,Foundation,Romance,0.8315555555555555
+501,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+501,36,Romeo and Juliet,Romance,0.7548888888888889
+501,191,Sách AI 90,Romance,0.7193777777777778
+501,174,Sách AI 73,Romance,0.6981333333333333
+502,76,Bố Già,Romance,0.8495555555555556
+502,13,Foundation,Romance,0.8315555555555555
+502,23,Zero to One,Romance,0.8312222222222223
+502,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+502,36,Romeo and Juliet,Romance,0.7548888888888889
+503,56,The Power of Habit,Fantasy,0.8848376650378658
+503,17,Quê Hương Tuổi Thơ,Fantasy,0.8699450360688182
+503,73,My Hero Academia,Fantasy,0.832888888888889
+503,12,The Hobbit,Fantasy,0.8167777777777778
+503,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+504,56,The Power of Habit,Fantasy,0.8848315708097635
+504,68,Bitcoin & Blockchain,Fantasy,0.8639431077831965
+504,73,My Hero Academia,Fantasy,0.832888888888889
+504,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+504,84,Inspired,Fantasy,0.783
+505,76,Bố Già,Romance,0.8495555555555556
+505,13,Foundation,Romance,0.8315555555555555
+505,23,Zero to One,Romance,0.8312222222222223
+505,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+505,191,Sách AI 90,Romance,0.7193777777777778
+506,29,The Girl on the Train,Self-help,0.8444444444444444
+506,40,Great Expectations,Self-help,0.8416666666666667
+506,58,Essentialism,Self-help,0.8144444444444445
+506,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+506,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8014444444444445
+507,76,Bố Già,Romance,0.9495555555555556
+507,13,Foundation,Romance,0.8315555555555555
+507,23,Zero to One,Romance,0.8312222222222223
+507,191,Sách AI 90,Romance,0.7193777777777778
+507,174,Sách AI 73,Romance,0.6981333333333333
+508,40,Great Expectations,Self-help,0.8416666666666667
+508,47,Ba Chàng Lính Ngự Lâm,Self-help,0.8389742080220276
+508,15,1984,Self-help,0.818666938884446
+508,58,Essentialism,Self-help,0.8144444444444445
+508,91,Thinking in Systems,Self-help,0.8016263738590117
+509,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+509,18,Số Đỏ,Classic,0.8555555555555555
+509,8,Naruto,Classic,0.8388888888888888
+509,24,Good to Great,Classic,0.8245555555555556
+509,31,Lịch Sử Loài Người,Classic,0.808888888888889
+510,17,Quê Hương Tuổi Thơ,Fantasy,0.8657689909068592
+510,12,The Hobbit,Fantasy,0.8612251949424972
+510,56,The Power of Habit,Fantasy,0.8473333333333334
+510,65,Bỉ Vỏ,Fantasy,0.8367789214662513
+510,73,My Hero Academia,Fantasy,0.832888888888889
+511,13,Foundation,Romance,0.8315555555555555
+511,23,Zero to One,Romance,0.8312222222222223
+511,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+511,36,Romeo and Juliet,Romance,0.7548888888888889
+511,9,Dragon Ball,Romance,0.7493333333333333
+512,76,Bố Già,Romance,0.8495555555555556
+512,13,Foundation,Romance,0.8315555555555555
+512,23,Zero to One,Romance,0.8312222222222223
+512,36,Romeo and Juliet,Romance,0.7548888888888889
+512,9,Dragon Ball,Romance,0.7493333333333333
+513,59,Make Your Bed,Business,0.8463333333333333
+513,85,Continuous Discovery,Business,0.8222222222222222
+513,21,Rich Dad Poor Dad,Business,0.8093333333333332
+513,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+513,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+514,88,Và Núi Vang Vọng,Self-help,0.847711789025932
+514,29,The Girl on the Train,Self-help,0.8444444444444444
+514,40,Great Expectations,Self-help,0.8416666666666667
+514,58,Essentialism,Self-help,0.8144444444444445
+514,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+515,76,Bố Già,Romance,0.8495555555555556
+515,13,Foundation,Romance,0.8315555555555555
+515,23,Zero to One,Romance,0.8312222222222223
+515,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+515,36,Romeo and Juliet,Romance,0.7548888888888889
+516,30,Big Little Lies,History,0.8190000000000001
+516,75,Fullmetal Alchemist,History,0.8163333333333334
+516,95,Radical Candor,History,0.808888888888889
+516,7,One Piece,History,0.8046666666666666
+516,78,Thiên Thần Và Ác Quỷ,History,0.8001111111111112
+517,17,Quê Hương Tuổi Thơ,Fantasy,0.8699449589396601
+517,56,The Power of Habit,Fantasy,0.8473333333333334
+517,73,My Hero Academia,Fantasy,0.832888888888889
+517,12,The Hobbit,Fantasy,0.8167777777777778
+517,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+518,17,Quê Hương Tuổi Thơ,Fantasy,0.869944885955783
+518,68,Bitcoin & Blockchain,Fantasy,0.8639430213397414
+518,73,My Hero Academia,Fantasy,0.832888888888889
+518,12,The Hobbit,Fantasy,0.8167777777777778
+518,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+519,76,Bố Già,Romance,0.8495555555555556
+519,23,Zero to One,Romance,0.8312222222222223
+519,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+519,36,Romeo and Juliet,Romance,0.7548888888888889
+519,9,Dragon Ball,Romance,0.7493333333333333
+520,94,Measure What Matters,Fantasy,0.8858888888888888
+520,67,Đầu Tư Chứng Khoán,Fantasy,0.8740274245028071
+520,65,Bỉ Vỏ,Fantasy,0.8612101384044308
+520,56,The Power of Habit,Fantasy,0.8473333333333334
+520,73,My Hero Academia,Fantasy,0.832888888888889
+521,59,Make Your Bed,Business,0.8463333333333333
+521,85,Continuous Discovery,Business,0.8222222222222222
+521,21,Rich Dad Poor Dad,Business,0.8093333333333332
+521,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+521,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+522,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+522,38,Jane Eyre,Manga,0.820888888888889
+522,28,Gone Girl,Manga,0.8038888888888889
+522,86,Người Đua Diều,Manga,0.7970551245668231
+522,93,Toyota Way,Manga,0.7867777777777778
+523,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+523,38,Jane Eyre,Manga,0.820888888888889
+523,28,Gone Girl,Manga,0.8038888888888889
+523,3,Sapiens,Manga,0.802888888888889
+523,93,Toyota Way,Manga,0.7867777777777778
+524,17,Quê Hương Tuổi Thơ,Fantasy,0.8699451295629944
+524,73,My Hero Academia,Fantasy,0.832888888888889
+524,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+524,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+524,84,Inspired,Fantasy,0.783
+525,59,Make Your Bed,Business,0.8463333333333333
+525,48,Những Người Khốn Khổ,Business,0.8278941444620794
+525,85,Continuous Discovery,Business,0.8222222222222222
+525,10,Conan,Business,0.816726163902115
+525,21,Rich Dad Poor Dad,Business,0.8093333333333332
+526,68,Bitcoin & Blockchain,Fantasy,0.8639431359219322
+526,56,The Power of Habit,Fantasy,0.8473333333333334
+526,73,My Hero Academia,Fantasy,0.832888888888889
+526,12,The Hobbit,Fantasy,0.8167777777777778
+526,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+527,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+527,38,Jane Eyre,Manga,0.820888888888889
+527,28,Gone Girl,Manga,0.8038888888888889
+527,3,Sapiens,Manga,0.802888888888889
+527,93,Toyota Way,Manga,0.7867777777777778
+528,76,Bố Già,Romance,0.8495555555555556
+528,13,Foundation,Romance,0.8315555555555555
+528,23,Zero to One,Romance,0.8312222222222223
+528,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+528,36,Romeo and Juliet,Romance,0.7548888888888889
+529,17,Quê Hương Tuổi Thơ,Fantasy,0.9073957037893392
+529,27,Agatha Christie Collection,Fantasy,0.8571830737760144
+529,56,The Power of Habit,Fantasy,0.8473333333333334
+529,73,My Hero Academia,Fantasy,0.832888888888889
+529,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+530,17,Quê Hương Tuổi Thơ,Fantasy,0.8699451101199703
+530,68,Bitcoin & Blockchain,Fantasy,0.8639432101439095
+530,73,My Hero Academia,Fantasy,0.832888888888889
+530,12,The Hobbit,Fantasy,0.8167777777777778
+530,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+531,38,Jane Eyre,Manga,0.9008857955021609
+531,28,Gone Girl,Manga,0.8038888888888889
+531,3,Sapiens,Manga,0.802888888888889
+531,93,Toyota Way,Manga,0.7867777777777778
+531,80,Trại Hoa Vàng,Manga,0.7844444444444445
+532,12,The Hobbit,Fantasy,0.8792975964613855
+532,17,Quê Hương Tuổi Thơ,Fantasy,0.8699447882425899
+532,56,The Power of Habit,Fantasy,0.8473333333333334
+532,73,My Hero Academia,Fantasy,0.832888888888889
+532,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+533,17,Quê Hương Tuổi Thơ,Fantasy,0.8924454146193324
+533,94,Measure What Matters,Fantasy,0.8658888888888888
+533,84,Inspired,Fantasy,0.863
+533,56,The Power of Habit,Fantasy,0.8473333333333334
+533,73,My Hero Academia,Fantasy,0.832888888888889
+534,59,Make Your Bed,Business,0.8463333333333333
+534,60,Can't Hurt Me,Business,0.8265482655034458
+534,85,Continuous Discovery,Business,0.8222222222222222
+534,21,Rich Dad Poor Dad,Business,0.8093333333333332
+534,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+535,97,Mắt Biếc,Business,0.8843004277165087
+535,85,Continuous Discovery,Business,0.8222222222222222
+535,60,Can't Hurt Me,Business,0.8115269441926464
+535,21,Rich Dad Poor Dad,Business,0.8093333333333332
+535,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+536,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+536,83,Hooked,Literature,0.807
+536,39,Wuthering Heights,Literature,0.8065555555555555
+536,81,The Lean Startup,Literature,0.8051111111111112
+536,49,Madame Bovary,Literature,0.8018888888888889
+537,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+537,34,Outliers,Literature,0.8112222222222223
+537,39,Wuthering Heights,Literature,0.8065555555555555
+537,81,The Lean Startup,Literature,0.8051111111111112
+537,49,Madame Bovary,Literature,0.8018888888888889
+538,28,Gone Girl,Manga,0.883888888888889
+538,38,Jane Eyre,Manga,0.8808726602123278
+538,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+538,80,Trại Hoa Vàng,Manga,0.8444282157678833
+538,3,Sapiens,Manga,0.802888888888889
+539,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+539,38,Jane Eyre,Manga,0.820888888888889
+539,28,Gone Girl,Manga,0.8038888888888889
+539,3,Sapiens,Manga,0.802888888888889
+539,86,Người Đua Diều,Manga,0.7970551129492452
+540,28,Gone Girl,Manga,0.883847750283186
+540,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+540,38,Jane Eyre,Manga,0.820888888888889
+540,80,Trại Hoa Vàng,Manga,0.7844444444444445
+540,99,Bức Thư Gửi Em,Manga,0.7807777777777778
+541,82,Sprint,Psychology,0.8005555555555556
+541,33,Freakonomics,Psychology,0.7871111111111111
+541,19,Chí Phèo,Psychology,0.7516666666666667
+541,173,Sách AI 72,Psychology,0.7017333333333333
+541,162,Sách AI 61,Psychology,0.6965555555555556
+542,68,Bitcoin & Blockchain,Fantasy,0.8764458931804008
+542,17,Quê Hương Tuổi Thơ,Fantasy,0.8699446770936374
+542,56,The Power of Habit,Fantasy,0.8473333333333334
+542,73,My Hero Academia,Fantasy,0.832888888888889
+542,12,The Hobbit,Fantasy,0.8167777777777778
+543,17,Quê Hương Tuổi Thơ,Fantasy,0.8699450566686623
+543,68,Bitcoin & Blockchain,Fantasy,0.8639431651240966
+543,56,The Power of Habit,Fantasy,0.8473333333333334
+543,12,The Hobbit,Fantasy,0.8167777777777778
+543,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+544,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+544,38,Jane Eyre,Manga,0.820888888888889
+544,28,Gone Girl,Manga,0.8038888888888889
+544,3,Sapiens,Manga,0.802888888888889
+544,86,Người Đua Diều,Manga,0.7970551145228878
+545,17,Quê Hương Tuổi Thơ,Fantasy,0.8924384357303212
+545,67,Đầu Tư Chứng Khoán,Fantasy,0.8740073940251283
+545,56,The Power of Habit,Fantasy,0.8473333333333334
+545,73,My Hero Academia,Fantasy,0.832888888888889
+545,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+546,56,The Power of Habit,Fantasy,0.8473333333333334
+546,73,My Hero Academia,Fantasy,0.832888888888889
+546,17,Quê Hương Tuổi Thơ,Fantasy,0.8324444444444444
+546,12,The Hobbit,Fantasy,0.8167777777777778
+546,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+547,17,Quê Hương Tuổi Thơ,Fantasy,0.8924380258636545
+547,56,The Power of Habit,Fantasy,0.8473333333333334
+547,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+547,12,The Hobbit,Fantasy,0.8167777777777778
+547,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+548,17,Quê Hương Tuổi Thơ,Fantasy,0.8699449139289794
+548,68,Bitcoin & Blockchain,Fantasy,0.8639430449004009
+548,56,The Power of Habit,Fantasy,0.8473333333333334
+548,12,The Hobbit,Fantasy,0.8167777777777778
+548,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+549,38,Jane Eyre,Manga,0.9008360193089713
+549,3,Sapiens,Manga,0.802888888888889
+549,93,Toyota Way,Manga,0.7867777777777778
+549,80,Trại Hoa Vàng,Manga,0.7844444444444445
+549,99,Bức Thư Gửi Em,Manga,0.7807777777777778
+550,17,Quê Hương Tuổi Thơ,Fantasy,0.8699448683056706
+550,56,The Power of Habit,Fantasy,0.8473333333333334
+550,73,My Hero Academia,Fantasy,0.832888888888889
+550,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+550,84,Inspired,Fantasy,0.783
+551,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+551,38,Jane Eyre,Manga,0.820888888888889
+551,28,Gone Girl,Manga,0.8038888888888889
+551,3,Sapiens,Manga,0.802888888888889
+551,93,Toyota Way,Manga,0.7867777777777778
+552,28,Gone Girl,Manga,0.8838888888888888
+552,62,Tắt Đèn,Manga,0.8543531498470693
+552,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+552,38,Jane Eyre,Manga,0.820888888888889
+552,3,Sapiens,Manga,0.802888888888889
+553,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+553,34,Outliers,Literature,0.8112222222222223
+553,83,Hooked,Literature,0.807
+553,39,Wuthering Heights,Literature,0.8065555555555555
+553,81,The Lean Startup,Literature,0.8051111111111112
+554,29,The Girl on the Train,Self-help,0.8444444444444444
+554,40,Great Expectations,Self-help,0.8416666666666667
+554,98,Tôi Thấy Hoa Vàng,Self-help,0.8331106256190691
+554,58,Essentialism,Self-help,0.8144444444444445
+554,87,Ngàn Mặt Trời Rực Rỡ,Self-help,0.8106666666666668
+555,18,Số Đỏ,Classic,0.8555555555555555
+555,8,Naruto,Classic,0.8388888888888888
+555,24,Good to Great,Classic,0.8245555555555556
+555,31,Lịch Sử Loài Người,Classic,0.808888888888889
+555,72,Demon Slayer,Classic,0.783888888888889
+556,34,Outliers,Literature,0.8112222222222223
+556,39,Wuthering Heights,Literature,0.8065555555555555
+556,81,The Lean Startup,Literature,0.8051111111111112
+556,49,Madame Bovary,Literature,0.8018888888888889
+556,79,Điểm Hẹn,Literature,0.7955001825014715
+557,68,Bitcoin & Blockchain,Fantasy,0.9064434012773763
+557,17,Quê Hương Tuổi Thơ,Fantasy,0.8924356965698014
+557,65,Bỉ Vỏ,Fantasy,0.861221179055154
+557,56,The Power of Habit,Fantasy,0.8473333333333334
+557,73,My Hero Academia,Fantasy,0.832888888888889
+558,17,Quê Hương Tuổi Thơ,Fantasy,0.8699448701936457
+558,56,The Power of Habit,Fantasy,0.8473333333333334
+558,73,My Hero Academia,Fantasy,0.832888888888889
+558,12,The Hobbit,Fantasy,0.8167777777777778
+558,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+559,56,The Power of Habit,Fantasy,0.8848318327904444
+559,17,Quê Hương Tuổi Thơ,Fantasy,0.8699452145146962
+559,73,My Hero Academia,Fantasy,0.832888888888889
+559,12,The Hobbit,Fantasy,0.8167777777777778
+559,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+560,76,Bố Già,Romance,0.8495555555555556
+560,13,Foundation,Romance,0.8315555555555555
+560,23,Zero to One,Romance,0.8312222222222223
+560,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+560,36,Romeo and Juliet,Romance,0.7548888888888889
+561,17,Quê Hương Tuổi Thơ,Fantasy,0.8699451733268672
+561,68,Bitcoin & Blockchain,Fantasy,0.8639432633804487
+561,73,My Hero Academia,Fantasy,0.832888888888889
+561,12,The Hobbit,Fantasy,0.8167777777777778
+561,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+562,85,Continuous Discovery,Business,0.8222222222222222
+562,21,Rich Dad Poor Dad,Business,0.8093333333333332
+562,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+562,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+562,97,Mắt Biếc,Business,0.8043333333333333
+563,30,Big Little Lies,History,0.8190000000000001
+563,75,Fullmetal Alchemist,History,0.8163333333333334
+563,95,Radical Candor,History,0.808888888888889
+563,7,One Piece,History,0.8046666666666666
+563,78,Thiên Thần Và Ác Quỷ,History,0.8001111111111112
+564,68,Bitcoin & Blockchain,Fantasy,0.8889628658161043
+564,56,The Power of Habit,Fantasy,0.8848222805103375
+564,17,Quê Hương Tuổi Thơ,Fantasy,0.8824393774321098
+564,12,The Hobbit,Fantasy,0.8667727107654432
+564,94,Measure What Matters,Fantasy,0.8483991641777613
+565,56,The Power of Habit,Fantasy,0.9073333333333334
+565,17,Quê Hương Tuổi Thơ,Fantasy,0.8924481376538353
+565,68,Bitcoin & Blockchain,Fantasy,0.8864451305616353
+565,73,My Hero Academia,Fantasy,0.832888888888889
+565,12,The Hobbit,Fantasy,0.8167777777777778
+566,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+566,18,Số Đỏ,Classic,0.8555555555555555
+566,8,Naruto,Classic,0.8388888888888888
+566,24,Good to Great,Classic,0.8245555555555556
+566,31,Lịch Sử Loài Người,Classic,0.808888888888889
+567,56,The Power of Habit,Fantasy,0.8473333333333334
+567,73,My Hero Academia,Fantasy,0.832888888888889
+567,68,Bitcoin & Blockchain,Fantasy,0.8264444444444445
+567,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+567,84,Inspired,Fantasy,0.783
+568,17,Quê Hương Tuổi Thơ,Fantasy,0.8699450728300591
+568,68,Bitcoin & Blockchain,Fantasy,0.8639431787361688
+568,56,The Power of Habit,Fantasy,0.8473333333333334
+568,73,My Hero Academia,Fantasy,0.832888888888889
+568,12,The Hobbit,Fantasy,0.8167777777777778
+569,17,Quê Hương Tuổi Thơ,Fantasy,0.907412721818716
+569,68,Bitcoin & Blockchain,Fantasy,0.9014542759359588
+569,84,Inspired,Fantasy,0.8829699578942078
+569,56,The Power of Habit,Fantasy,0.8473333333333334
+569,73,My Hero Academia,Fantasy,0.832888888888889
+570,43,Tư Duy Nhanh Chậm,Manga,0.8473333333333334
+570,38,Jane Eyre,Manga,0.820888888888889
+570,28,Gone Girl,Manga,0.8038888888888889
+570,3,Sapiens,Manga,0.802888888888889
+570,86,Người Đua Diều,Manga,0.7970550851594056
+571,83,Hooked,Literature,0.887
+571,34,Outliers,Literature,0.8112222222222223
+571,39,Wuthering Heights,Literature,0.8065555555555555
+571,49,Madame Bovary,Literature,0.8018888888888889
+571,79,Điểm Hẹn,Literature,0.758
+572,52,Tình Yêu Thời Thổ Tả,Classic,0.9005555555555556
+572,18,Số Đỏ,Classic,0.8555555555555555
+572,8,Naruto,Classic,0.8388888888888888
+572,24,Good to Great,Classic,0.8245555555555556
+572,31,Lịch Sử Loài Người,Classic,0.808888888888889
+573,78,Thiên Thần Và Ác Quỷ,History,0.8501090376972855
+573,30,Big Little Lies,History,0.8190000000000001
+573,95,Radical Candor,History,0.808888888888889
+573,7,One Piece,History,0.8046666666666666
+573,14,Dune,History,0.7816666666666667
+574,76,Bố Già,Romance,0.8495555555555556
+574,23,Zero to One,Romance,0.8312222222222223
+574,41,Kỹ Năng Giao Tiếp,Romance,0.790888888888889
+574,36,Romeo and Juliet,Romance,0.7548888888888889
+574,9,Dragon Ball,Romance,0.7493333333333333
+575,17,Quê Hương Tuổi Thơ,Fantasy,0.8924058741062569
+575,68,Bitcoin & Blockchain,Fantasy,0.8864444444444446
+575,56,The Power of Habit,Fantasy,0.8473333333333334
+575,12,The Hobbit,Fantasy,0.8167777777777778
+575,67,Đầu Tư Chứng Khoán,Fantasy,0.8140000000000001
+576,59,Make Your Bed,Business,0.8463333333333333
+576,85,Continuous Discovery,Business,0.8222222222222222
+576,21,Rich Dad Poor Dad,Business,0.8093333333333332
+576,44,Sức Mạnh Hiện Tại,Business,0.808888888888889
+576,66,Sách Trắng Tài Chính,Business,0.8051111111111112
+577,18,Số Đỏ,Classic,0.8555555555555555
+577,72,Demon Slayer,Classic,0.8505606454407683
+577,24,Good to Great,Classic,0.8245555555555556
+577,31,Lịch Sử Loài Người,Classic,0.808888888888889
+577,52,Tình Yêu Thời Thổ Tả,Classic,0.8005555555555556
+578,17,Quê Hương Tuổi Thơ,Fantasy,0.8699451732471558
+578,68,Bitcoin & Blockchain,Fantasy,0.8639432633133113
+578,56,The Power of Habit,Fantasy,0.8473333333333334
+578,73,My Hero Academia,Fantasy,0.832888888888889
+578,12,The Hobbit,Fantasy,0.8167777777777778
+579,52,Tình Yêu Thời Thổ Tả,Classic,0.9005487982889658
+579,18,Số Đỏ,Classic,0.8555555555555555
+579,8,Naruto,Classic,0.8388888888888888
+579,24,Good to Great,Classic,0.8245555555555556
+579,31,Lịch Sử Loài Người,Classic,0.808888888888889
+580,83,Hooked,Literature,0.8641448888042238
+580,51,Trăm Năm Cô Đơn,Literature,0.8176666666666667
+580,34,Outliers,Literature,0.8112222222222223
+580,39,Wuthering Heights,Literature,0.8065555555555555
+580,81,The Lean Startup,Literature,0.8051111111111112

@@ -1,0 +1,66 @@
+  
+     -------------- PYTHON -------------
+
+Bước 1: Update pip (QUAN TRỌNG NHẤT)
+
+Trong venv:
+
+python -m pip install --upgrade pip
+
+
+
+---- Thư Viện ------- 
+
+python -m venv .venv
+python -m pip install --upgrade pip
+pip install pandas numpy matplotlib scikit-learn statsmodels
+pip install prophet
+pip install tensorflow==2.13
+pip freeze > requirements.txt
+
+----- Môi Trường ---------
+
+🔥 Cách 1: Tách môi trường (.venv)  
+
+------ Tạo 2 terminal để tạo 2 môi trường
+
+👉 Tạo 2 môi trường riêng:
+
+1. Môi trường Data Analytics
+python -m venv venv-data
+venv-data\\Scripts\\activate
+pip install pandas numpy matplotlib seaborn scikit-learn plotly streamlit prophet openai
+
+2. Môi trường AI (TensorFlow)
+python -m venv venv-ai
+venv-ai\\Scripts\\activate
+
+
+pip install tensorflow==2.13 numpy==1.24.3
+pip install streamlit --no-deps
+pip install pandas numpy matplotlib seaborn scikit-learn plotly
+pip install altair requests protobuf
+pip install blinker cachetools click gitpython pydeck tenacity toml tornado watchdog
+
+
+---- Chạy Dự Án ( BTL ) -------------
+
+✅ Cách chạy dự án của bạn (đúng nhất)
+🚀 1. Chạy pipeline + dashboard (dự án chính)
+
+👉 Dùng venv-data
+
+venv-data\Scripts\activate
+python main.py
+streamlit run app.py
+
+
+🤖 2. Nếu có AI model riêng (optional)
+
+👉 Dùng venv-ai
+
+pip install pandas scikit-learn numpy
+
+cd ai
+venv-ai\Scripts\activate
+python train_model.py

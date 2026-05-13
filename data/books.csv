@@ -1,0 +1,101 @@
+book_id,ten_sach,tac_gia,the_loai,so_trang,loai_sach,diem_danh_gia,nam_xuat_ban,quoc_gia,gia_sach,price_range,rating_level
+1,Đắc Nhân Tâm,Dale Carnegie,Business,408,Truyện chữ,4.0,2020,USA,288000,High,Good
+2,Nhà Giả Kim,Paulo Coelho,Literature,748,Truyện chữ,3.2,2020,Brazil,228000,Medium,Low
+3,Sapiens,Yuval Noah Harari,Manga,455,Truyện tranh,4.4,2017,Israel,256000,High,Good
+4,Atomic Habits,James Clear,Classic,433,Truyện tranh,3.8,2014,USA,237000,Medium,Average
+5,Think and Grow Rich,Napoleon Hill,Business,342,Truyện chữ,4.1,2013,USA,292000,High,Good
+6,Doraemon,Fujiko F. Fujio,Self-help,826,Truyện chữ,4.4,2021,Japan,341000,High,Good
+7,One Piece,Eiichiro Oda,History,452,Truyện chữ,4.8,2016,Japan,99000,Low,Excellent
+8,Naruto,Masashi Kishimoto,Classic,747,Truyện tranh,5.0,2023,Japan,260000,High,Excellent
+9,Dragon Ball,Akira Toriyama,Romance,893,Truyện tranh,3.6,2018,Japan,268000,High,Average
+10,Conan,Gosho Aoyama,Business,669,Truyện chữ,4.7,2023,Japan,175000,Medium,Excellent
+11,Harry Potter,J.K. Rowling,Business,450,Truyện chữ,4.0,2021,UK,176000,Medium,Good
+12,The Hobbit,J.R.R. Tolkien,Fantasy,846,Truyện chữ,4.4,2013,UK,197000,Medium,Good
+13,Foundation,Dan Brown,Romance,464,Truyện chữ,4.6,2015,UK,217000,Medium,Excellent
+14,Dune,Frank Herbert,History,749,Truyện chữ,4.0,2011,USA,108000,Low,Good
+15,1984,George Orwell,Self-help,799,Truyện tranh,4.2,2019,UK,328000,High,Good
+16,Cà Phê Cùng Tony,George Orwell,Self-help,349,Truyện tranh,3.4,2020,UK,236000,Medium,Low
+17,Quê Hương Tuổi Thơ,Osamu Dazai,Fantasy,573,Truyện chữ,4.8,2012,Japan,185000,Medium,Excellent
+18,Số Đỏ,Vũ Trọng Phụng,Classic,500,Truyện chữ,5.0,2024,Vietnam,155000,Medium,Excellent
+19,Chí Phèo,Nam Cao,Psychology,473,Truyện tranh,3.5,2011,Vietnam,254000,High,Average
+20,Đất Rừng Phương Nam,Tô Hoài,Self-help,796,Truyện chữ,3.8,2010,Vietnam,317000,High,Average
+21,Rich Dad Poor Dad,Victor Hugo,Business,430,Truyện chữ,4.6,2012,France,163000,Medium,Excellent
+22,The Intelligent Investor,George Orwell,Fantasy,651,Truyện chữ,3.4,2016,UK,291000,High,Low
+23,Zero to One,Victor Hugo,Romance,589,Truyện chữ,3.9,2010,France,185000,Medium,Average
+24,Good to Great,Mark Twain,Classic,898,Truyện chữ,4.9,2024,USA,180000,Medium,Excellent
+25,Start with Why,Osamu Dazai,Classic,168,Truyện tranh,3.2,2021,Japan,199000,Medium,Low
+26,Sherlock Holmes,J.K. Rowling,Literature,860,Truyện chữ,3.8,2011,UK,344000,High,Average
+27,Agatha Christie Collection,Nam Cao,Fantasy,752,Truyện chữ,3.5,2023,Vietnam,236000,Medium,Average
+28,Gone Girl,Alexandre Dumas,Manga,447,Truyện tranh,4.0,2018,Japan,257000,High,Good
+29,The Girl on the Train,Agatha Christie,Self-help,594,Truyện tranh,5.0,2015,UK,268000,High,Excellent
+30,Big Little Lies,J.K. Rowling,History,342,Truyện chữ,4.9,2024,UK,90000,Low,Excellent
+31,Lịch Sử Loài Người,Natsume Soseki,Classic,383,Truyện chữ,4.5,2012,Japan,91000,Low,Excellent
+32,Thế Giới Phẳng,Tô Hoài,Psychology,753,Truyện tranh,3.5,2015,Vietnam,277000,High,Average
+33,Freakonomics,Nguyễn Nhật Ánh,Psychology,805,Truyện chữ,4.6,2019,Vietnam,105000,Low,Excellent
+34,Outliers,Nam Cao,Literature,827,Truyện chữ,4.4,2010,Vietnam,141000,Medium,Good
+35,Tipping Point,Dan Brown,Business,576,Truyện chữ,3.9,2018,USA,329000,High,Average
+36,Romeo and Juliet,Nam Cao,Romance,868,Truyện chữ,3.6,2020,Vietnam,238000,Medium,Average
+37,Pride and Prejudice,Ernest Hemingway,Classic,580,Truyện tranh,3.4,2018,UK,152000,Medium,Low
+38,Jane Eyre,Victor Hugo,Manga,578,Truyện tranh,4.7,2011,UK,142000,Medium,Excellent
+39,Wuthering Heights,Natsume Soseki,Literature,439,Truyện chữ,4.6,2017,UK,185000,Medium,Excellent
+40,Great Expectations,Agatha Christie,Self-help,419,Truyện tranh,5.0,2015,UK,235000,Medium,Excellent
+41,Kỹ Năng Giao Tiếp,Haruki Murakami,Romance,314,Truyện chữ,4.2,2024,Japan,332000,High,Good
+42,Nghệ Thuật Lãnh Đạo,Tô Hoài,Business,488,Truyện chữ,3.2,2020,Vietnam,138000,Medium,Low
+43,Tư Duy Nhanh Chậm,Ngô Tất Tố,Manga,737,Truyện tranh,4.4,2012,Japan,348000,High,Good
+44,Sức Mạnh Hiện Tại,Ernest Hemingway,Business,226,Truyện tranh,4.5,2024,USA,201000,Medium,Excellent
+45,Mindset,Tô Hoài,Business,617,Truyện chữ,3.7,2010,Vietnam,172000,Medium,Average
+46,Bá Tước Monte Cristo,Ernest Hemingway,Fantasy,190,Truyện chữ,3.8,2020,USA,303000,High,Average
+47,Ba Chàng Lính Ngự Lâm,Ngô Tất Tố,Self-help,268,Truyện chữ,4.7,2024,Vietnam,85000,Low,Excellent
+48,Những Người Khốn Khổ,Ernest Hemingway,Business,291,Truyện tranh,4.4,2015,USA,309000,High,Good
+49,Madame Bovary,Dan Brown,Literature,786,Truyện chữ,4.8,2011,USA,260000,High,Excellent
+50,Germinal,Stephen King,Classic,337,Truyện chữ,3.9,2017,USA,282000,High,Average
+51,Trăm Năm Cô Đơn,Haruki Murakami,Literature,856,Truyện chữ,4.6,2020,Japan,139000,Medium,Excellent
+52,Tình Yêu Thời Thổ Tả,Osamu Dazai,Classic,285,Truyện tranh,4.5,2023,Japan,134000,Medium,Excellent
+53,Nhà Giả Kim 2,Jane Austen,Literature,576,Truyện tranh,4.1,2019,UK,175000,Medium,Good
+54,Ficciones,Nguyễn Nhật Ánh,Business,775,Truyện chữ,4.6,2019,Vietnam,149000,Medium,Excellent
+55,Vườn Nửa Đêm,George Orwell,History,644,Truyện chữ,3.4,2016,UK,104000,Low,Low
+56,The Power of Habit,Victor Hugo,Fantasy,214,Truyện chữ,4.4,2010,France,197000,Medium,Good
+57,Deep Work,Gustave Flaubert,Self-help,835,Truyện chữ,4.1,2021,France,130000,Medium,Good
+58,Essentialism,Ernest Hemingway,Self-help,593,Truyện tranh,4.5,2017,USA,282000,High,Excellent
+59,Make Your Bed,Tô Hoài,Business,302,Truyện tranh,4.8,2019,Vietnam,86000,Low,Excellent
+60,Can't Hurt Me,George Orwell,Business,808,Truyện chữ,4.1,2017,UK,167000,Medium,Good
+61,Dế Mèn Phiêu Lưu Ký,Tô Hoài,Business,226,Truyện chữ,3.8,2015,Vietnam,106000,Low,Average
+62,Tắt Đèn,J.K. Rowling,Manga,669,Truyện tranh,3.6,2020,Japan,291000,High,Average
+63,Truyện Kiều,Nguyễn Du,Self-help,390,Truyện chữ,4.0,2022,Vietnam,315000,High,Good
+64,Lão Hạc,George Orwell,Self-help,240,Truyện chữ,4.0,2011,UK,89000,Low,Good
+65,Bỉ Vỏ,Gustave Flaubert,Fantasy,255,Truyện chữ,3.9,2018,France,80000,Low,Average
+66,Sách Trắng Tài Chính,Ernest Hemingway,Business,243,Truyện tranh,4.9,2020,USA,347000,High,Excellent
+67,Đầu Tư Chứng Khoán,Stephen King,Fantasy,725,Truyện chữ,4.4,2017,USA,270000,High,Good
+68,Bitcoin & Blockchain,Gustave Flaubert,Fantasy,205,Truyện chữ,4.7,2015,France,328000,High,Excellent
+69,Tự Do Tài Chính,Nguyễn Nhật Ánh,History,883,Truyện tranh,3.9,2017,Vietnam,131000,Medium,Average
+70,Quản Lý Dòng Tiền,Dan Brown,Fantasy,824,Truyện chữ,3.2,2015,USA,276000,High,Low
+71,Attack on Titan,George Orwell,Literature,868,Truyện chữ,3.3,2012,UK,154000,Medium,Low
+72,Demon Slayer,Stephen King,Classic,884,Truyện tranh,4.5,2011,USA,183000,Medium,Excellent
+73,My Hero Academia,Osamu Dazai,Fantasy,342,Truyện chữ,4.9,2016,Japan,320000,High,Excellent
+74,Jujutsu Kaisen,George Orwell,Business,345,Truyện tranh,3.8,2022,UK,104000,Low,Average
+75,Fullmetal Alchemist,J.K. Rowling,History,798,Truyện tranh,4.3,2022,UK,320000,High,Good
+76,Bố Già,J.K. Rowling,Romance,824,Truyện tranh,4.9,2012,UK,82000,Low,Excellent
+77,Mật Mã Da Vinci,George Orwell,Self-help,693,Truyện tranh,3.3,2024,UK,333000,High,Low
+78,Thiên Thần Và Ác Quỷ,Haruki Murakami,History,670,Truyện chữ,4.4,2012,Japan,134000,Medium,Good
+79,Điểm Hẹn,Ernest Hemingway,Literature,546,Truyện tranh,4.3,2024,USA,344000,High,Good
+80,Trại Hoa Vàng,Natsume Soseki,Manga,543,Truyện tranh,4.0,2019,Japan,223000,Medium,Good
+81,The Lean Startup,Osamu Dazai,Literature,557,Truyện chữ,4.9,2017,Japan,152000,Medium,Excellent
+82,Sprint,Victor Hugo,Psychology,572,Truyện tranh,4.5,2021,France,237000,Medium,Excellent
+83,Hooked,Victor Hugo,Literature,868,Truyện tranh,4.7,2021,France,194000,Medium,Excellent
+84,Inspired,Mark Twain,Fantasy,355,Truyện chữ,4.3,2014,USA,150000,Medium,Good
+85,Continuous Discovery,Gustave Flaubert,Business,877,Truyện tranh,5.0,2012,France,249000,Medium,Excellent
+86,Người Đua Diều,Gustave Flaubert,Manga,877,Truyện tranh,3.4,2015,Japan,332000,High,Low
+87,Ngàn Mặt Trời Rực Rỡ,George Orwell,Self-help,746,Truyện tranh,4.9,2021,UK,230000,Medium,Excellent
+88,Và Núi Vang Vọng,J.K. Rowling,Self-help,582,Truyện chữ,4.1,2010,UK,156000,Medium,Good
+89,Biển Rộng,Osamu Dazai,Self-help,204,Truyện tranh,3.3,2014,Japan,230000,Medium,Low
+90,Bầu Trời,Mark Twain,Self-help,849,Truyện chữ,3.5,2010,USA,187000,Medium,Average
+91,Thinking in Systems,Nam Cao,Self-help,704,Truyện chữ,3.8,2017,Vietnam,198000,Medium,Average
+92,The Goal,Stephen King,Business,812,Truyện tranh,3.9,2018,USA,105000,Low,Average
+93,Toyota Way,Stephen King,Manga,540,Truyện tranh,3.9,2022,Japan,108000,Low,Average
+94,Measure What Matters,Agatha Christie,Fantasy,163,Truyện tranh,3.7,2019,UK,198000,Medium,Average
+95,Radical Candor,Alexandre Dumas,History,798,Truyện tranh,4.5,2015,France,183000,Medium,Excellent
+96,Cô Gái Thứ 13,Tô Hoài,Literature,892,Truyện chữ,3.7,2012,Vietnam,178000,Medium,Average
+97,Mắt Biếc,Nam Cao,Business,327,Truyện tranh,4.1,2016,Vietnam,305000,High,Good
+98,Tôi Thấy Hoa Vàng,Gustave Flaubert,Self-help,435,Truyện tranh,3.7,2012,France,214000,Medium,Average
+99,Bức Thư Gửi Em,Natsume Soseki,Manga,155,Truyện tranh,3.8,2021,Japan,101000,Low,Average
+100,Cô Đơn Trên Đại Dương,Victor Hugo,Self-help,307,Truyện chữ,4.3,2022,France,238000,Medium,Good
